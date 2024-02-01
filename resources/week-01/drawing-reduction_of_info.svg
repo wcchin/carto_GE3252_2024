@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486, 2022-12-01)"
+   sodipodi:docname="drawing-reduction_of_info.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.1893044"
+     inkscape:cx="662.15176"
+     inkscape:cy="437.65078"
+     inkscape:window-width="2880"
+     inkscape:window-height="1712"
+     inkscape:window-x="0"
+     inkscape:window-y="50"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g10410" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="TriangleStart"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleStart-2"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-2" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke:#303446;stroke-width:1.5;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart);stop-color:#000000"
+       d="m 204.26006,237.60442 v 95.19762"
+       id="path288" />
+    <text
+       xml:space="preserve"
+       style="font-weight:900;font-size:8.46667px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Heavy';text-align:center;text-anchor:middle;fill:#303446;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="206.28435"
+       y="222.9778"
+       id="text2695"><tspan
+         sodipodi:role="line"
+         id="tspan2693"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:8.46667px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';fill:#303446;fill-opacity:1;stroke:none;stroke-width:1.5"
+         x="206.28435"
+         y="222.9778">Source </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:8.46667px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';fill:#303446;fill-opacity:1;stroke:none;stroke-width:1.5"
+         x="206.28435"
+         y="233.56114"
+         id="tspan3901">Information</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:900;font-size:8.46667px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Heavy';text-align:center;text-anchor:middle;fill:#303446;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="203.13885"
+       y="351.03946"
+       id="text2695-3"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:8.46667px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';fill:#303446;fill-opacity:1;stroke:none;stroke-width:1.5"
+         x="203.13885"
+         y="351.03946"
+         id="tspan3901-7">Thematic Map</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:8.46667px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';text-align:center;text-anchor:middle;fill:#303446;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="212.34467"
+       y="272.59357"
+       id="text6204"><tspan
+         sodipodi:role="line"
+         id="tspan6202"
+         style="text-align:start;text-anchor:start;stroke-width:1.5"
+         x="212.34467"
+         y="272.59357">reduction </tspan><tspan
+         sodipodi:role="line"
+         style="text-align:start;text-anchor:start;stroke-width:1.5"
+         x="212.34467"
+         y="283.17691"
+         id="tspan6206">of </tspan><tspan
+         sodipodi:role="line"
+         style="text-align:start;text-anchor:start;stroke-width:1.5"
+         x="212.34467"
+         y="293.76025"
+         id="tspan6208">info</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:7.05556px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';text-align:center;text-anchor:middle;fill:#303446;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="244.61711"
+       y="218.34796"
+       id="text6204-5"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Montserrat;-inkscape-font-specification:Montserrat;text-align:start;text-anchor:start;stroke-width:1.5"
+         x="244.61711"
+         y="218.34796"
+         id="tspan6208-6">- unstructured</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Montserrat;-inkscape-font-specification:Montserrat;text-align:start;text-anchor:start;stroke-width:1.5"
+         x="244.61711"
+         y="227.16742"
+         id="tspan7748">- disorganized</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Montserrat;-inkscape-font-specification:Montserrat;text-align:start;text-anchor:start;stroke-width:1.5"
+         x="244.61711"
+         y="235.98686"
+         id="tspan7006">- multi-dimensional</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Montserrat;-inkscape-font-specification:Montserrat;text-align:start;text-anchor:start;stroke-width:1.5"
+         x="244.61711"
+         y="244.80632"
+         id="tspan7008">- mixed of information</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:7.05556px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';text-align:center;text-anchor:middle;fill:#303446;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="244.53244"
+       y="332.44537"
+       id="text6204-5-2"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Montserrat;-inkscape-font-specification:Montserrat;text-align:start;text-anchor:start;stroke-width:1.5"
+         x="244.53244"
+         y="332.44537"
+         id="tspan7006-2">- informative</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Montserrat;-inkscape-font-specification:Montserrat;text-align:start;text-anchor:start;stroke-width:1.5"
+         x="244.53244"
+         y="341.26483"
+         id="tspan7008-7">- clear patterns</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Montserrat;-inkscape-font-specification:Montserrat;text-align:start;text-anchor:start;stroke-width:1.5"
+         x="244.53244"
+         y="350.08426"
+         id="tspan8556">- self-contained</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Montserrat;-inkscape-font-specification:Montserrat;text-align:start;text-anchor:start;stroke-width:1.5"
+         x="244.53244"
+         y="358.90372"
+         id="tspan7816">- readable</tspan></text>
+    <path
+       style="fill:none;stroke:#303446;stroke-width:1.5;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart-2);stop-color:#000000"
+       d="m 107.30118,75.572241 h 95.19761"
+       id="path288-8"
+       inkscape:export-filename="drawing-reduction_of_info.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:8.46667px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';text-align:center;text-anchor:middle;fill:#303446;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="116.05668"
+       y="87.883911"
+       id="text6204-2"><tspan
+         sodipodi:role="line"
+         style="text-align:start;text-anchor:start;stroke-width:1.5"
+         x="116.05668"
+         y="87.883911"
+         id="tspan6208-1">reduction of info</tspan></text>
+    <g
+       id="g10410"
+       transform="translate(-37.81735,37.061683)">
+      <text
+         xml:space="preserve"
+         style="font-weight:900;font-size:8.46667px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Heavy';text-align:center;text-anchor:middle;fill:#303446;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+         x="97.647995"
+         y="40.930851"
+         id="text2695-9"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:8.46667px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';fill:#303446;fill-opacity:1;stroke:none;stroke-width:1.5"
+           x="97.647995"
+           y="40.930851"
+           id="tspan3901-3">Source Information</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:7.05556px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';text-align:center;text-anchor:middle;fill:#303446;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+         x="58.126602"
+         y="54.896812"
+         id="text6204-5-9"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Montserrat;-inkscape-font-specification:Montserrat;text-align:start;text-anchor:start;stroke-width:1.5"
+           x="58.126602"
+           y="54.896812"
+           id="tspan6208-6-4">- unstructured</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Montserrat;-inkscape-font-specification:Montserrat;text-align:start;text-anchor:start;stroke-width:1.5"
+           x="58.126602"
+           y="63.716263"
+           id="tspan7748-7">- disorganized</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Montserrat;-inkscape-font-specification:Montserrat;text-align:start;text-anchor:start;stroke-width:1.5"
+           x="58.126602"
+           y="72.535713"
+           id="tspan7006-8">- multi-dimensional</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Montserrat;-inkscape-font-specification:Montserrat;text-align:start;text-anchor:start;stroke-width:1.5"
+           x="58.126602"
+           y="81.355164"
+           id="tspan7008-4">- mixed information</tspan></text>
+    </g>
+    <g
+       id="g10401"
+       transform="translate(41.815695,38.619552)">
+      <text
+         xml:space="preserve"
+         style="font-weight:900;font-size:8.46667px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Heavy';text-align:center;text-anchor:middle;fill:#303446;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+         x="204.11803"
+         y="39.372982"
+         id="text2695-3-6"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:8.46667px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';fill:#303446;fill-opacity:1;stroke:none;stroke-width:1.5"
+           x="204.11803"
+           y="39.372982"
+           id="tspan3901-7-1">Thematic Map</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:7.05556px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';text-align:center;text-anchor:middle;fill:#303446;fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+         x="176.57765"
+         y="54.914452"
+         id="text6204-5-2-5"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Montserrat;-inkscape-font-specification:Montserrat;text-align:start;text-anchor:start;stroke-width:1.5"
+           x="176.57765"
+           y="54.914452"
+           id="tspan7006-2-0">- informative</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Montserrat;-inkscape-font-specification:Montserrat;text-align:start;text-anchor:start;stroke-width:1.5"
+           x="176.57765"
+           y="63.733902"
+           id="tspan7008-7-3">- clear patterns</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Montserrat;-inkscape-font-specification:Montserrat;text-align:start;text-anchor:start;stroke-width:1.5"
+           x="176.57765"
+           y="72.553352"
+           id="tspan8556-6">- self-contained</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Montserrat;-inkscape-font-specification:Montserrat;text-align:start;text-anchor:start;stroke-width:1.5"
+           x="176.57765"
+           y="81.372803"
+           id="tspan7816-1">- readable</tspan></text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486, 2022-12-01)"
+   sodipodi:docname="drawing-visualization_and_cartography.svg"
+   inkscape:export-filename="drawing-visualization_and_cartography.png"
+   inkscape:export-xdpi="200"
+   inkscape:export-ydpi="200"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.2538047"
+     inkscape:cx="533.17714"
+     inkscape:cy="309.85687"
+     inkscape:window-width="2880"
+     inkscape:window-height="1712"
+     inkscape:window-x="0"
+     inkscape:window-y="50"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient12223">
+      <stop
+         style="stop-color:#11111b;stop-opacity:1;"
+         offset="0"
+         id="stop12219" />
+      <stop
+         style="stop-color:#dce0e8;stop-opacity:1"
+         offset="1"
+         id="stop12221" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1632">
+      <stop
+         style="stop-color:#303446;stop-opacity:1;"
+         offset="0"
+         id="stop1628" />
+      <stop
+         style="stop-color:#c6d0f5;stop-opacity:0;"
+         offset="1"
+         id="stop1630" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1632"
+       id="linearGradient1634"
+       x1="54.805248"
+       y1="95.070839"
+       x2="262.16577"
+       y2="95.070839"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.2428279,0,0,1.4724314,-45.518177,-42.867511)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient12223"
+       id="linearGradient12225"
+       x1="310.09277"
+       y1="138.99303"
+       x2="17.722017"
+       y2="94.053925"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.81770796,-4.3878743,22.359745)" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:url(#linearGradient1634);fill-opacity:1;stroke-width:0.405829;stop-color:#000000"
+       id="rect234"
+       width="280.36237"
+       height="210.27177"
+       x="9.3415356"
+       y="-0.36452687"
+       inkscape:export-filename="drawing-visualization_and_cartography.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:url(#linearGradient12225);stroke-width:2.17025;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       d="m 19.572828,72.936281 c 37.107794,0 110.151352,12.636558 130.826342,41.918789 22.44355,31.78707 92.90918,41.28737 130.06543,41.28737"
+       id="path3337"
+       sodipodi:nodetypes="csc" />
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:6.35px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';text-align:center;text-anchor:middle;fill:#eff1f5;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="33.345825"
+       y="66.84124"
+       id="text8324"><tspan
+         sodipodi:role="line"
+         id="tspan8322"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';fill:#eff1f5;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         x="33.345825"
+         y="66.84124">Exploration</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:8.46667px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';text-align:center;text-anchor:middle;fill:#eff1f5;fill-opacity:1;stroke:#4c4f69;stroke-width:0.1;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="69.800476"
+       y="192.8262"
+       id="text8324-6"><tspan
+         sodipodi:role="line"
+         id="tspan8322-2"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:8.46667px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Ultra-Bold';fill:#eff1f5;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         x="69.800476"
+         y="192.8262">PRIVATE REALM</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:6.35px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';text-align:center;text-anchor:middle;fill:#eff1f5;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="110.08214"
+       y="78.179466"
+       id="text8324-3"><tspan
+         sodipodi:role="line"
+         id="tspan8322-6"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';fill:#eff1f5;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         x="110.08214"
+         y="78.179466">Confirmation</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:6.35px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';text-align:center;text-anchor:middle;fill:#4c4f69;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="183.33345"
+       y="152.35345"
+       id="text8324-3-7"><tspan
+         sodipodi:role="line"
+         id="tspan8322-6-5"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';fill:#4c4f69;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         x="183.33345"
+         y="152.35345">Synthesis</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:8.46667px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';text-align:center;text-anchor:middle;fill:#4c4f69;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="227.76743"
+       y="192.8262"
+       id="text8324-3-7-9"><tspan
+         sodipodi:role="line"
+         id="tspan8322-6-5-1"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:8.46667px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Ultra-Bold';fill:#4c4f69;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         x="227.76743"
+         y="192.8262">PUBLIC REALM</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:9.87778px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';text-align:center;text-anchor:middle;fill:#eff1f5;fill-opacity:1;stroke:#4c4f69;stroke-width:0.1;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="73.739304"
+       y="31.196884"
+       id="text8324-6-7"><tspan
+         sodipodi:role="line"
+         id="tspan8322-2-5"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:9.87778px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Heavy';fill:#eff1f5;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         x="73.739304"
+         y="31.196884">Visual Thinking</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:9.87778px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';text-align:center;text-anchor:middle;fill:#4c4f69;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="224.61475"
+       y="32.125397"
+       id="text8324-3-7-9-9"><tspan
+         sodipodi:role="line"
+         id="tspan8322-6-5-1-2"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:9.87778px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Heavy';fill:#4c4f69;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         x="224.61475"
+         y="32.125397">Visual Communication</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:6.35px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';text-align:center;text-anchor:middle;fill:#4c4f69;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="264.24716"
+       y="165.25162"
+       id="text8324-3-7-3"><tspan
+         sodipodi:role="line"
+         id="tspan8322-6-5-5"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';fill:#4c4f69;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         x="264.24716"
+         y="165.25162">Presentation</tspan></text>
+  </g>
+</svg>
