@@ -1,0 +1,841 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Week 03 - Elements of and distortions on map projections</title>
+    <meta charset="utf-8">
+    <script>
+      MathJax = {
+        tex: {
+          inlineMath: [['$', '$'], ['\\(', '\\)']]
+        }
+      };
+      </script><script type="text/javascript" id="MathJax-script" async src="remarkjs/mathjax-svg.js"></script>
+    <link rel="stylesheet" href="remarkjs/sidebar.css">
+    <link rel="stylesheet" href="remarkjs/searchMod.css">
+    <link rel="stylesheet" href="remarkjs/Catppuccin.css">
+  </head>
+  <body>
+    
+    <div id="mySidenav" class="sidenav">
+      <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+      <!-- <a href="#">About</a> -->
+      <div class="tabs"><div class="tab"><input type="radio" name="css-tabs" id="tab-0" checked class="tab-switch"><label for="tab-0" class="tab-label"> 0 </label><div class="tab-content"><a href="#1">1- 03. Elements of and distortions on map projections</a><a href="#2">2-# Objectives</a><a href="#3">3-# The Distorted Perception of the World</a><a href="#4">4-## The True Size Of</a><a href="#5">5-## The North Korean Missle Ranges (2003 The Economist)</a><a href="#6">6-## The Shortest Route</a><a href="#7">7-# The Geographic Coordinate System</a><a href="#8">8-## From Geographic Phenomenon to Map</a><a href="#9">9-## Reference Globe</a><a href="#10">10-## Reference Globe</a><a href="#11">11-## Reference Globe</a><a href="#12">12-## Reference Globe</a><a href="#12">12-### Example of ellipsoid/spheroid table</a><a href="#13">13-## Reference Globe</a><a href="#14">14-## Reference Globe</a></div></div><div class="tab"><input type="radio" name="css-tabs" id="tab-1"  class="tab-switch"><label for="tab-1" class="tab-label"> 1 </label><div class="tab-content"><a href="#14">14-### Global Datum</a><a href="#15">15-## Reference Globe</a><a href="#15">15-### Geographic Coordinate System</a><a href="#16">16-## Reference Globe</a><a href="#16">16-### Geographic Coordinate System</a><a href="#17">17-## Reference Globe</a><a href="#17">17-### Global Datum vs. Local Datum</a><a href="#18">18-## Reference Globe</a><a href="#18">18-### Local Datum</a><a href="#19">19-## Reference Globe</a><a href="#19">19-### Singapore Datum</a><a href="#20">20-# The Projected Coordinate System</a><a href="#21">21-## What is Projection</a><a href="#22">22-## What is Projection</a><a href="#23">23-## Planar Projection</a></div></div><div class="tab"><input type="radio" name="css-tabs" id="tab-2"  class="tab-switch"><label for="tab-2" class="tab-label"> 2 </label><div class="tab-content"><a href="#24">24-## Planar Projection</a><a href="#25">25-## Planar Projection</a><a href="#26">26-## Types of Developable Surfaces</a><a href="#27">27-## Types of Developable Surfaces</a><a href="#28">28-## The Mercator Projection (Cylindrical)</a><a href="#29">29-## Lambert Conformal Conic Alternative (Conical)</a><a href="#30">30-## Aspects of Projections</a><a href="#31">31-## Case of Projections</a><a href="#32">32-## Case of Projections (Secant)</a><a href="#33">33-## Properties of Map Projections</a><a href="#34">34-## Properties of Map Projections</a><a href="#35">35-## Properties of Map Projections</a><a href="#36">36-## Properties of Map Projections</a><a href="#37">37-## Properties of Map Projections</a><a href="#38">38-## Tissot Indicatrix</a></div></div><div class="tab"><input type="radio" name="css-tabs" id="tab-3"  class="tab-switch"><label for="tab-3" class="tab-label"> 3 </label><div class="tab-content"><a href="#39">39-## Tissot Indicatrix</a><a href="#40">40-## Tissot Indicatrix</a><a href="#41">41-## Tissot Indicatrix</a><a href="#42">42-## Tissot Indicatrix</a><a href="#43">43-## Tissot Indicatrix</a><a href="#44">44-# Choosing a Projection</a><a href="#45">45-## Choosing a Projection</a><a href="#46">46-## Choosing a Projection</a><a href="#47">47-### Ecological Value, Korea in the World: an example</a><a href="#48">48-### Early human migrations according to mitochondrial population genetics </a><a href="#49">49-## For National,  Regional or Local Area</a><a href="#50">50-## For Singapore</a><a href="#50">50-### SVY21 / Singapore TM</a><a href="#51">51-## False Origin</a><a href="#52">52-## In summary</a></div></div></div>
+    </div>
+    <!--
+    <div class="menu-toggle" id="menu-toggle" onclick="openNav(this)">
+      <div class="bar1"></div>
+      <div class="bar2"></div>
+      <div class="bar3"></div>
+  </div>-->
+    
+    
+    <div id="searchModal" class="modal">
+
+      <!-- Modal content -->
+      <div class="modal-content">
+        <div class="modal-header">
+          <span class="closeSearch">&times;</span>
+        </div>
+        <div class="modal-body">
+          <input type="text" id="searchText" name="searchText" placeholder="Search" onkeyup="searching(this);" >
+          <button id="clearSearch" type="button" onclick="clearSearch();">Clear</button>
+        </div>
+        <div class="modal-footer">
+          <div class="searchResult" id="searchResult">
+            <span>Searching ...</span>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <textarea id="source">
+
+name: inverse
+layout: true
+class: center, middle, inverse
+---
+
+# 03. Elements of and distortions on map projections
+<br />
+
+.x-large.bold[Dr. FENG Chen-Chieh]  
+.x-large.bold[Dr. CHIN Wei Chien Benny] (.italic[week 1 -- week 3])  
+.underline[wcchin@nus.edu.sg]
+
+.footnote.wide[2024-01-30 Department of Geography]
+.headnote.wide.bold[GE3252 Cartography and Geovisualization]
+
+---
+layout: false
+class: left, middle
+
+.split-40[.column[
+## Objectives
+].column[.larger[
+- To know how geographic phenomena are geocoded with geographic coordinates
+- To learn the concepts and ways of map projection
+]]]
+
+---
+class: center, middle, inverse
+
+## The Distorted Perception of the World
+------
+.wide[ True Size .dot[] Missle Range .dot[] Shortest Route ]
+
+---
+class: right, top
+background-image: url(resources/week-03/true_size_of.png)
+
+### The True Size Of
+
+.footnote-right[Map source: [The True Size Of](https://www.thetruesize.com/)]
+
+---
+class: center, middle
+
+### The North Korean Missle Ranges (2003 The Economist)
+.split-50[.column[
+<img src="resources/week-03/economist-wrong-buffer.jpg" width="100%">
+].column[
+<img src="resources/week-03/economist-corrected.jpg" width="100%">
+]]
+.footnote[[Maps](https://georeferenced.wordpress.com/2014/05/22/worldmapblunders/), [ArcUser Online Discussion](https://www.esri.com/news/arcuser/0111/geodesic.html)]
+
+---
+class: center, middle
+
+### The Shortest Route
+.split-50[.column[
+<img src="resources/week-03/shortest_route.png" width="100%">
+].column[
+<img src="resources/week-03/great_circle_route.png" width="100%">
+]]
+.footnote[[Great Circle Map](https://www.greatcirclemap.com/?routes=SCL-ULN)]
+
+---
+class: center, middle, inverse
+
+## The Geographic Coordinate System
+------
+.wide[ Geoid .dot[] Ellipsoid .dot[] Datum ]
+
+---
+class: center, middle
+### From Geographic Phenomenon to Map
+<img src="resources/week-03/geocode_project.png" width="100%">
+
+---
+class: left, middle
+
+.split-20[.column[
+### Reference Globe
+- Geoid
+].column[
+The geoid is defined as the surface of the earth's gravity field, which is approximately the same as .bold[Mean Sea Level (MSL)]. It is perpendicular to the direction of gravity pull. Since the mass of the earth is not uniform at all points, and the direction of gravity changes, the shape of the geoid is irregular. 
+
+A hypothetical surface representing the form the earth's oceans would take if there were no land and the water were free to respond to the earth's gravitational and centrifugal forces. The resulting geoid is irregular and .bold[varies from a perfect sphere] by as much as 75 meters above and 100 meters below its surface. [ArcUser Online](http://www.esri.com/news/arcuser/0703/geoid1of3.html)
+
+<img src="resources/week-03/geoid_from_2sides.png" width="80%">  
+Geoid (red) view from equator (left) and north pole (right).
+]]
+
+---
+class: left, middle
+
+.split-20[.column[
+### Reference Globe
+- Geoid
+].column[
+<img src="resources/week-03/ww15mgh.jpg" width="100%">  
+[Geoid Height, Global WGS-84/EGM96 grid](https://geodesy.noaa.gov/GEOID/GEOID96/geo-indx.html)
+
+]]
+
+---
+class: left, middle
+
+.split-20[.column[
+### Reference Globe
+- Geoid
+- Ellipsoid
+].column[
+Ellipsoid/Spheroid – a mathematical approximation of the Earth’s shape from the Geoid. 
+
+.split-60[.column[
+<img src="resources/week-03/ellipsoid_illus.png" width="100%"> 
+
+].column[
+<img src="resources/week-03/OblateSpheroid.png" width="100%"> 
+
+]]]]
+
+---
+class: left, middle
+
+.split-20[.column[
+### Reference Globe
+- Geoid
+- Ellipsoid
+].column[
+#### Example of ellipsoid/spheroid table
+<img src="resources/week-03/ellipsoid_compare.png" width="100%"> 
+
+.footnote-right[[Table Link](https://desktop.arcgis.com/en/arcmap/latest/map/projections/about-the-geoid-ellipsoid-spheroid-and-datum-and-h.htm)]
+
+]]
+
+---
+class: left, middle
+
+.split-20[.column[
+### Reference Globe
+- Geoid
+- Ellipsoid
+- Datum
+].column[
+<img src="resources/week-03/prepare_for_projection.png" width="100%"> 
+
+]]
+
+---
+class: left, middle
+
+.split-20[.column[
+### Reference Globe
+- Geoid
+- Ellipsoid
+- Datum
+].column[
+#### Global Datum
+
+While a spheroid approximates the shape of the earth, a datum defines the position of the spheroid relative to the center of the earth. A datum provides a frame of reference for measuring locations on the surface of the earth. It defines the origin and orientation of latitude and longitude lines.
+
+.split-50[.column[
+<img src="resources/week-03/Axis-Spheroid2.png" width="100%"> 
+].column[
+WGS84: 
+- semi-major axis (equatorial)  
+  = 6378137.0 m
+- semi-minor axis (polar):  
+  = 6356752.3 m
+- mean Earth radii  
+  $\approx$ 6371008.8 m
+- origin: center of the earth  
+- [EPSG:4326](https://epsg.io/4326)
+]]
+.footnote-right[[Some materials](https://gisgeography.com/ellipsoid-oblate-spheroid-earth/)]
+
+]]
+
+---
+class: left, middle
+
+.split-20[.column[
+### Reference Globe
+- Geoid
+- Ellipsoid
+- Datum
+].column[
+#### Geographic Coordinate System
+
+<img src="resources/week-03/latlng_illus.png" width="100%"> 
+
+]]
+
+---
+class: left, middle
+
+.split-20[.column[
+### Reference Globe
+- Geoid
+- Ellipsoid
+- Datum
+].column[
+#### Geographic Coordinate System
+
+<img src="resources/week-03/prime_meridian_photo.png" width="60%"> 
+
+]]
+
+---
+class: left, middle
+
+.split-20[.column[
+### Reference Globe
+- Geoid
+- Ellipsoid
+- Datum
+].column[
+#### Global Datum vs. Local Datum
+
+<img src="resources/week-03/datum_local_global.png" width="100%"> 
+
+.footnote-right[[Description of Datums from ESRI](https://desktop.arcgis.com/en/arcmap/latest/map/projections/datums.htm#GUID-E49F0E1B-8F0D-4704-8384-735EA002FDDC)]
+
+]]
+
+---
+class: left, middle
+
+.split-20[.column[
+### Reference Globe
+- Geoid
+- Ellipsoid
+- Datum
+].column[
+#### Local Datum
+
+Changing the datum, or more correctly, the geographic coordinate system, will result in different coordinates of the same geometry. E.g., for a point in Redlands, California:
+
+<img src="resources/week-03/datum_example.png" width="100%"> 
+
+.footnote-right[[Description of Datums from ESRI](https://desktop.arcgis.com/en/arcmap/latest/map/projections/datums.htm#GUID-E49F0E1B-8F0D-4704-8384-735EA002FDDC)]
+
+]]
+
+---
+class: left, middle
+
+.split-20[.column[
+### Reference Globe
+- Geoid
+- Ellipsoid
+- Datum
+].column[
+#### Singapore Datum
+
+SVY21 ([EPSG:4757](https://epsg.io/4757)), see [SLA](https://app.sla.gov.sg/sirent/About/PlaneCoordinateSystem) for details
+- since 2004
+- based on WGS84
+- reference point:
+    - BASE7 (located at Pillar 7 Pierce Reservoir) 
+    - latitude: 1° 22' 02.915414" N
+    - longitude: 103° 49' 31.975227" E
+
+<img src="resources/week-03/svy21_ref_pt.png" width="80%"> 
+.footnote-left[[Google Map](https://www.google.com/maps/place/1°22'02.9"N+103°49'32.0"E/@1.3499648,103.7334232,12.04z)]
+]]
+
+---
+class: center, middle, inverse
+
+## The Projected Coordinate System
+------
+.wide[ Point of Projection .dot[] Developable Surface .dot[] Standard Point/Line .dot[] Distortion ]
+
+---
+class: left, middle
+
+.split-30[.column[
+### What is Projection
+Map projection is the systematic transformation of the curved, 3-dimensional sphere surface of the planet into flat, 2-dimensional plane.
+].column[
+
+<img src="resources/week-03/demo_plannar.png" width="70%"> 
+
+
+]]
+
+---
+class: left, middle
+
+.split-30[.column[
+### What is Projection
+Terminology
+
+- Reference Globe
+- Point of Projection
+- Developable Surface
+- Standard Point (Line...)
+
+].column[
+
+<img src="resources/week-03/projection_basic_concept.png" width="80%"> 
+
+
+]]
+
+---
+class: left, middle
+
+.split-30[.column[
+### Planar Projection
+Points of projection
+].column[
+
+<img src="resources/week-03/point_of_projections.png" width="70%"> 
+
+
+]]
+
+---
+class: left, middle
+
+.split-30[.column[
+### Planar Projection
+Points of projection
+].column[
+
+<img src="resources/week-03/point_of_projection_grid.png" width="90%"> 
+
+
+]]
+
+---
+class: left, middle
+
+.split-30[.column[
+### Planar Projection
+An example of Orthographic Projection centered at North Korea.  
+The concentric circles indicate the distances (1,000km increment) from North Korea.
+].column[
+
+<img src="resources/week-03/orthographic_azimuthal.png" width="80%"> 
+
+.footnote-left.small[[Distances from North Korea by Jason Davies](https://www.jasondavies.com/maps/north-korea-distance/)]
+
+]]
+
+---
+class: left, middle
+
+.split-30[.column[
+### Types of Developable Surfaces
+- a. Cylindrical
+- b. Conic
+- c. Planar (Azimuthal)
+
+].column[
+
+<img src="resources/week-03/types_of_developable_surface.jpg" width="80%"> 
+
+.footnote-left.small[[Scale and Projections](https://open.lib.umn.edu/mapping/chapter/3-scale-and-projections/)]
+
+]]
+
+---
+class: left, middle
+
+.split-30[.column[
+### Types of Developable Surfaces
+- a. Cylindrical
+- b. Conic
+- c. Planar (Azimuthal)
+
+red lines/points indicate the line/point of contact, i.e., standard line/point
+
+].column[
+
+<img src="resources/week-03/types_of_developable_surface2.jpg" width="80%"> 
+
+.footnote-left.small[[Scale and Projections](https://open.lib.umn.edu/mapping/chapter/3-scale-and-projections/)]
+
+]]
+
+---
+class: right, bottom
+background-image: url(resources/week-03/Mercator_projection_Square.JPG)
+
+### The Mercator Projection (Cylindrical)
+
+.footnote-left.small[Map source: [Wikipedia](https://en.wikipedia.org/wiki/Mercator_projection), [PROJ.org](https://proj.org/en/9.3/operations/projections/merc.html)]
+
+
+---
+class: center, top
+background-image: url(resources/week-03/Lambert_conformal_conic_a.png)
+
+### Lambert Conformal Conic Alternative (Conical)
+
+.footnote-left.small[Map source: [The Morphing Map Project](https://wcchin.github.io/map_projection/world_map.html), [PROJ.org](https://proj.org/en/9.3/operations/projections/lcca.html)]
+
+---
+class: left, middle
+
+.split-30[.column[
+### Aspects of Projections
+The placement of the Developable Surfaces to change the standard line/point. 
+
+A standard line is a line on a sphere or spheroid that .red[has no length compression or expansion] after being projected; usually a standard parallel or central meridian. 
+
+].column[
+
+<img src="resources/week-03/aspects_of_projection_standards.png" width="90%"> 
+
+.footnote-left.small[[ArcGIS: Projection Types](https://desktop.arcgis.com/en/arcmap/latest/map/projections/projection-types.htm)]
+
+]]
+
+---
+class: left, middle
+
+.split-30[.column[
+### Case of Projections
+- Tangent
+- Secant
+
+The line along standard line (parallel) has no compression/expansion. Adding an extra standard line would introduce more places along the standard lines that preserved, making the nearby areas to have less expansion/compression.  
+
+].column[
+
+<img src="resources/week-03/tangent_secant_distortion.png" width="100%"> 
+
+.footnote-left.small[[Wikipedia: Secant plane](https://en.wikipedia.org/wiki/Secant_plane)]
+
+]]
+
+---
+class: left, middle
+
+.split-30[.column[
+### Case of Projections (Secant)
+- scale exaggerated (expansion)
+- scale compressed 
+
+Example of projection with secant: [Universal Tranverse Mercator](https://gisgeography.com/utm-universal-transverse-mercator-projection/). In UTM, the globe is splited by 6 degrees, i.e., into 60 North and 60 South zones. For each zone, the central meridian is the central vertical (north-south) line and the standard lines locate at 180 km away from both sides of the central line. 
+
+].column[
+
+<img src="resources/week-03/secant_cylindrial.png" width="60%"> 
+
+]]
+
+---
+class: left, middle
+
+.split-30[.column[
+### Properties of Map Projections
+.footnote-left.small[[Types of Map Projections](https://www.geographyrealm.com/types-map-projections/)]
+].column[
+- Equivalence (Equal-area):
+    - preserve the correct proportions of areas
+    - e.g., Albers Equal-Area Conic projection, Mollweide projection
+- Conformality: 
+    - maintain local angles and shapes
+    - e.g., Mercator projection, Lambert Conformal Conic projection
+- Equidistant projections: 
+    - retain true distances from one or two points to all other points
+    - e.g., Azimuthal Equidistant projection
+- Azimuthal projections: 
+    - preserve directions from a central point
+    - e.g., some conformal projection, orthomorphic projection, azimuthal projection.
+- Compromise projections: 
+    - attempt to balance various distortions inherent in map projections
+    - e.g., Robinson projection, Winkel Tripel projection
+]]
+
+---
+class: left, middle
+
+.split-50[.column[
+### Properties of Map Projections
+- Equivalence (Equal-area)
+].column[
+
+<img src="resources/week-03/equal_area_greenland_example.png" width="80%"> 
+
+]]
+
+
+---
+class: left, middle
+
+.split-50[.column[
+### Properties of Map Projections
+- Equivalence (Equal-area)
+- Conformality
+
+.footnote-left[[Wikipedia: Conformal map](https://en.wikipedia.org/wiki/Conformal_map)]
+].column[
+
+<img src="resources/week-03/conformality.png" width="50%"> 
+
+]]
+
+
+---
+class: left, middle
+
+.split-30[.column[
+### Properties of Map Projections
+- Equivalence (Equal-area)
+- Conformality
+- Equidistant & Azimuthal
+
+Azimuthal Equidistant Projection centered at North Korea
+
+.footnote-left.small[[Distances from North Korea by Jason Davies](https://www.jasondavies.com/maps/north-korea-distance/)]
+].column[
+
+<img src="resources/week-03/azimuthal_equidistant.png" width="90%"> 
+
+]]
+
+---
+class: left, middle
+
+.split-30[.column[
+### Properties of Map Projections
+- Equivalence (Equal-area)
+- Conformality
+- Equidistant & Azimuthal
+- Compromised Projection
+
+The Robinson projection primary purpose is to create visually appealing maps of the entire world. It does not eliminate any type of distortion, but it keeps the levels of all types of distortion relatively low over most of the map.
+
+.footnote-left.small[[The Morphing Map Project](https://wcchin.github.io/map_projection/robinson_refline.html)]
+].column[
+
+<img src="resources/week-03/robinson_projection.png" width="90%">   
+Robinson Projection centered at 150 E.  
+
+Compromised Projections strike a balance between the distortion in area and angle.
+The combined distortion is usually less than if a single property was preserved. 
+]]
+
+---
+class: left, middle
+
+.split-30[.column[
+### Tissot Indicatrix
+A measurement / visualization of distortions
+].column[
+Tissot Indicatrix is a way to visually explore and understand distortion of different projections. 
+
+A symbol representing a really small point on the reference globe with unit radius. 
+
+<img src="resources/week-03/tissot_indicatrix_illus.png" width="90%">   
+
+
+]]
+
+---
+class: left, middle
+
+.split-30[.column[
+### Tissot Indicatrix
+A measurement / visualization of distortions
+- change in area (size)
+- change in angle (orientation)
+
+].column[
+
+<img src="resources/week-03/tissot_indicatrix_shapes.png" width="90%">   
+
+]]
+
+---
+class: left, middle
+
+.split-20[.column[
+### Tissot Indicatrix
+- .red[Robinson]
+
+.footnote-left.small[[The Morphing Map Project](https://wcchin.github.io/map_projection/world_map_tissot.html) | [proj.org](https://proj.org/en/9.3/operations/projections/robin.html) ]
+
+
+].column[
+
+<img src="resources/week-03/tissot_robinson.png" width="100%">   
+
+]]
+
+---
+class: left, middle
+
+.split-20[.column[
+### Tissot Indicatrix
+- Robinson
+- .red[Mollweide]
+
+.footnote-left.small[[The Morphing Map Project](https://wcchin.github.io/map_projection/world_map_tissot.html) | [proj.org](https://proj.org/en/9.3/operations/projections/moll.html) ]
+
+
+].column[
+
+<img src="resources/week-03/tissot_mollweide.png" width="100%">   
+
+]]
+
+---
+class: left, middle
+
+.split-20[.column[
+### Tissot Indicatrix
+- Robinson
+- Mollweide
+- .red[Winkel Tripel]
+
+.footnote-left.small[[The Morphing Map Project](https://wcchin.github.io/map_projection/world_map_tissot.html) | [proj.org](https://proj.org/en/9.3/operations/projections/wintri.html) ]
+
+].column[
+
+<img src="resources/week-03/tissot_winkeltripel.png" width="100%">   
+
+]]
+
+---
+class: left, middle
+
+.split-20[.column[
+### Tissot Indicatrix
+- Robinson
+- Mollweide
+- Winkel Tripel
+- .red[van der Grinten]
+
+.footnote-left.small[[The Morphing Map Project](https://wcchin.github.io/map_projection/world_map_tissot.html) | [proj.org](https://proj.org/en/9.3/operations/projections/vandg.html) ]
+
+].column[
+
+<img src="resources/week-03/tissot_vandergrinten.png" width="80%">   
+
+]]
+
+
+
+---
+class: center, middle, inverse
+
+## Choosing a Projection
+------
+.wide[Consideration .dot[] Local Projection ]
+
+---
+class: left, middle
+
+.split-30[.column[
+### Choosing a Projection
+].column[
+- Overall purpose of the map
+- Geographic region and extent
+- Symbolization method: dot-density? angular relationship?
+- Intended audience
+
+]]
+
+---
+class: left, middle
+
+.split-30[.column[
+### Choosing a Projection
+].column[
+Projection properties 
+- equivalency, conformality, equidistance, azimuthality
+- Suitable to the map’s purpose?
+- Which ones must be .red[preserved], and which can be .red[sacrificed]? 
+- Or, is .red[compromise] of all for the best choice?
+
+Characteristics 
+- e.g. constant scale, interrupted, centered on a city
+
+Deformational patterns across mapped area
+- Is .red[amount and location] of deformation acceptable?
+
+Projection center
+- Can the projection be .red[centered] easily on the mapped area?
+
+Familiarity
+- Is appearance .red[recognizable] to map reader or will it confuse?
+
+]]
+
+---
+class: center, middle
+
+#### Ecological Value, Korea in the World: an example
+
+<img src="resources/week-03/south_korea_flyway_partnership.png" width="100%">   
+
+.footnote-right[[Ecological Value, Korea in the World](http://nationalatlas.ngii.go.kr/pages/page_2318.php#prettyPhoto)]
+
+---
+class: center, middle
+
+#### Early human migrations according to mitochondrial population genetics 
+
+<img src="resources/week-03/World_map_of_prehistoric_human_migrations.jpg" width="68%">   
+(numbers are millennia before present)
+
+.footnote-left.small[[Wikipedia: Dymaxion Map/Fuller Map](https://en.wikipedia.org/wiki/Dymaxion_map), [This Is The Most Accurate Flat Map Of Earth](https://www.iflscience.com/this-is-the-most-accurate-flat-map-of-earth-72602), [AuthaGraph](http://www.authagraph.com/projects/description/%E3%80%90%E4%BD%9C%E5%93%81%E8%A7%A3%E8%AA%AC%E3%80%91%E8%A8%98%E4%BA%8B01/?lang=en), [This Weird Globe-Folding Map Isn't Perfect, But It's Close](https://www.wired.com/2016/11/weird-globe-folding-map-isnt-perfect-close/)]
+
+---
+class: left, middle
+
+.split-30[.column[
+### For National,  Regional or Local Area
+
+The shape of the area/extent is a key point to decide the projections. 
+
+].column[
+<img src="resources/week-03/projections_new_stateplaneb.png" width="80%">   
+]]
+
+---
+class: left, middle
+
+.split-30[.column[
+### For Singapore
+
+].column[
+#### SVY21 / Singapore TM
+
+- Projection: Tranverse Mercator
+- Origin: 103° 50' 00 E, 1° 22' 00" N
+- False Origin ( Easting ): 28001.642 m
+- False Origin ( Northing ): 38744.572 m
+- Scale Factor at Central Meridian: 1.00000000
+- [EPSG: 3414](https://epsg.io/3414)
+- [SLA link](https://app.sla.gov.sg/sirent/About/PlaneCoordinateSystem)
+- PROJ.4 string: 
+    - `+proj=tmerc +lat_0=1.36666666666667 +lon_0=103.833333333333 +k=1 +x_0=28001.642 +y_0=38744.572 +ellps=WGS84 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs +type=crs`
+
+
+]]
+
+---
+class: left, middle
+
+.split-30[.column[
+### False Origin
+
+].column[
+<img src="resources/week-03/false_origin.png" width="80%">   
+The origin point is the central point of the projection grid system where all points are referenced. The false origin differs from the true origin in order to exclude negative values from the coordinates. A false easting and northing are used to prevent the use of negative numbers. 
+
+The distortion/scale factors would not be affected by the false origin settings. 
+]]
+
+---
+class: center, middle
+### In summary
+<img src="resources/week-03/geocode_project.png" width="100%">
+
+
+
+
+    </textarea>
+
+    <script src="remarkjs/minisearch.min.js"  type="text/javascript"></script>
+    <script>
+      const contentIndex = [{'id': 1, 'title': ' # 03. Elements of and distortions on map projections', 'text': '  <br />  .x-large.bold[Dr. FENG Chen-Chieh] .x-large.bold[Dr. CHIN Wei Chien Benny] (.italic[week 1 -- week 3]) .underline[wcchin@nus.edu.sg]  .footnote.wide[2024-01-30 Department of Geography] .headnote.wide.bold[GE3252 Cartography and Geovisualization] '}, {'id': 2, 'title': ' ## Objectives', 'text': ' layout: false class: left, middle  .split-40[.column[ ].column[.larger[ - To know how geographic phenomena are geocoded with geographic coordinates - To learn the concepts and ways of map projection ]]] '}, {'id': 3, 'title': ' ## The Distorted Perception of the World', 'text': ' class: center, middle, inverse  ------ .wide[ True Size .dot[] Missle Range .dot[] Shortest Route ] '}, {'id': 4, 'title': ' ### The True Size Of', 'text': ' class: right, top background-image: url(resources/week-03/true_size_of.png)   .footnote-right[Map source: [The True Size Of](https://www.thetruesize.com/)] '}, {'id': 5, 'title': ' ### The North Korean Missle Ranges (2003 The Economist)', 'text': ' class: center, middle  .split-50[.column[ <img src="resources/week-03/economist-wrong-buffer.jpg" width="100%"> ].column[ <img src="resources/week-03/economist-corrected.jpg" width="100%"> ]] .footnote[[Maps](https://georeferenced.wordpress.com/2014/05/22/worldmapblunders/), [ArcUser Online Discussion](https://www.esri.com/news/arcuser/0111/geodesic.html)] '}, {'id': 6, 'title': ' ### The Shortest Route', 'text': ' class: center, middle  .split-50[.column[ <img src="resources/week-03/shortest_route.png" width="100%"> ].column[ <img src="resources/week-03/great_circle_route.png" width="100%"> ]] .footnote[[Great Circle Map](https://www.greatcirclemap.com/?routes=SCL-ULN)] '}, {'id': 7, 'title': ' ## The Geographic Coordinate System', 'text': ' class: center, middle, inverse  ------ .wide[ Geoid .dot[] Ellipsoid .dot[] Datum ] '}, {'id': 8, 'title': ' ### From Geographic Phenomenon to Map', 'text': ' class: center, middle <img src="resources/week-03/geocode_project.png" width="100%"> '}, {'id': 9, 'title': ' ### Reference Globe', 'text': ' class: left, middle  .split-20[.column[ - Geoid ].column[ The geoid is defined as the surface of the earth\'s gravity field, which is approximately the same as .bold[Mean Sea Level (MSL)]. It is perpendicular to the direction of gravity pull. Since the mass of the earth is not uniform at all points, and the direction of gravity changes, the shape of the geoid is irregular.  A hypothetical surface representing the form the earth\'s oceans would take if there were no land and the water were free to respond to the earth\'s gravitational and centrifugal forces. The resulting geoid is irregular and .bold[varies from a perfect sphere] by as much as 75 meters above and 100 meters below its surface. [ArcUser Online](http://www.esri.com/news/arcuser/0703/geoid1of3.html)  <img src="resources/week-03/geoid_from_2sides.png" width="80%"> Geoid (red) view from equator (left) and north pole (right). ]] '}, {'id': 10, 'title': ' ### Reference Globe', 'text': ' class: left, middle  .split-20[.column[ - Geoid ].column[ <img src="resources/week-03/ww15mgh.jpg" width="100%"> [Geoid Height, Global WGS-84/EGM96 grid](https://geodesy.noaa.gov/GEOID/GEOID96/geo-indx.html)  ]] '}, {'id': 11, 'title': ' ### Reference Globe', 'text': ' class: left, middle  .split-20[.column[ - Geoid - Ellipsoid ].column[ Ellipsoid/Spheroid – a mathematical approximation of the Earth’s shape from the Geoid.  .split-60[.column[ <img src="resources/week-03/ellipsoid_illus.png" width="100%">  ].column[ <img src="resources/week-03/OblateSpheroid.png" width="100%">  ]]]] '}, {'id': 12, 'title': ' ### Reference Globe #### Example of ellipsoid/spheroid table', 'text': ' class: left, middle  .split-20[.column[ - Geoid - Ellipsoid ].column[ <img src="resources/week-03/ellipsoid_compare.png" width="100%">  .footnote-right[[Table Link](https://desktop.arcgis.com/en/arcmap/latest/map/projections/about-the-geoid-ellipsoid-spheroid-and-datum-and-h.htm)]  ]] '}, {'id': 13, 'title': ' ### Reference Globe', 'text': ' class: left, middle  .split-20[.column[ - Geoid - Ellipsoid - Datum ].column[ <img src="resources/week-03/prepare_for_projection.png" width="100%">  ]] '}, {'id': 14, 'title': ' ### Reference Globe #### Global Datum', 'text': ' class: left, middle  .split-20[.column[ - Geoid - Ellipsoid - Datum ].column[  While a spheroid approximates the shape of the earth, a datum defines the position of the spheroid relative to the center of the earth. A datum provides a frame of reference for measuring locations on the surface of the earth. It defines the origin and orientation of latitude and longitude lines.  .split-50[.column[ <img src="resources/week-03/Axis-Spheroid2.png" width="100%"> ].column[ WGS84: - semi-major axis (equatorial) = 6378137.0 m - semi-minor axis (polar): = 6356752.3 m - mean Earth radii $\\approx$ 6371008.8 m - origin: center of the earth - [EPSG:4326](https://epsg.io/4326) ]] .footnote-right[[Some materials](https://gisgeography.com/ellipsoid-oblate-spheroid-earth/)]  ]] '}, {'id': 15, 'title': ' ### Reference Globe #### Geographic Coordinate System', 'text': ' class: left, middle  .split-20[.column[ - Geoid - Ellipsoid - Datum ].column[  <img src="resources/week-03/latlng_illus.png" width="100%">  ]] '}, {'id': 16, 'title': ' ### Reference Globe #### Geographic Coordinate System', 'text': ' class: left, middle  .split-20[.column[ - Geoid - Ellipsoid - Datum ].column[  <img src="resources/week-03/prime_meridian_photo.png" width="60%">  ]] '}, {'id': 17, 'title': ' ### Reference Globe #### Global Datum vs. Local Datum', 'text': ' class: left, middle  .split-20[.column[ - Geoid - Ellipsoid - Datum ].column[  <img src="resources/week-03/datum_local_global.png" width="100%">  .footnote-right[[Description of Datums from ESRI](https://desktop.arcgis.com/en/arcmap/latest/map/projections/datums.htm#GUID-E49F0E1B-8F0D-4704-8384-735EA002FDDC)]  ]] '}, {'id': 18, 'title': ' ### Reference Globe #### Local Datum', 'text': ' class: left, middle  .split-20[.column[ - Geoid - Ellipsoid - Datum ].column[  Changing the datum, or more correctly, the geographic coordinate system, will result in different coordinates of the same geometry. E.g., for a point in Redlands, California:  <img src="resources/week-03/datum_example.png" width="100%">  .footnote-right[[Description of Datums from ESRI](https://desktop.arcgis.com/en/arcmap/latest/map/projections/datums.htm#GUID-E49F0E1B-8F0D-4704-8384-735EA002FDDC)]  ]] '}, {'id': 19, 'title': ' ### Reference Globe #### Singapore Datum', 'text': ' class: left, middle  .split-20[.column[ - Geoid - Ellipsoid - Datum ].column[  SVY21 ([EPSG:4757](https://epsg.io/4757)), see [SLA](https://app.sla.gov.sg/sirent/About/PlaneCoordinateSystem) for details - since 2004 - based on WGS84 - reference point: - BASE7 (located at Pillar 7 Pierce Reservoir) - latitude: 1° 22\' 02.915414" N - longitude: 103° 49\' 31.975227" E  <img src="resources/week-03/svy21_ref_pt.png" width="80%"> .footnote-left[[Google Map](https://www.google.com/maps/place/1°22\'02.9"N+103°49\'32.0"E/@1.3499648,103.7334232,12.04z)] ]] '}, {'id': 20, 'title': ' ## The Projected Coordinate System', 'text': ' class: center, middle, inverse  ------ .wide[ Point of Projection .dot[] Developable Surface .dot[] Standard Point/Line .dot[] Distortion ] '}, {'id': 21, 'title': ' ### What is Projection', 'text': ' class: left, middle  .split-30[.column[ Map projection is the systematic transformation of the curved, 3-dimensional sphere surface of the planet into flat, 2-dimensional plane. ].column[  <img src="resources/week-03/demo_plannar.png" width="70%">   ]] '}, {'id': 22, 'title': ' ### What is Projection', 'text': ' class: left, middle  .split-30[.column[ Terminology  - Reference Globe - Point of Projection - Developable Surface - Standard Point (Line...)  ].column[  <img src="resources/week-03/projection_basic_concept.png" width="80%">   ]] '}, {'id': 23, 'title': ' ### Planar Projection', 'text': ' class: left, middle  .split-30[.column[ Points of projection ].column[  <img src="resources/week-03/point_of_projections.png" width="70%">   ]] '}, {'id': 24, 'title': ' ### Planar Projection', 'text': ' class: left, middle  .split-30[.column[ Points of projection ].column[  <img src="resources/week-03/point_of_projection_grid.png" width="90%">   ]] '}, {'id': 25, 'title': ' ### Planar Projection', 'text': ' class: left, middle  .split-30[.column[ An example of Orthographic Projection centered at North Korea. The concentric circles indicate the distances (1,000km increment) from North Korea. ].column[  <img src="resources/week-03/orthographic_azimuthal.png" width="80%">  .footnote-left.small[[Distances from North Korea by Jason Davies](https://www.jasondavies.com/maps/north-korea-distance/)]  ]] '}, {'id': 26, 'title': ' ### Types of Developable Surfaces', 'text': ' class: left, middle  .split-30[.column[ - a. Cylindrical - b. Conic - c. Planar (Azimuthal)  ].column[  <img src="resources/week-03/types_of_developable_surface.jpg" width="80%">  .footnote-left.small[[Scale and Projections](https://open.lib.umn.edu/mapping/chapter/3-scale-and-projections/)]  ]] '}, {'id': 27, 'title': ' ### Types of Developable Surfaces', 'text': ' class: left, middle  .split-30[.column[ - a. Cylindrical - b. Conic - c. Planar (Azimuthal)  red lines/points indicate the line/point of contact, i.e., standard line/point  ].column[  <img src="resources/week-03/types_of_developable_surface2.jpg" width="80%">  .footnote-left.small[[Scale and Projections](https://open.lib.umn.edu/mapping/chapter/3-scale-and-projections/)]  ]] '}, {'id': 28, 'title': ' ### The Mercator Projection (Cylindrical)', 'text': ' class: right, bottom background-image: url(resources/week-03/Mercator_projection_Square.JPG)   .footnote-left.small[Map source: [Wikipedia](https://en.wikipedia.org/wiki/Mercator_projection), [PROJ.org](https://proj.org/en/9.3/operations/projections/merc.html)]  '}, {'id': 29, 'title': ' ### Lambert Conformal Conic Alternative (Conical)', 'text': ' class: center, top background-image: url(resources/week-03/Lambert_conformal_conic_a.png)   .footnote-left.small[Map source: [The Morphing Map Project](https://wcchin.github.io/map_projection/world_map.html), [PROJ.org](https://proj.org/en/9.3/operations/projections/lcca.html)] '}, {'id': 30, 'title': ' ### Aspects of Projections', 'text': ' class: left, middle  .split-30[.column[ The placement of the Developable Surfaces to change the standard line/point.  A standard line is a line on a sphere or spheroid that .red[has no length compression or expansion] after being projected; usually a standard parallel or central meridian.  ].column[  <img src="resources/week-03/aspects_of_projection_standards.png" width="90%">  .footnote-left.small[[ArcGIS: Projection Types](https://desktop.arcgis.com/en/arcmap/latest/map/projections/projection-types.htm)]  ]] '}, {'id': 31, 'title': ' ### Case of Projections', 'text': ' class: left, middle  .split-30[.column[ - Tangent - Secant  The line along standard line (parallel) has no compression/expansion. Adding an extra standard line would introduce more places along the standard lines that preserved, making the nearby areas to have less expansion/compression.  ].column[  <img src="resources/week-03/tangent_secant_distortion.png" width="100%">  .footnote-left.small[[Wikipedia: Secant plane](https://en.wikipedia.org/wiki/Secant_plane)]  ]] '}, {'id': 32, 'title': ' ### Case of Projections (Secant)', 'text': ' class: left, middle  .split-30[.column[ - scale exaggerated (expansion) - scale compressed  Example of projection with secant: [Universal Tranverse Mercator](https://gisgeography.com/utm-universal-transverse-mercator-projection/). In UTM, the globe is splited by 6 degrees, i.e., into 60 North and 60 South zones. For each zone, the central meridian is the central vertical (north-south) line and the standard lines locate at 180 km away from both sides of the central line.  ].column[  <img src="resources/week-03/secant_cylindrial.png" width="60%">  ]] '}, {'id': 33, 'title': ' ### Properties of Map Projections', 'text': ' class: left, middle  .split-30[.column[ .footnote-left.small[[Types of Map Projections](https://www.geographyrealm.com/types-map-projections/)] ].column[ - Equivalence (Equal-area): - preserve the correct proportions of areas - e.g., Albers Equal-Area Conic projection, Mollweide projection - Conformality: - maintain local angles and shapes - e.g., Mercator projection, Lambert Conformal Conic projection - Equidistant projections: - retain true distances from one or two points to all other points - e.g., Azimuthal Equidistant projection - Azimuthal projections: - preserve directions from a central point - e.g., some conformal projection, orthomorphic projection, azimuthal projection. - Compromise projections: - attempt to balance various distortions inherent in map projections - e.g., Robinson projection, Winkel Tripel projection ]] '}, {'id': 34, 'title': ' ### Properties of Map Projections', 'text': ' class: left, middle  .split-50[.column[ - Equivalence (Equal-area) ].column[  <img src="resources/week-03/equal_area_greenland_example.png" width="80%">  ]]  '}, {'id': 35, 'title': ' ### Properties of Map Projections', 'text': ' class: left, middle  .split-50[.column[ - Equivalence (Equal-area) - Conformality  .footnote-left[[Wikipedia: Conformal map](https://en.wikipedia.org/wiki/Conformal_map)] ].column[  <img src="resources/week-03/conformality.png" width="50%">  ]]  '}, {'id': 36, 'title': ' ### Properties of Map Projections', 'text': ' class: left, middle  .split-30[.column[ - Equivalence (Equal-area) - Conformality - Equidistant & Azimuthal  Azimuthal Equidistant Projection centered at North Korea  .footnote-left.small[[Distances from North Korea by Jason Davies](https://www.jasondavies.com/maps/north-korea-distance/)] ].column[  <img src="resources/week-03/azimuthal_equidistant.png" width="90%">  ]] '}, {'id': 37, 'title': ' ### Properties of Map Projections', 'text': ' class: left, middle  .split-30[.column[ - Equivalence (Equal-area) - Conformality - Equidistant & Azimuthal - Compromised Projection  The Robinson projection primary purpose is to create visually appealing maps of the entire world. It does not eliminate any type of distortion, but it keeps the levels of all types of distortion relatively low over most of the map.  .footnote-left.small[[The Morphing Map Project](https://wcchin.github.io/map_projection/robinson_refline.html)] ].column[  <img src="resources/week-03/robinson_projection.png" width="90%"> Robinson Projection centered at 150 E.  Compromised Projections strike a balance between the distortion in area and angle. The combined distortion is usually less than if a single property was preserved. ]] '}, {'id': 38, 'title': ' ### Tissot Indicatrix', 'text': ' class: left, middle  .split-30[.column[ A measurement / visualization of distortions ].column[ Tissot Indicatrix is a way to visually explore and understand distortion of different projections.  A symbol representing a really small point on the reference globe with unit radius.  <img src="resources/week-03/tissot_indicatrix_illus.png" width="90%">   ]] '}, {'id': 39, 'title': ' ### Tissot Indicatrix', 'text': ' class: left, middle  .split-30[.column[ A measurement / visualization of distortions - change in area (size) - change in angle (orientation)  ].column[  <img src="resources/week-03/tissot_indicatrix_shapes.png" width="90%">  ]] '}, {'id': 40, 'title': ' ### Tissot Indicatrix', 'text': ' class: left, middle  .split-20[.column[ - .red[Robinson]  .footnote-left.small[[The Morphing Map Project](https://wcchin.github.io/map_projection/world_map_tissot.html) | [proj.org](https://proj.org/en/9.3/operations/projections/robin.html) ]   ].column[  <img src="resources/week-03/tissot_robinson.png" width="100%">  ]] '}, {'id': 41, 'title': ' ### Tissot Indicatrix', 'text': ' class: left, middle  .split-20[.column[ - Robinson - .red[Mollweide]  .footnote-left.small[[The Morphing Map Project](https://wcchin.github.io/map_projection/world_map_tissot.html) | [proj.org](https://proj.org/en/9.3/operations/projections/moll.html) ]   ].column[  <img src="resources/week-03/tissot_mollweide.png" width="100%">  ]] '}, {'id': 42, 'title': ' ### Tissot Indicatrix', 'text': ' class: left, middle  .split-20[.column[ - Robinson - Mollweide - .red[Winkel Tripel]  .footnote-left.small[[The Morphing Map Project](https://wcchin.github.io/map_projection/world_map_tissot.html) | [proj.org](https://proj.org/en/9.3/operations/projections/wintri.html) ]  ].column[  <img src="resources/week-03/tissot_winkeltripel.png" width="100%">  ]] '}, {'id': 43, 'title': ' ### Tissot Indicatrix', 'text': ' class: left, middle  .split-20[.column[ - Robinson - Mollweide - Winkel Tripel - .red[van der Grinten]  .footnote-left.small[[The Morphing Map Project](https://wcchin.github.io/map_projection/world_map_tissot.html) | [proj.org](https://proj.org/en/9.3/operations/projections/vandg.html) ]  ].column[  <img src="resources/week-03/tissot_vandergrinten.png" width="80%">  ]]   '}, {'id': 44, 'title': ' ## Choosing a Projection', 'text': ' class: center, middle, inverse  ------ .wide[Consideration .dot[] Local Projection ] '}, {'id': 45, 'title': ' ### Choosing a Projection', 'text': ' class: left, middle  .split-30[.column[ ].column[ - Overall purpose of the map - Geographic region and extent - Symbolization method: dot-density? angular relationship? - Intended audience  ]] '}, {'id': 46, 'title': ' ### Choosing a Projection', 'text': ' class: left, middle  .split-30[.column[ ].column[ Projection properties - equivalency, conformality, equidistance, azimuthality - Suitable to the map’s purpose? - Which ones must be .red[preserved], and which can be .red[sacrificed]? - Or, is .red[compromise] of all for the best choice?  Characteristics - e.g. constant scale, interrupted, centered on a city  Deformational patterns across mapped area - Is .red[amount and location] of deformation acceptable?  Projection center - Can the projection be .red[centered] easily on the mapped area?  Familiarity - Is appearance .red[recognizable] to map reader or will it confuse?  ]] '}, {'id': 47, 'title': ' #### Ecological Value, Korea in the World: an example', 'text': ' class: center, middle   <img src="resources/week-03/south_korea_flyway_partnership.png" width="100%">  .footnote-right[[Ecological Value, Korea in the World](http://nationalatlas.ngii.go.kr/pages/page_2318.php#prettyPhoto)] '}, {'id': 48, 'title': ' #### Early human migrations according to mitochondrial population genetics ', 'text': ' class: center, middle   <img src="resources/week-03/World_map_of_prehistoric_human_migrations.jpg" width="68%"> (numbers are millennia before present)  .footnote-left.small[[Wikipedia: Dymaxion Map/Fuller Map](https://en.wikipedia.org/wiki/Dymaxion_map), [This Is The Most Accurate Flat Map Of Earth](https://www.iflscience.com/this-is-the-most-accurate-flat-map-of-earth-72602), [AuthaGraph](http://www.authagraph.com/projects/description/%E3%80%90%E4%BD%9C%E5%93%81%E8%A7%A3%E8%AA%AC%E3%80%91%E8%A8%98%E4%BA%8B01/?lang=en), [This Weird Globe-Folding Map Isn\'t Perfect, But It\'s Close](https://www.wired.com/2016/11/weird-globe-folding-map-isnt-perfect-close/)] '}, {'id': 49, 'title': ' ### For National,  Regional or Local Area', 'text': ' class: left, middle  .split-30[.column[  The shape of the area/extent is a key point to decide the projections.  ].column[ <img src="resources/week-03/projections_new_stateplaneb.png" width="80%"> ]] '}, {'id': 50, 'title': ' ### For Singapore #### SVY21 / Singapore TM', 'text': ' class: left, middle  .split-30[.column[  ].column[  - Projection: Tranverse Mercator - Origin: 103° 50\' 00 E, 1° 22\' 00" N - False Origin ( Easting ): 28001.642 m - False Origin ( Northing ): 38744.572 m - Scale Factor at Central Meridian: 1.00000000 - [EPSG: 3414](https://epsg.io/3414) - [SLA link](https://app.sla.gov.sg/sirent/About/PlaneCoordinateSystem) - PROJ.4 string: - `+proj=tmerc +lat_0=1.36666666666667 +lon_0=103.833333333333 +k=1 +x_0=28001.642 +y_0=38744.572 +ellps=WGS84 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs +type=crs`   ]] '}, {'id': 51, 'title': ' ### False Origin', 'text': ' class: left, middle  .split-30[.column[  ].column[ <img src="resources/week-03/false_origin.png" width="80%"> The origin point is the central point of the projection grid system where all points are referenced. The false origin differs from the true origin in order to exclude negative values from the coordinates. A false easting and northing are used to prevent the use of negative numbers.  The distortion/scale factors would not be affected by the false origin settings. ]] '}, {'id': 52, 'title': ' ### In summary', 'text': ' class: center, middle <img src="resources/week-03/geocode_project.png" width="100%">   '}]
+      let miniSearch = new MiniSearch({
+        fields: ['title', 'text'], // fields to index for full-text search
+        storeFields: ['title', 'text'], // fields to return with search results
+        searchOptions: { prefix: true }
+      })
+      miniSearch.addAll(contentIndex)
+    </script>
+    <script src="remarkjs/searchMod.js"  type="text/javascript"></script>
+    <script src="remarkjs/sidebar.js"  type="text/javascript"></script>
+    
+    <script src="remarkjs/remark-0.15.0.js"  type="text/javascript"></script>
+    <script>
+      var options = {};
+      options['ratio'] = "16:9"; 
+      options['navigation'] = {scroll: false, touch: true, click: false};
+      var slideshow = remark.create(options);
+    </script>
+  </body>
+</html>
