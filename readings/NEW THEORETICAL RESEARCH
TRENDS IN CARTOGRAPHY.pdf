@@ -1,1488 +1,0 @@
-%PDF-1.2 
-%‚„œ”
- 
-9 0 obj
-<<
-/Length 10 0 R
->>
-stream
-BT56.64 56.64  TD0 0 0 rg /F0 9.96  Tf0.0102  Tc 0.0198  Tw (Revista Brasileira de Ca) Tj98.52 0  TD 0.0119  Tc 0.0181  Tw (rtografia, N) Tj47.76 4.56  TD /F0 6.48  Tf0  Tc 0  Tw (o) Tj3.24 -4.56  TD /F0 9.96  Tf0.05  Tc -0.02  Tw ( 53, pp. ) Tj32.76 0  TD 0.06  Tc 0  Tw (29) Tj10.08 0  TD 0.0433  Tc (-) Tj3.36 0  TD 0.06  Tc (37) Tj10.08 0  TD 0.0325  Tc -0.0025  Tw (, dezembro 2001.) Tj69.12 0  TD 0  Tc 2.43  Tw ( ) TjET52.8 65.64 488.88 0.48 re fBT56.64 45.12  TD/F1 9.96  Tf1.95  Tw ( ) Tj129.6 713.04  TD /F2 14.04  Tf-0.0204  Tc -0.0096  Tw (NEW THEORETICAL RESEARCH ) Tj226.08 0  TD 0  Tc 4.05  Tw ( ) Tj-210 -16.08  TD -0.0315  Tc 0.0015  Tw (TRENDS IN CARTOGRAPHY) Tj190.44 0  TD 0  Tc 4.05  Tw ( ) Tj-95.16 -16.08  TD ( ) Tj-60.48 -16.08  TD 0.0025  Tc -0.0325  Tw (Robert S. Sluter, Jr.) Tj120.84 0  TD 0  Tc 4.05  Tw ( ) Tj-60.36 -15.84  TD /F1 14.04  Tf2.85  Tw ( ) Tj-44.52 -12.72  TD /F2 9.96  Tf0.0181  Tc 0.0119  Tw (University of Kansas) Tj88.92 0  TD 0  Tc 2.91  Tw ( ) Tj-100.68 -11.4  TD 0.0091  Tc 0.0209  Tw (Department of Geography) Tj112.56 0  TD 0  Tc 2.91  Tw ( ) Tj-90.36 -11.28  TD /F1 9.96  Tf-0.0055  Tc 0.0355  Tw (213 Lindley Hall) Tj68.04 0  TD 0  Tc 1.95  Tw ( ) Tj-108.36 -11.52  TD -0.0008  Tc 0.0308  Tw (Lawrence, Kansas 66045) Tj100.44 0  TD -0.0767  Tc 0  Tw (-) Tj3.24 0  TD 0.0188  Tc 0.0112  Tw (2121, USA) Tj45 0  TD 0  Tc 1.95  Tw ( ) Tj-117.24 -11.52  TD 0.0122  Tc 0  Tw (robbi@net) Tj42.48 0  TD 0.06  Tc (p) Tj5.04 0  TD 0.0304  Tc (ar.) Tj10.32 0  TD 0.0178  Tc (c) Tj4.44 0  TD 0.06  Tc (o) Tj5.04 0  TD -0.0139  Tc (m.br) TjET254.64 634.08 85.8 0.48 re fBT340.44 635.64  TD0  Tc 1.95  Tw ( ) Tj-42.84 -11.52  TD ( ) Tj-38.16 -15.48  TD /F2 14.04  Tf-0.031  Tc 0  Tw (ABSTRACT) Tj76.2 0  TD 0  Tc 4.05  Tw ( ) Tj-38.04 -16.08  TD ( ) Tj-204.96 -12.12  TD /F1 9.96  Tf-0.0044  Tc 0.5659  Tw (Cartography has been defined as the art, scienc) Tj191.28 0  TD -0.0142  Tc 0.5242  Tw (e, and technology of map) Tj102.72 0  TD -0.0767  Tc 0  Tw (-) Tj3.24 0  TD -0.017  Tc 0.527  Tw (making.  Until the middle of the 20) Tj143.64 4.56  TD /F1 6.48  Tf-0  Tc 0  Tw (th) Tj5.04 -4.56  TD /F1 9.96  Tf0  Tc 0.03  Tw ( ) Tj-481.92 -11.52  TD -0.0069  Tc 0.3729  Tw (Century, cartography was more an art than a science.  Beginning in the 1950's, cartographic researchers began to take a ) Tj0 -11.52  TD -0.0024  Tc 0.5124  Tw (more scientific approach to map) Tj130.32 0  TD -0.0767  Tc 0  Tw (-) Tj3.24 0  TD -0.0421  Tc 0.5521  Tw (making with Robinson's ) Tj99.6 0  TD /F0 9.96  Tf0.0236  Tc 0.4864  Tw (The Look of Maps.) Tj76.56 0  TD /F1 9.96  Tf0  Tc 0.51  Tw ( ) Tj3 0  TD 0  Tc 0.4066  Tw (In the 1970's, many researchers adopted a ) Tj-312.72 -11.4  TD -0.0164  Tc 1.5879  Tw (communications paradigm for cartography, understanding maps as tools for the communication of information from) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD 0.0013  Tc 2.7137  Tw (cartographer to map user.  Under this paradigm, cartographers attempted to find the "optimal" map that ) Tj457.2 0  TD -0.036  Tc 0.066  Tw (would ) Tj-457.2 -11.52  TD -0.0308  Tc 2.4608  Tw (communicate known information to the map) Tj188.4 0  TD -0.0767  Tc 0  Tw (-) Tj3.24 0  TD 0.0063  Tc 2.4237  Tw (reader with as little "noise" as possible. With the rapid progress in) Tj0  Tc 0.03  Tw ( ) Tj-191.64 -11.52  TD -0.0037  Tc 2.4657  Tw (computer technology afforded by the ubiquitous personal computer, in the last decade a number of cartographic) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD 0  Tc 0.6299  Tw (researchers, led by Alan MacE) Tj125.04 0  TD -0.0244  Tc 0.6544  Tw (achren, have suggested a new way of understanding how maps work  No longer seen as) Tj0  Tc 0.03  Tw ( ) Tj-125.04 -11.4  TD -0.0239  Tc 1.2539  Tw (simply tools for communicating known information, maps can be employed to discover the unknown patterns in any) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD -0.0107  Tc 0.6407  Tw (phenomenon that possesses a spatial dimension.  Rather than at) Tj257.4 0  TD -0.0042  Tc 0.4542  Tw (tempting to construct the "best" map, modern computer ) Tj-257.4 -11.52  TD -0.0115  Tc 0.3355  Tw (technology can allow for the construction of a multitude of representations of a phenomenon that can be used to answer ) Tj0 -11.52  TD -0  Tc 0.2707  Tw (different questions posed by individual researchers and reveal hitherto unrealized ) Tj329.04 0  TD 0.0088  Tc 0.1412  Tw (patterns in the data \(data exploration\).  ) Tj-329.04 -11.52  TD 0.0011  Tc 1.5009  Tw (This new approach is termed "cartographic visualization".  Based upon research in other fields, including computer) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD -0.0174  Tc 3.0474  Tw (graphics, the neurophysiology of the eye) Tj176.64 0  TD -0.0767  Tc 0  Tw (-) Tj3.24 0  TD -0.0135  Tc 2.9921  Tw (brain system, cognitive science, and semiotics \(the scienc) Tj249.48 0  TD -0.0323  Tc 2.9423  Tw (e of symbol) Tj0  Tc 0.03  Tw ( ) Tj-429.36 -11.4  TD -0.0061  Tc 1.0861  Tw (systems\), this newest thrust in cartographic theory has opened up broad new horizons for cartographic research. This) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD -0.0106  Tc 0.3624  Tw (has energized the discipline and promises to lead to new insights which will enable us to make better maps.  This paper ) TjT* -0.0098  Tc 0  Tw (outline) Tj27.6 0  TD 0.0026  Tc 0.0274  Tw (s these new approaches to cartographic research.) Tj194.16 0  TD /F2 9.96  Tf0  Tc 2.91  Tw ( ) Tj-221.76 -11.52  TD /F1 9.96  Tf0.03  Tw ( ) Tj2.52 0  TD 1.95  Tw ( ) Tj-2.52 -11.52  TD /F2 9.96  Tf0.0354  Tc -0.0054  Tw (Key words) Tj45.96 0  TD /F1 9.96  Tf-0.006  Tc 0.036  Tw (:  cartography, visualization, visual cognition, semiotics, visual perception.) Tj298.32 0  TD 0  Tc 1.95  Tw ( ) Tj-344.28 -11.52  TD ( ) Tj0 -11.4  TD ( ) Tj0 -11.76  TD /F2 9.96  Tf0.045  Tc -0.015  Tw (1.  ) Tj12.6 0  TD 0  Tc 0  Tw (INTRODUCTION) TjET69.24 336.72 79.68 0.96 re fBT148.92 338.76  TD0  Tc 2.91  Tw ( ) Tj-92.28 -11.52  TD ( ) Tj36 -11.28  TD /F1 9.96  Tf-0.0037  Tc 5.1337  Tw (Cartography has been defined as the art,) Tj0  Tc 0.03  Tw ( ) Tj-36 -11.52  TD -0.0129  Tc 2.0529  Tw (science, and technology of map) Tj133.68 0  TD -0.0767  Tc 0  Tw (-) Tj3.24 0  TD -0.0471  Tc (making.) Tj32.04 0  TD 0.024  Tc 1.926  Tw (  Prior to the) Tj0  Tc 0.03  Tw ( ) Tj-168.96 -11.52  TD 0.06  Tc 0  Tw (20) Tj10.08 4.56  TD /F1 6.48  Tf-0  Tc (th) Tj5.04 -4.56  TD /F1 9.96  Tf-0.0168  Tc 2.4982  Tw ( Century, cartography was more art than science.) Tj0  Tc 0.03  Tw ( ) Tj-15.12 -11.4  TD 0.0044  Tc 2.8456  Tw (Since the 1950's, cartographic researchers have been) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD -0.0012  Tc 1.8312  Tw (trying to reverse that order and began to take a more) Tj0  Tc 0.03  Tw ( ) TjT* 0  Tc 0.8699  Tw (scientific approach to map) Tj108 0  TD -0.0767  Tc 0  Tw (-) Tj3.24 0  TD -0.0421  Tc 0.8721  Tw (making with Robinson's ) Tj100.56 0  TD /F0 9.96  Tf0.02  Tc 0.01  Tw (The ) Tj-211.8 -11.52  TD 0.024  Tc 0.006  Tw (Look of Maps) Tj55.08 0  TD /F1 9.96  Tf0.0544  Tc -0.0244  Tw ( \(1952\)) Tj29.4 0  TD /F0 9.96  Tf0.03  Tc 0  Tw (.) Tj2.52 0  TD 0  Tc 2.67  Tw ( ) Tj-51 -11.52  TD /F1 9.96  Tf-0.0069  Tc 0.0369  Tw ( Begin) Tj26.28 0  TD -0.0164  Tc 4.0064  Tw (ning in the 1970's, many researchers) Tj0  Tc 0.03  Tw ( ) Tj-62.28 -11.4  TD -0.0047  Tc 2.6987  Tw (adopted a communications paradigm for cartography,) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD -0.0156  Tc 1.5713  Tw (understanding maps as tools for the communication of) Tj0  Tc 0.03  Tw ( ) TjT* -0.0067  Tc 1.391  Tw (information from cartographer to map user. Under this) Tj0  Tc 0.03  Tw ( ) TjT* 0.004  Tc 0.586  Tw (paradigm, cartographers attempted to find the "optimal") Tj0  Tc 0.03  Tw ( ) TjT* -0.03  Tc 0.9  Tw (map t) Tj23.16 0  TD -0.0299  Tc 0.8799  Tw (hat would communicate known information to the) Tj0  Tc 0.03  Tw ( ) Tj-23.16 -11.52  TD -0.037  Tc 0  Tw (map) Tj17.04 0  TD -0.0767  Tc (-) Tj3.24 0  TD 0.0068  Tc 4.189  Tw (reader with as little "noise" as possible. This) Tj0  Tc 0.03  Tw ( ) Tj-20.28 -11.4  TD -0.0044  Tc 6.9644  Tw (communications science approach in cartographic) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD -0.0016  Tc 1.5783  Tw (research has been criticized at a number of levels: for) Tj0  Tc 0.03  Tw ( ) TjT* -0.0249  Tc 0.7215  Tw (ignoring the many other ways that people use maps; fo) Tj223.44 0  TD 0.0433  Tc -0.0133  Tw (r ) Tj-223.44 -11.52  TD -0.0035  Tc 3.222  Tw (ignoring the contributions of art in the cartographic) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD -0.0029  Tc 0.9179  Tw (process; and for being an approach that falsely claimed) Tj0  Tc 0.03  Tw ( ) TjT* 0.015  Tc 0.015  Tw (to be objective and unbiased.  ) Tj121.44 0  TD 0  Tc 1.95  Tw ( ) Tj-85.44 -11.4  TD 0.003  Tc 9.315  Tw (With the rapid progress in computer) Tj0  Tc 0.03  Tw ( ) Tj-36 -11.52  TD -0.0062  Tc 7.7402  Tw (technology afforded by the ubiquitous personal) Tj0  Tc 0.03  Tw ( ) Tj255.24 264.48  TD 0  Tc 1.5897  Tw (computer, in the last decade ) Tj121.92 0  TD -0.0022  Tc 1.5122  Tw (a number of cartographic) Tj0  Tc 0.03  Tw ( ) Tj-121.92 -11.52  TD 0.0134  Tc 3.9966  Tw (researchers, led by Alan MacEachren \(1991, 1992,) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD -0.01  Tc 8.2343  Tw (1994, 1995\), have suggested a new way of) Tj0  Tc 0.03  Tw ( ) TjT* -0.018  Tc 4.1452  Tw (understanding how maps work. No longer seen as) Tj0  Tc 0.03  Tw ( ) TjT* -0.0307  Tc 3.8287  Tw (simply tools for communicating known information,) Tj0  Tc 0.03  Tw ( ) Tj0 -11.4  TD -0.017  Tc 0.2356  Tw (maps can be employed to discover the unknown) Tj192.6 0  TD 0.0033  Tc 0.0867  Tw ( patterns ) Tj-192.6 -11.52  TD -0.0157  Tc 1.2971  Tw (in any phenomenon that possesses a spatial dimension.) Tj0  Tc 0.03  Tw (  ) Tj0 -11.52  TD -0.0046  Tc 3.2917  Tw (Rather than attempting to construct the "best" map,) Tj0  Tc 0.03  Tw ( ) TjT* -0.015  Tc 6.745  Tw (modern computer technology can allow for the) Tj0  Tc 0.03  Tw ( ) TjT* -0.0059  Tc 4.0302  Tw (construction of a multitude of representations of a) Tj0  Tc 0.03  Tw ( ) Tj0 -11.4  TD -0.0153  Tc 4.5538  Tw (phenomenon that can be used to answer diff) Tj206.88 0  TD 0.002  Tc 0.028  Tw (erent ) Tj-206.88 -11.52  TD 0  Tc 2.8493  Tw (questions posed by individual researchers and reveal) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD 0.0034  Tc 8.5466  Tw (hitherto unrealized patterns in the data \(data) Tj0  Tc 0.03  Tw ( ) TjT* 0.0022  Tc 9.2478  Tw (exploration\).  This new approach is termed) Tj0  Tc 0.03  Tw ( ) TjT* 0.0106  Tc 0.0194  Tw ("cartographic visualization".  ) Tj119.16 0  TD 0  Tc 1.95  Tw ( ) Tj-83.16 -11.52  TD -0  Tc 1.3306  Tw (Based upon research in other fields, including) Tj0  Tc 0.03  Tw ( ) Tj-36 -11.4  TD -0.0044  Tc 3.7544  Tw (computer graph) Tj66.48 0  TD -0.0203  Tc 3.6743  Tw (ics, the neurophysiology of the eye) Tj157.08 0  TD -0.0767  Tc 0  Tw (-) Tj-223.56 -11.52  TD -0.0142  Tc 4.2642  Tw (brain system, cognitive science, and semiotics \(the) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD -0.0319  Tc 4.879  Tw (science of symbol systems\), this newest thrust in) Tj0  Tc 0.03  Tw ( ) TjT* 0.0017  Tc 1.2112  Tw (cartographic theory has opened up broad new horizons) Tj0  Tc 0.03  Tw ( ) TjT* 0.0053  Tc 5.4447  Tw (for cartographic research. This has energized the) Tj0  Tc 0.03  Tw ( ) TjT* 0.0033  Tc 1.8267  Tw (discipline and ) Tj61.8 0  TD -0.0246  Tc 1.8346  Tw (promises to lead to new insights which) Tj0  Tc 0.03  Tw ( ) Tj-61.8 -11.4  TD -0.016  Tc 1.366  Tw (will enable us to make better maps.  ) Tj156.12 0  TD /F0 9.96  Tf0.0312  Tc 1.3188  Tw (Cartography and) Tj0  Tc 0.03  Tw ( ) Tj-156.12 -11.52  TD 0.0277  Tc 0.0023  Tw (Geographic Information Science) Tj131.4 0  TD /F1 9.96  Tf-0.0163  Tc 0.0463  Tw (, the premier American) Tj92.16 0  TD 0  Tc 1.95  Tw ( ) TjETendstream
-endobj
-10 0 obj
-12036
-endobj
-4 0 obj
-<<
-/Type /Page
-/Parent 5 0 R
-/Resources <<
-/Font <<
-/F0 6 0 R 
-/F1 7 0 R 
-/F2 8 0 R 
->>
-/ProcSet 2 0 R
->>
-/Contents 9 0 R
->>
-endobj
-12 0 obj
-<<
-/Length 13 0 R
->>
-stream
-BT56.64 56.64  TD0 0 0 rg /F0 9.96  Tf0.0102  Tc 0.0198  Tw (Revista Brasileira de Ca) Tj98.52 0  TD 0.0119  Tc 0.0181  Tw (rtografia, N) Tj47.76 4.56  TD /F0 6.48  Tf0  Tc 0  Tw (o) Tj3.24 -4.56  TD /F0 9.96  Tf0.05  Tc -0.02  Tw ( 53, pp. ) Tj32.76 0  TD 0.06  Tc 0  Tw (29) Tj10.08 0  TD 0.0433  Tc (-) Tj3.36 0  TD 0.06  Tc (37) Tj10.08 0  TD 0.0325  Tc -0.0025  Tw (, dezembro 2001.) Tj69.12 0  TD 0  Tc 2.43  Tw ( ) TjET52.8 65.64 488.88 0.48 re fBT56.64 45.12  TD/F1 9.96  Tf1.95  Tw ( ) Tj0 717  TD 0.0037  Tc 2.4063  Tw (scholarly journal devoted to cartography, published a) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD -0.0068  Tc 12.9008  Tw (special issue on "Research Challenges in) Tj0  Tc 0.03  Tw ( ) Tj0 -11.4  TD -0.0037  Tc 0  Tw (Geovisualization) Tj67.44 0  TD 0.0119  Tc 2.6581  Tw (" \(edited by MacEachren and Kraak,) Tj0  Tc 0.03  Tw ( ) Tj-67.44 -11.52  TD 0.0156  Tc 3.4144  Tw (2001\).  The theoretical bases for all of the papers) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD -0.0126  Tc 3.3276  Tw (presented in this special issue derive from the new) Tj0  Tc 0.03  Tw ( ) TjT* -0.0036  Tc 0.0336  Tw (research paradigms outlined below.) Tj141.6 0  TD /F2 9.96  Tf0  Tc 2.91  Tw ( ) Tj-141.6 -11.76  TD ( ) Tj0 -11.52  TD 0.045  Tc -0.015  Tw (2.  ) Tj12.6 0  TD 0.0266  Tc 0.0034  Tw (COMMUNICATIONS  PARADIGM) TjET69.24 679.32 158.88 0.96 re fBT228.12 681.36  TD0  Tc 2.91  Tw ( ) Tj-171.48 -11.4  TD ( ) Tj0 -11.28  TD /F1 9.96  Tf33.51  Tw ( ) Tj36 0  TD -0.0161  Tc 2.0661  Tw (Beginning in the 1970's, many researchers in) Tj0  Tc 0.03  Tw ( ) Tj-36 -11.52  TD 0.026  Tc 0  Tw (carto) Tj20.04 0  TD -0.0095  Tc 3.2075  Tw (graphy adopted a communications paradigm for) Tj0  Tc 0.03  Tw ( ) Tj-20.04 -11.52  TD -0.0158  Tc 1.143  Tw (research in the field.  Borrowing from communications) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD -0.013  Tc 2.5459  Tw (systems theory, these researchers attempted to find a) Tj0  Tc 0.03  Tw ( ) TjT* -0.0024  Tc 2.6924  Tw (scientific approach to cartographic theory that would) Tj0  Tc 0.03  Tw ( ) Tj0 -11.4  TD -0.003  Tc 2.193  Tw (allow for more structure in cartographic research) Tj207.72 0  TD 0.0059  Tc 2.1841  Tw ( and) Tj0  Tc 0.03  Tw ( ) Tj-207.72 -11.52  TD 0.0018  Tc 3.3025  Tw (provide more reproducible results.  Seeing maps as) Tj0  Tc 0.03  Tw ( ) Tj255.24 172.44  TD -0.0301  Tc 2.5001  Tw (communicating known information to map users, this) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD 0.0116  Tc 0.6184  Tw (approach understood map) Tj104.4 0  TD -0.0767  Tc 0  Tw (-) Tj3.24 0  TD -0.0374  Tc 0.6274  Tw (making as a five) Tj66.84 0  TD -0.0767  Tc 0  Tw (-) Tj3.24 0  TD 0.0149  Tc 0.2551  Tw (step process ) Tj-177.72 -11.4  TD -0.0011  Tc 1.7711  Tw (\(Figure 1\).  First, a phenomenon that is to be studied) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD -0.0046  Tc 0.5546  Tw (\(such as soil texture, the distribution ) Tj150.6 0  TD 0.0024  Tc 0.4116  Tw (of tree species in a ) Tj-150.6 -11.52  TD -0.008  Tc 1.673  Tw (forest, or human population density\) is sampled and a) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD -0.006  Tc 2.076  Tw (data set is assembled.  Then the mapmaker interprets) Tj0  Tc 0.03  Tw ( ) TjT* 0  Tc 3.9038  Tw (this data set based on various classification and/or) Tj0  Tc 0.03  Tw ( ) TjT* -0.0199  Tc 3.3899  Tw (interpolation schemes.  Employing this analysis, the) Tj0  Tc 0.03  Tw ( ) Tj0 -11.4  TD 0.0084  Tc 3.2616  Tw (cartographer then deci) Tj95.76 0  TD -0.0059  Tc 3.1959  Tw (des on a design for the map,) Tj0  Tc 0.03  Tw ( ) Tj-95.76 -11.52  TD -0.0179  Tc 1.3199  Tw (which is then produced employing best) Tj162.24 0  TD -0.0767  Tc 0  Tw (-) Tj3.24 0  TD 0.0051  Tc 1.2249  Tw (practice design) Tj0  Tc 0.03  Tw ( ) Tj-165.48 -11.52  TD -0.0064  Tc 0.7431  Tw (principles in an attempt to create a map which provides) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD 0.0011  Tc 0.1355  Tw (an "optimal" representation of the data \(and hopefully of ) TjT* -0.0141  Tc 0.9321  Tw (the nature of the phenomenon under study\).  In the last) Tj0  Tc 0.03  Tw ( ) TjT* -0.0085  Tc 0  Tw (ste) Tj11.04 0  TD -0.0044  Tc 0.7544  Tw (p of this process, the user interprets the phenomenon) Tj0  Tc 0.03  Tw ( ) Tj-11.04 -11.4  TD 0  Tc 5.4093  Tw (based upon the cartographer's ability to correctly) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD -0.012  Tc 0.042  Tw (communicate his or her ideas.) Tj119.04 0  TD 0  Tc 1.95  Tw ( ) Tj-374.28 -11.52  TD ( ) Tj0 -11.52  TD ( ) Tj0 -149.76  TD ( ) Tj127.56 -11.4  TD 0  Tc 0.0293  Tw (Fig. 1 ) Tj25.8 0  TD -0.0767  Tc 0  Tw (-) Tj3.24 0  TD -0.0116  Tc 0.0416  Tw ( The Communications Paradigm for Cartography.) Tj197.76 0  TD 0  Tc 1.95  Tw ( ) Tj-354.36 -11.52  TD ( ) Tj36 -11.52  TD -0.0018  Tc 1.4418  Tw (However, there is "noise" in each step of this) Tj0  Tc 0.03  Tw ( ) Tj-36 -11.52  TD 0.0043  Tc 1.2584  Tw (process \(Figure 2\).  First, the data are but a sample of) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD -0.0221  Tc 0.5588  Tw (the reality of the phenomenon under study, and may not) Tj0  Tc 0.03  Tw ( ) Tj0 -11.4  TD 0.0078  Tc 7.7022  Tw (be entirel) Tj45.12 0  TD -0.0024  Tc 7.6124  Tw (y representative of it.  Second, the) Tj0  Tc 0.03  Tw ( ) Tj-45.12 -11.52  TD -0.0049  Tc 0.5492  Tw (cartographer may misinterpret the data and thus provide) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD -0.0119  Tc 0.7753  Tw (an inaccurate view of the phenomenon.  Third, the map) Tj0  Tc 0.03  Tw ( ) TjT* -0.0209  Tc 7.5149  Tw (design may not communicate the cartographer's) Tj0  Tc 0.03  Tw ( ) Tj255.24 69  TD -0.0191  Tc 1.3091  Tw (interpretation fully or accurately.  Lastly, the user may) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD -0.0172  Tc 2.6872  Tw (not u) Tj22.8 0  TD -0.0134  Tc 2.6834  Tw (nderstand the map completely.  So, the aim of) Tj0  Tc 0.03  Tw ( ) Tj-22.8 -11.52  TD -0.0026  Tc 0.1166  Tw (research in this paradigm was to "reduce the noise level" ) Tj0 -11.4  TD -0.0117  Tc 1.8717  Tw (and to create the one map which optimally represents) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD -0.0278  Tc 3.4178  Tw (the phenomenon and successfully communicates this) Tj0  Tc 0.03  Tw ( ) TjT* -0.0144  Tc 0.0444  Tw (information to the map user.) Tj112.92 0  TD 0  Tc 1.95  Tw ( ) Tj-368.16 -23.04  TD ( ) Tj0 -203.88  TD 0.03  Tw (                                             ) TjET1 1 1 rg 170.04 98.04 268.68 201.36 re f0.24 w 1 J 1 j 0 0 0 RG 232.8 255.72 m 232.8 267.4176 220.7578 276.96 205.92 276.96  c 191.0822 276.96 179.04 267.4176 179.04 255.66  c 179.04 243.9024 191.0822 234.36 205.92 234.36  c 220.7578 234.36 232.8 243.9024 232.8 255.66  c S BT183.6 253.56  TD0 0 0 rg /F3 6  Tf-0.0174  Tc 0  Tw (PHENOMENON) TjET338.28 217.56 m 338.28 229.2576 325.7271 238.8 310.26 238.8  c 294.7929 238.8 282.24 229.2576 282.24 217.5  c 282.24 205.7424 294.7929 196.2 310.26 196.2  c 325.7271 196.2 338.28 205.7424 338.28 217.5  c S BT283.32 219  TD-0.0086  Tc (CARTOGRAPHER\222S) Tj-1.2 -7.08  TD -0.0077  Tc (INTERPRETATION) TjET284.52 235.56 m 284.52 247.2576 272.4509 256.8 257.58 256.8  c 242.7091 256.8 230.64 247.2576 230.64 235.5  c 230.64 223.7424 242.7091 214.2 257.58 214.2  c 272.4509 214.2 284.52 223.7424 284.52 235.5  c S BT248.88 233.52  TD0  Tc (DATA) TjET432.48 170.4 m 432.48 182.0976 420.4377 191.64 405.6 191.64  c 390.7622 191.64 378.72 182.0976 378.72 170.34  c 378.72 158.5824 390.7622 149.04 405.6 149.04  c 420.4377 149.04 432.48 158.5824 432.48 170.34  c S BT394.8 171.96  TD-0.014  Tc (USERS\222) Tj-17.28 -7.2  TD -0.0077  Tc (INTERPRETATION) TjET387.72 197.4 m 387.72 209.0976 375.6509 218.64 360.78 218.64  c 345.9091 218.64 333.84 209.0976 333.84 197.34  c 333.84 185.5824 345.9091 176.04 360.78 176.04  c 375.6509 176.04 387.72 185.5824 387.72 197.34  c S BT354.36 195.36  TD-0.014  Tc (MAP) TjET232.92 213.48 m 231.12 212.88 l 229.08 212.64 l 226.8 212.52 l 224.4 212.64 l 221.88 213.12 l 219.12 213.6 l 216.48 214.32 l 213.72 215.28 l 209.88 216.96 l 208.08 217.92 l 206.4 219 l 204.84 219.96 l 203.4 221.16 l 202.08 222.12 l 201 223.32 l 199.92 224.4 l 199.08 225.48 l 198.48 226.68 l 197.88 227.76 l 197.64 228.84 l 197.4 229.8 l 197.4 230.88 l 197.64 231.84 l 192.12 234.12 l 191.76 232.8 l 191.64 231.48 l 191.88 230.16 l 192.36 228.84 l 192.96 227.4 l 193.8 225.96 l 195 224.52 l 196.32 222.96 l 197.76 221.64 l 199.44 220.2 l 201.24 218.76 l 203.28 217.44 l 205.44 216.12 l 207.72 214.92 l 210.12 213.84 l 212.64 212.76 l 216.24 211.44 l 219.72 210.48 l 223.2 209.76 l 226.56 209.28 l 229.68 209.16 l 232.56 209.16 l 235.2 209.64 l 237.48 210.36 l 242.64 206.88 l 240.84 213.96 l 227.88 216.96 l 232.92 213.48 l S 286.8 193.32 m 285.12 192.72 l 282.96 192.48 l 280.68 192.36 l 278.28 192.48 l 275.64 192.84 l 273 193.32 l 270.24 194.16 l 267.48 195.12 l 263.64 196.8 l 261.96 197.76 l 260.28 198.84 l 258.6 199.8 l 255.96 201.96 l 254.76 203.16 l 253.8 204.24 l 252.96 205.32 l 252.24 206.52 l 251.76 207.48 l 251.4 208.68 l 251.28 209.64 l 251.28 210.72 l 251.64 211.68 l 245.88 213.84 l 245.64 212.64 l 245.52 211.32 l 245.64 210 l 246.12 208.56 l 246.84 207.12 l 247.68 205.8 l 248.76 204.36 l 250.08 202.8 l 251.64 201.48 l 253.32 200.04 l 255.12 198.6 l 257.16 197.28 l 259.32 195.96 l 261.48 194.76 l 264 193.56 l 266.52 192.48 l 270.12 191.28 l 273.48 190.32 l 276.96 189.6 l 280.44 189.12 l 283.44 189 l 286.44 189.12 l 289.08 189.48 l 291.48 190.08 l 296.52 186.6 l 294.6 193.8 l 281.64 196.8 l 286.8 193.32 l S 342.96 170.88 m 341.16 170.28 l 339.12 170.04 l 336.84 169.92 l 334.32 170.04 l 331.8 170.4 l 329.16 171 l 326.4 171.72 l 323.64 172.8 l 321.6 173.64 l 318 175.32 l 316.32 176.4 l 314.76 177.48 l 313.32 178.44 l 312.12 179.64 l 310.92 180.6 l 309.96 181.8 l 309.12 182.88 l 308.4 183.96 l 307.8 185.16 l 307.56 186.12 l 307.32 187.2 l 307.32 188.28 l 307.68 189.12 l 302.04 191.4 l 301.68 190.2 l 301.68 188.88 l 301.8 187.56 l 302.28 186.12 l 302.88 184.8 l 303.84 183.36 l 304.8 181.8 l 307.68 178.92 l 309.36 177.48 l 311.28 176.28 l 313.2 174.84 l 315.36 173.64 l 317.64 172.32 l 320.04 171.12 l 322.56 170.16 l 326.16 168.84 l 329.64 167.88 l 333.12 167.16 l 336.48 166.68 l 339.6 166.44 l 342.48 166.56 l 345.12 167.04 l 347.52 167.64 l 352.56 164.28 l 350.64 171.48 l 337.8 174.36 l 342.96 170.88 l S 396.72 146.16 m 394.92 145.56 l 392.88 145.32 l 390.6 145.2 l 388.2 145.44 l 385.68 145.8 l 382.92 146.28 l 380.28 147.12 l 377.52 147.96 l 375.48 148.8 l 373.68 149.64 l 371.88 150.6 l 370.2 151.68 l 368.64 152.64 l 367.2 153.84 l 365.88 154.8 l 364.8 156 l 363.72 157.08 l 362.88 158.28 l 361.68 160.44 l 361.32 161.52 l 361.2 162.48 l 361.2 163.56 l 361.44 164.52 l 355.8 166.8 l 355.56 165.48 l 355.44 164.28 l 355.68 162.96 l 356.16 161.52 l 356.76 160.08 l 357.6 158.64 l 358.8 157.2 l 360.12 155.64 l 361.56 154.32 l 363.24 152.88 l 365.04 151.44 l 367.08 150.12 l 369.24 148.8 l 371.52 147.6 l 373.92 146.52 l 376.44 145.44 l 380.04 144.12 l 387 142.44 l 390.36 141.96 l 393.48 141.84 l 396.36 141.96 l 399 142.44 l 401.28 143.04 l 406.44 139.56 l 404.64 146.64 l 391.68 149.64 l 396.72 146.16 l S 283.44 135.36 m 278.04 142.32 l 275.64 134.28 l 260.64 142.32 l 269.88 131.76 l 259.8 129.84 l 267.96 123.6 l 260.04 117.96 l 272.16 119.28 l 270.12 112.08 l 276.6 116.04 l 278.28 104.28 l 282.72 117.36 l 288.72 107.88 l 290.4 118.32 l 299.4 111.12 l 296.52 121.32 l 306.96 120.6 l 298.2 126.12 l 305.76 130.8 l 296.28 132.48 l 299.88 138.12 l 290.64 136.32 l 291.48 146.88 l 283.44 135.36 l S BT272.64 124.68  TD-0.018  Tc (NOISE) TjET215.28 208.32 m 214.68 207.48 l 282.48 135.12 l 283.2 135.96 l 215.28 208.32 l f1.08 w 220.2 206.04 m 214.92 207.96 l 216.48 202.68 l S 284.04 133.2 m 285.12 133.44 l 270.72 180.48 l 269.64 180.12 l 284.04 133.2 l f272.64 180.96 m 268.8 184.92 l 267.84 179.52 l 272.64 180.96 l f*284.28 133.8 m 284.88 132.96 l 319.32 161.28 l 318.6 162.24 l 284.28 133.8 l f320.28 159.6 m 322.56 164.76 l 317.28 163.44 l 320.28 159.6 l f*284.4 133.92 m 284.64 132.84 l 358.32 143.28 l 358.2 144.48 l 284.4 133.92 l f358.44 141.36 m 363 144.6 l 357.72 146.28 l 358.44 141.36 l f*211.32 219.36 m 209.64 217.8 l 218.64 208.8 l 220.32 210.48 l 211.32 219.36 l f218.16 217.92 m 216.36 219.24 l 209.64 210.36 l 211.44 209.04 l 218.16 217.92 l f262.8 199.2 m 261.24 197.64 l 270.24 188.64 l 271.8 190.2 l 262.8 199.2 l f269.64 197.76 m 267.96 199.08 l 261.12 190.08 l 262.92 188.76 l 269.64 197.76 l f318.96 176.76 m 317.4 175.2 l 326.28 166.2 l 327.96 167.76 l 318.96 176.76 l f325.8 175.32 m 324 176.64 l 317.28 167.64 l 319.08 166.32 l 325.8 175.32 l f368.28 154.32 m 366.72 152.64 l 375.72 143.76 l 377.28 145.44 l 368.28 154.32 l f375.12 152.88 m 373.32 154.2 l 366.6 145.32 l 368.4 144 l 375.12 152.88 l fBT438.72 98.04  TD/F1 9.96  Tf0  Tc 1.95  Tw ( ) Tj-382.08 -9  TD ( ) Tj158.52 -11.52  TD 0  Tc 0.0293  Tw (Fig. 2 ) Tj25.8 0  TD -0.0767  Tc 0  Tw (-) Tj3.24 0  TD 0.0034  Tc 0.0266  Tw ( Noise in each step of the process.) Tj135.84 0  TD 0  Tc 1.95  Tw ( ) TjET0.24 w 1 1 1 rg 231 536.64 m 231 547.6752 219.6298 556.68 205.62 556.68  c 191.6102 556.68 180.24 547.6752 180.24 536.58  c 180.24 525.4848 191.6102 516.48 205.62 516.48  c 219.6298 516.48 231 525.4848 231 536.58  c bq 184.56 530.76 47.76 10.2 re W n BT184.56 534.48  TD0 0 0 rg /F3 6  Tf-0.0294  Tc 0  Tw (PHENOMENON) TjETQ 330.36 500.52 m 330.36 511.6484 318.5328 520.68 303.96 520.68  c 289.3872 520.68 277.56 511.6484 277.56 500.52  c 277.56 489.3917 289.3872 480.36 303.96 480.36  c 318.5328 480.36 330.36 489.3917 330.36 500.52  c bq 278.52 498.36 57 9.96 re W n BT278.52 501.96  TD0 0 0 rg /F3 6  Tf-0  Tc 0  Tw (CARTOGRAPHER\222S) TjETQ q 277.32 491.52 59.64 9.96 re W n BT277.32 495.12  TD0 0 0 rg /F3 6  Tf-0.0163  Tc 0  Tw (INTERPRETATION) TjETQ 279.6 517.56 m 279.6 528.6884 268.2029 537.72 254.16 537.72  c 240.1171 537.72 228.72 528.6884 228.72 517.56  c 228.72 506.4316 240.1171 497.4 254.16 497.4  c 268.2029 497.4 279.6 506.4316 279.6 517.56  c bq 246 511.68 20.4 10.2 re W n BT246 515.52  TD0 0 0 rg /F3 6  Tf0.03  Tc 0  Tw (DATA) TjETQ 419.16 456.12 m 419.16 467.2483 407.7629 476.28 393.72 476.28  c 379.6771 476.28 368.28 467.2483 368.28 456.12  c 368.28 444.9917 379.6771 435.96 393.72 435.96  c 407.7629 435.96 419.16 444.9917 419.16 456.12  c bq 383.52 453.84 24.72 10.08 re W n BT383.52 457.44  TD0 0 0 rg /F3 6  Tf0.026  Tc 0  Tw (USERS\222) TjETQ q 367.32 447.12 53.16 9.96 re W n BT367.32 450.72  TD0 0 0 rg /F3 6  Tf-0.0163  Tc 0  Tw (INTERPRETATION) TjETQ 377.04 481.56 m 377.04 492.6884 365.6429 501.72 351.6 501.72  c 337.5571 501.72 326.16 492.6884 326.16 481.56  c 326.16 470.4317 337.5571 461.4 351.6 461.4  c 365.6429 461.4 377.04 470.4317 377.04 481.56  c bq 345.36 475.68 15.96 10.2 re W n BT345.36 479.52  TD0 0 0 rg /F3 6  Tf-0.014  Tc 0  Tw (MAP) TjETQ 231 496.92 m 230.16 496.68 l 229.2 496.56 l 228.36 496.32 l 227.4 496.08 l 223.92 496.08 l 222.96 496.32 l 221.76 496.32 l 220.56 496.56 l 219.24 496.68 l 218.04 497.16 l 216.84 497.52 l 215.4 497.76 l 214.2 498.36 l 212.76 498.72 l 210.96 499.56 l 209.16 500.28 l 207.6 501.36 l 206.04 502.08 l 204.6 503.16 l 203.16 504.12 l 201.96 505.08 l 200.76 506.28 l 200.04 507.36 l 199.2 508.32 l 198.36 509.52 l 198 510.48 l 197.76 510.96 l 197.64 511.56 l 197.64 513.96 l 197.76 514.32 l 192.36 516.36 l 192.24 515.76 l 192.24 512.76 l 192.36 512.16 l 192.6 511.32 l 192.96 510.72 l 193.2 510.12 l 193.56 509.52 l 194.16 508.68 l 194.64 508.08 l 195.24 507.36 l 195.84 506.76 l 196.44 505.92 l 197.04 505.32 l 197.76 504.72 l 199.44 503.28 l 201.24 502.08 l 203.04 500.76 l 204.96 499.56 l 207.24 498.36 l 209.64 497.28 l 211.8 496.32 l 213.6 495.72 l 215.16 495.12 l 216.96 494.52 l 218.64 494.16 l 220.2 493.68 l 221.76 493.56 l 223.32 493.32 l 225 493.08 l 226.32 492.96 l 230.52 492.96 l 231.96 493.08 l 233.16 493.32 l 234.12 493.68 l 235.32 493.92 l 240.12 490.68 l 238.32 497.52 l 226.2 500.28 l 231 496.92 l b*281.76 477.84 m 280.92 477.72 l 279.96 477.48 l 279.12 477.24 l 278.16 477.12 l 273.72 477.12 l 272.52 477.24 l 271.2 477.48 l 270 477.72 l 268.8 478.08 l 267.6 478.32 l 266.16 478.68 l 264.96 479.04 l 263.52 479.64 l 259.92 481.32 l 258.36 482.04 l 256.8 483.12 l 253.92 485.04 l 252.72 486.12 l 251.52 487.08 l 250.56 488.28 l 249.96 489.24 l 249.12 490.32 l 248.76 491.28 l 248.52 491.88 l 248.4 492.36 l 248.4 494.76 l 248.52 495.12 l 243.12 497.28 l 243 496.68 l 243 493.68 l 243.12 492.96 l 243.36 492.36 l 243.72 491.76 l 243.96 491.04 l 244.32 490.32 l 244.92 489.72 l 245.4 488.88 l 246.6 487.68 l 247.2 486.84 l 248.52 485.52 l 250.2 484.32 l 252 482.88 l 253.8 481.68 l 255.72 480.48 l 258 479.28 l 260.4 478.32 l 262.56 477.24 l 264.36 476.52 l 265.92 476.04 l 267.6 475.44 l 269.4 475.08 l 270.96 474.72 l 272.52 474.24 l 274.2 474.12 l 275.76 473.88 l 281.4 473.88 l 282.72 474.12 l 283.92 474.24 l 285 474.48 l 286.2 474.84 l 291 471.72 l 289.2 478.44 l 276.96 481.08 l 281.76 477.84 l b*334.56 456.72 m 332.88 456.24 l 331.92 456.12 l 330.96 455.88 l 327.72 455.88 l 326.52 456.12 l 325.32 456.12 l 324.12 456.24 l 322.92 456.48 l 321.48 456.84 l 320.28 457.32 l 319.08 457.44 l 317.76 458.04 l 316.56 458.52 l 314.52 459.24 l 312.96 460.08 l 311.16 460.92 l 309.48 461.88 l 308.16 462.84 l 306.72 463.92 l 305.52 464.88 l 304.32 466.08 l 303.48 467.04 l 302.76 468.12 l 302.16 469.08 l 301.56 470.28 l 301.32 470.64 l 301.32 471.24 l 301.08 471.72 l 301.08 473.04 l 301.32 473.64 l 301.32 474.12 l 296.16 476.04 l 295.92 475.44 l 295.8 474.84 l 295.8 473.04 l 295.92 472.44 l 296.16 471.84 l 296.4 471.12 l 296.52 470.52 l 297 469.92 l 297.36 469.08 l 297.72 468.48 l 298.2 467.88 l 298.8 467.04 l 299.4 466.44 l 300 465.72 l 300.72 465.12 l 301.32 464.52 l 302.88 463.08 l 304.68 461.64 l 306.48 460.44 l 308.76 459.24 l 310.68 458.04 l 315.48 456.12 l 317.16 455.52 l 318.72 454.92 l 320.52 454.32 l 322.08 453.84 l 323.76 453.48 l 325.32 453.24 l 326.88 453.12 l 328.56 452.88 l 329.88 452.64 l 334.32 452.64 l 336.72 453.12 l 337.92 453.48 l 338.88 453.72 l 343.68 450.48 l 341.88 457.32 l 329.76 460.08 l 334.56 456.72 l b*385.32 433.44 m 384.48 433.32 l 383.64 433.08 l 382.68 432.84 l 381.72 432.72 l 377.28 432.72 l 376.08 432.84 l 373.68 433.32 l 372.36 433.68 l 371.16 433.92 l 369.72 434.28 l 368.52 434.64 l 367.08 435.24 l 363.48 436.92 l 361.92 437.64 l 360.36 438.72 l 357.48 440.64 l 356.28 441.72 l 355.08 442.68 l 354.36 443.88 l 353.52 444.84 l 352.68 445.92 l 352.32 446.88 l 352.08 447.48 l 351.96 447.84 l 351.96 450.24 l 352.08 450.84 l 346.68 452.88 l 346.68 452.28 l 346.56 451.68 l 346.56 449.88 l 346.68 449.28 l 346.68 448.44 l 347.16 447.84 l 347.28 447.24 l 347.76 446.64 l 348.12 445.92 l 348.48 445.32 l 348.96 444.48 l 350.16 443.28 l 350.76 442.44 l 351.48 441.84 l 352.08 441.12 l 353.76 439.92 l 355.56 438.48 l 357.36 437.28 l 359.28 436.08 l 361.56 434.88 l 363.96 433.92 l 366.36 432.84 l 369.48 431.64 l 371.28 431.04 l 372.96 430.68 l 374.52 430.32 l 376.08 430.08 l 377.76 429.72 l 379.32 429.72 l 380.64 429.48 l 384.84 429.48 l 386.28 429.72 l 387.48 429.84 l 388.68 430.08 l 389.64 430.44 l 394.44 427.32 l 392.64 434.04 l 380.52 436.68 l 385.32 433.44 l b*endstream
-endobj
-13 0 obj
-19932
-endobj
-11 0 obj
-<<
-/Type /Page
-/Parent 5 0 R
-/Resources <<
-/Font <<
-/F0 6 0 R 
-/F1 7 0 R 
-/F2 8 0 R 
-/F3 14 0 R 
->>
-/ProcSet 2 0 R
->>
-/Contents 12 0 R
->>
-endobj
-17 0 obj
-<<
-/Length 18 0 R
->>
-stream
-BT56.64 56.64  TD0 0 0 rg /F0 9.96  Tf0.0102  Tc 0.0198  Tw (Revista Brasileira de Ca) Tj98.52 0  TD 0.0119  Tc 0.0181  Tw (rtografia, N) Tj47.76 4.56  TD /F0 6.48  Tf0  Tc 0  Tw (o) Tj3.24 -4.56  TD /F0 9.96  Tf0.05  Tc -0.02  Tw ( 53, pp. ) Tj32.76 0  TD 0.06  Tc 0  Tw (29) Tj10.08 0  TD 0.0433  Tc (-) Tj3.36 0  TD 0.06  Tc (37) Tj10.08 0  TD 0.0325  Tc -0.0025  Tw (, dezembro 2001.) Tj69.12 0  TD 0  Tc 2.43  Tw ( ) TjET52.8 65.64 488.88 0.48 re fBT56.64 45.12  TD/F1 9.96  Tf1.95  Tw ( ) Tj35.4 717  TD -0.0133  Tc 3.5713  Tw (Almost since its inception, and increasing) Tj183.84 0  TD -0.0944  Tc 0.1244  Tw (ly ) Tj-219.24 -11.52  TD 0.0082  Tc 3.8884  Tw (over the past decade and a half, this approach to) Tj0  Tc 0.03  Tw ( ) Tj0 -11.4  TD -0.0028  Tc 7.3288  Tw (cartographic research has come under criticism.) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD -0.0137  Tc 4.8037  Tw (Critiques of the communications paradigm can be) Tj0  Tc 0.03  Tw ( ) TjT* 0.0026  Tc 0.0274  Tw (lumped under four main topics \(MacEachren, 1995\):) Tj210.24 0  TD 0  Tc 1.95  Tw ( ) Tj-174.84 -12.24  TD /F4 9.96  Tf-0.0216  Tc 0  Tw (\267) Tj4.56 0  TD 0  Tc 10.95  Tw ( ) Tj13.44 0  TD /F1 9.96  Tf-0.0098  Tc 0.8398  Tw (Is there one optimal map?  Is such a thing) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD 0.0277  Tc 1.4423  Tw (possible?  ) Tj45.24 0  TD 0.0023  Tc 1.4437  Tw (Or perhaps for some \(or most\)) Tj0  Tc 0.03  Tw ( ) Tj-45.24 -11.52  TD -0.0203  Tc 0.7017  Tw (phenomena, a series of maps may be more) Tj0  Tc 0.03  Tw ( ) Tj0 -11.4  TD 0.0091  Tc 0.0209  Tw (appropriate to aid in understanding.) Tj142.32 0  TD 0  Tc 1.95  Tw ( ) Tj-159.72 -12.24  TD /F4 9.96  Tf-0.0216  Tc 0  Tw (\267) Tj4.56 0  TD 0  Tc 10.95  Tw ( ) Tj13.44 0  TD /F1 9.96  Tf-0.0159  Tc 2.9945  Tw (People use maps in ways other than to) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD -0.0439  Tc 11.8339  Tw (communicate known inform) Tj135.48 0  TD 0  Tc 11.67  Tw (ation ) Tj34.08 0  TD -0.0767  Tc 0  Tw (-) Tj3.24 0  TD 0  Tc 0.03  Tw ( ) Tj-172.8 -11.52  TD -0.0224  Tc 1.6124  Tw (sometimes they can be used to study and) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD -0.0226  Tc 0.0526  Tw (to gain understanding of the unknown.) Tj153.24 0  TD 0  Tc 1.95  Tw ( ) Tj-171.24 -12.24  TD /F4 9.96  Tf-0.0216  Tc 0  Tw (\267) Tj4.56 0  TD 0  Tc 10.95  Tw ( ) Tj13.44 0  TD /F1 9.96  Tf-0.0139  Tc 0.7339  Tw (The communications paradigm ignores the) Tj0  Tc 0.03  Tw ( ) Tj0 -11.4  TD -0.0021  Tc 0.0321  Tw (art in cartography.) Tj73.32 0  TD 0  Tc 1.95  Tw ( ) Tj-91.32 -12.24  TD /F4 9.96  Tf-0.0216  Tc 0  Tw (\267) Tj4.56 0  TD 0  Tc 10.95  Tw ( ) Tj13.44 0  TD /F1 9.96  Tf-0.0097  Tc 8.3437  Tw (And has provided false claims of) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD 0.0009  Tc 0.0291  Tw (objectivity and lack of bias.) Tj110.52 0  TD 0  Tc 1.95  Tw ( ) Tj-164.52 -11.52  TD ( ) Tj0 -11.76  TD /F2 9.96  Tf0.045  Tc -0.015  Tw (3. ) Tj10.08 0  TD -0.0037  Tc 0.0337  Tw (CARTOGRAPHIC REPRESENTATION) TjET66.72 549.96 177.84 0.96 re fBT244.56 552  TD0  Tc 2.91  Tw ( ) Tj-187.92 -11.16  TD /F1 9.96  Tf1.95  Tw ( ) Tj0 -11.52  TD 33.51  Tw ( ) Tj36 0  TD 0.033  Tc 0.957  Tw (Based o) Tj33 0  TD -0.0134  Tc 0.9834  Tw (n these criticisms, a new approach has) Tj0  Tc 0.03  Tw ( ) Tj-69 -11.52  TD 0.0132  Tc 2.6739  Tw (been proposed by Alan MacEachren \(1995\).  Called) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD 0.0013  Tc 3.7487  Tw ("cartographic representation", the goals of this new) Tj0  Tc 0.03  Tw ( ) TjT* 0.0019  Tc 0.1631  Tw (paradigm in cartographic research are: to create multiple ) TjT* -0.0139  Tc 2.4239  Tw (graphic summaries of spatial information \(rather than) Tj0  Tc 0.03  Tw ( ) Tj0 -11.4  TD 0.0174  Tc 0  Tw (rel) Tj10.56 0  TD -0.0032  Tc 6.3932  Tw (ying on one "optimal" map to represent the) Tj0  Tc 0.03  Tw ( ) Tj244.68 290.28  TD -0.0072  Tc 8.4132  Tw (phenomenon\); to create these multiple graphic) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD -0  Tc 3.7355  Tw (summaries in order to explore the data and reveal) Tj0  Tc 0.03  Tw ( ) Tj0 -11.4  TD -0.0307  Tc 3.2257  Tw (unknowns as well as to communicate the results of) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD -0.0171  Tc 0.6471  Tw (analysis; and thus to create more consistently functional) Tj0  Tc 0.03  Tw ( ) TjT* -0.0231  Tc 0  Tw (maps.) Tj23.4 0  TD 0  Tc 1.95  Tw ( ) Tj-23.4 -11.52  TD 33.51  Tw ( ) Tj36 0  TD -0.1111  Tc 3.8611  Tw (A ) Tj13.32 0  TD -0.0179  Tc 3.6879  Tw (key component of this new approach is) Tj0  Tc 0.03  Tw ( ) Tj-49.32 -11.52  TD 0.0109  Tc 8.8591  Tw (cartographic visualization.  In a 1994 book,) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD -0.0183  Tc 1.6383  Tw (MacEachren suggested that we can view the nature of) Tj0  Tc 0.03  Tw ( ) Tj0 -11.4  TD -0.0195  Tc 0.3004  Tw (maps in the form of a cubic space with three dimensions ) Tj0 -11.52  TD -0.0076  Tc 1.2109  Tw (or axes \(Figure 3\).  One axis represents the continuum) Tj0  Tc 0.03  Tw ( ) TjT* -0.0256  Tc 6.1756  Tw (of map ) Tj42.6 0  TD /F0 9.96  Tf0.0285  Tc 0  Tw (pur) Tj13.92 0  TD 0.0258  Tc (pose) Tj18.36 0  TD /F1 9.96  Tf-0.0306  Tc 6.1206  Tw ( ranging from presenting known) Tj0  Tc 0.03  Tw ( ) Tj-74.88 -11.52  TD -0.0207  Tc 1.6857  Tw (information to revealing the unknown.  A second axis) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD -0.02  Tc 0.41  Tw (representing the continuum of map ) Tj143.28 0  TD /F0 9.96  Tf0.0144  Tc 0  Tw (use) Tj13.32 0  TD /F1 9.96  Tf-0.0287  Tc 0.3287  Tw ( ranging from the ) Tj-156.6 -11.52  TD 0.0039  Tc 3.0111  Tw (private or individual domain to the public or social) Tj0  Tc 0.03  Tw ( ) Tj0 -11.4  TD -0.0158  Tc 1.3791  Tw (domain.   And a third axis representing the continuum) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD -0.0256  Tc 1.0156  Tw (of map) Tj28.8 0  TD 0  Tc 0.87  Tw ( ) Tj3.36 0  TD /F0 9.96  Tf0.0187  Tc 0  Tw (interaction) Tj43.92 0  TD /F1 9.96  Tf-0.051  Tc 0.921  Tw (, from low human) Tj73.32 0  TD -0.0767  Tc 0  Tw (-) Tj3.24 0  TD -0.0037  Tc 0.8737  Tw (map interaction to) Tj0  Tc 0.03  Tw ( ) Tj-152.64 -11.52  TD -0.06  Tc 1.65  Tw (high human) Tj48.36 0  TD -0.0767  Tc 0  Tw (-) Tj3.24 0  TD 0.0037  Tc 1.5863  Tw (map interaction.   The corner of the cube) Tj0  Tc 0.03  Tw ( ) Tj-51.6 -11.52  TD -0.0181  Tc 0.6031  Tw (that marks the point of congruence of presenting known) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD -0.0434  Tc 3.5534  Tw (information, with low human) Tj126.24 0  TD -0.0767  Tc 0  Tw (-) Tj3.24 0  TD -0.0121  Tc 3.4821  Tw (map interaction in the) Tj0  Tc 0.03  Tw ( ) Tj-129.48 -11.52  TD -0.0086  Tc 4.8686  Tw (public domain defines cartographic communication.) Tj226.8 0  TD 0  Tc 0.03  Tw (  ) Tj-226.8 -11.4  TD -0.0029  Tc 0.0684  Tw (The   corner   of   the   cube   that  marks   the   point   of ) Tj0 -11.52  TD -0.0237  Tc 0.4337  Tw (congruence  of   revealing  unknown  information,  high ) TjT* -0.0702  Tc 0  Tw (human) Tj26.76 0  TD -0.0767  Tc (-) Tj3.24 0  TD -0.009  Tc 3.507  Tw (map  interaction  in  the  private  domain) Tj0  Tc 0.03  Tw (  ) Tj-30 -11.52  TD -0.0018  Tc 44.9718  Tw (defines cartographic visualization.) Tj-255.24 -37.32  TD 0  Tc 1.95  Tw ( ) Tj0 -11.52  TD ( ) TjT* ( ) Tj0 -307.44  TD 0.03  Tw (                      ) Tj55.44 0  TD (              ) TjETq 298.32 0 0 -304.92 147.36 434.76 cm /im1 Doendstream
-endobj
-18 0 obj
-7447
-endobj
-21 0 obj
-<<
-/Type /XObject
-/Subtype /Image
-/Name /im1
-/Filter [ /ASCII85Decode /DCTDecode  ]
-/Width 403
-/Height 412
-/BitsPerComponent 8
-/ColorSpace /DeviceGray
-/Length 22 0 R
->>
-stream
-s4IA>!"M;*Ddm8XA:OX[!!*&R!(-`,',;5t',ql0*@i0R+tGQ(.k<#/;c5q<6;:9f
-Amf(W?u'Y1Jou*VG%c;]Mi3U\V5:#_P,5"OV5:#bV5:$g^]4`J!Ls1S!<Ec4s24oc
-!!!$'!<E3%!<E0#z!!<3%!X&Z2#7(VC$P3:="9AT+"9J`2"pbG9%:K8;!YGM;+VHL5
-5uD&(,&r/h"r*2nYsKZ\'iJKs1r43a6O+p##ZK.?@rjLCiM,kJK-j!M<+JG7UNAC1
-(t)FDAb*0\_p`bgo0t*lUkQ1@`73l?V7":mjn2YdG(u<[[`6n\p,>KCB6T,tVmj^u
-kP$Aa86BPMLmY-NaOo_O#oP0P8QfbQM4(?Rak>qS$5tBT8m5tUMOLQVb1c.Ws4mYX
-!!N>U!!iT+!!#4`kgE$Ks3TuX8L=DakgE$Ks3g,Z8L=DckgE$Ks4$8\6MjIu\>+<A
-#UBotoC7Gfb\E$Ms4->]8L=DfkgE$Ks4?J_8L=D`kgE$Ks3^&Y8L=DbkgE$Ks3p2[
-8L=DdkgE$Ks4->]8L=DfkgE$Ks4?J_8L=D`kgE$4bNZ1L<qh?[ak@8MO7KLSdFrs&
-o48DVWkqQ-iVCBQ5jo`6QF[bQo67#,Ws@(Y^udJ)[`q:>_bs6nW%bB`G1!f"kgT\W
-'^PeIkgXEqC9?&L_cR;'n,YUUf/,L`3M]1jJeP?fe*,4O-3)KYdRbbbe`bFQ-3)Q[
-dRbbbfBCXS-3)?UdRbbbdHK"M-3)EWdRbbbe*,4O-3)KYdRcdKCTN'L!9+:omc`d<
--fi&Be_YH9BrHi1Fr1_p5YiIHa2U5A<kdIsqY%SSfHTUN)mu=UHtbe#Ht3NO.N%h]
-@qtarRoA3EX`gj0[-CEl7i%_Zcid#-`WTA)moTiH?u);%-hF'(&dKU;'.&/.f'"Q*
-DQ1@?"p"])&K4&\Ns.A'?iSa2l7\*+?IJ:C=Uc:f&nB2fO#Tp8c*H)A%j$?A)V7cl
-Sm6XKi(n#N2Q&AqnOqMMZ-3t@YYVY$l(RVhM,ouCd-/nL-3)BVdRbbbdcf+N-3)HX
-dRbbbeEG=P-3)NZdRbbbf'(OR-3)T\dRbbbd-/nL-3)BL3A_+t42J.gg,4KrYD/QC
-.OOmNO_nq\#=I37TE>\a\FQ&D*6P?'CGKTU*kOjaCa$Z%_HRU5(sj-]NF\Fa7iM,W
-f#n/8D.IL):?DU;"%_n)`e$$Ss3fa#/HtNgQlbc1iWPE(-a\oS[q.L&>>,hDU`8eN
-J:'T7*\+lsh>1`kUc^N;QMi28+)i7`Ol[fb.!.YQDeQ02HS7->+iU6B#>KC+"I[h'
-fDj=`dRdNCg2(=<%u*+)CF&M_$kF5,*W1NheD84]fZuk7#+K^ebF1VV+"t/7_WkKn
-OBXEY[>gfV&kCea&`r/KN^XDOQ<;a=<BI:/]K\6*3WfNZJ3F=rDr4c+['suY*$C+.
-?iS[?dRbbbf'(OR-3)T\dRbbbd-/nL-3)BVdRbbbdcf+N-3)HXdRbbbeEG=P-3)NZ
-dRd=reXJ]P(eEFuWkd:=E@&Y-0aGaj21n-nf%;sk]$Xoqdc)Ie=OGO4!9aa;A.tU9
-plOK9-tOq^XB%VsJWe[T-@R$G'\RnQZ-7$Iforf1e'9+8D:q["Dm5;/]o_rp_lG''
-a4mcW,N'eRs4>bA??ZW2gN+:Qf[0fNCm]0&5mC-)7tFR4N12sX?$fo3h7\hV')a"G
-iWpns4>g1B=pZ;O>\(lr_KGn*kg2+;2,im]CYn4)_L!(9R-u$8P-8(q8?%o,g@3e*
-^U)mp!^9O-OCOEs*G.R3D3Zm1WF.^f_^8l:dELtiWTV93YQ*#'_'[AelFYq]XeNhF
-):Wj8T)sCQi01B[pBD8M]PXpZ81j<EoQfiVT-=H.[Elo)"i@iSlG,)@gfu]8(4ZMA
-[j\lZ.:seG7CGA<[Q*OIUmQ_pVOusWs3g+5p:ke"4%X-M@7_`2s3p2[8L=DdkgE$K
-s4->]8L=DfkgE$Ks4?J_8L=D`kgE$Ks3^&Z3R)>4S3pH_P'@!oMsA!0e[oc'[-0dY
-EX4^Z7K:g"dS/g]U0Kqr#/2HMK9:M\F'@/%\@'X/mb6%=`9RZH0E9MR])*L[40e-^
-X0B.K+iYdB3;Omq^B/q"bB'd#'%[1X>3@oJXiF=*!/H/KK?"N_<kc[[^6p<jHWisM
-O+2!?ejfpePkQr!RXO%\Y?!N28SI0Q*B9GW?iSX)c1QP0*EsOSVHOl?TU?oj1roF1
-7l'>]*eQnICM=c;m[k/rq=p/!0bO`r-b/NXs4,J>:Jn/8:dZgU[:pg1C$5$d!'$HL
-I^MbH]3Q_b[AD.O2nooH*-"1Gfbh.^Gceb>dQLX@I3G7;HV6bU8EEoimX858/@-YO
-6lfM?6UQXG,khD+s46D&d+3r.J0Ru?mngHMDCd\"33\/pSm"FN&'5=XDE$0i:'@d:
-lumo3kH&hh*X<V+Xd;l<R*[C%^7jN)`6R:#jH<$hi4o<DgNGkopMPOV<JNTga?#JJ
-kWV4W4'WcPi@m[b+T9F1?iSL:dRbbbdHK"M-3)EWdRbbbe*,4O-3)KYdRbbbe`bFQ
-!9?&\mJAu7AX/Dd-Wp\,i@mM]4]h[7f=Lg,\JrGc"g"u,o1n6IK>D7_n:':0k\][t
-frRQt>j$"Q+9;T&"O(Z"X"(O12HF0"[B-H[kM6$<1E:(@T-aNhkUEpJefH)O5mNK;
-Jj)UdN,>u6[u"n:Bc\CsO/Dg@'jXomWPQfjF?#Z7L4Kt!cCO"$-$WFt`U8*>H$HZ:
-SJm&!#TS,*h1,IOhf[0H[@l115V6n!j5HlHV?6'+\GC(1dIb.c\'+5<Y-q@oUKmmG
-aYDdMV+1BO.$%6aV"X9O0E9G/PL\OW-uQlucKFU]2o!]mI?*u-/npM1&-p,E^WmRQ
-:9<AsjD$b9%=W(aNi)<h(dn#d7qiA2dc`6a[K/E$X'@Y,"UFn+CP0I.LIl*<"8qhS
-YCKDAB_9s2i/451*0rjNOb/J*s3p2[8Q!5A+<,J9@kE%4k+)n^,^:1.21ZamV18Np
-fFN+6gkR`2NajRE6Q-0TLU`Q.#NV_BOS<+"42<MJ!aaO56/tN^*e*AAMbUpd>i6_0
-\YIJbKD:%S^]2jJdRbbbf'(OR-3)T\dRbbbd-/nL-3)BVdRc`k<;.09m;mh$J4+uL
-qkPnFdb2A*i#9WSimD%lJM!"[E]#/W3Zd+.R,_,G(>;6pf/CkUMb+@s,\cWlVhdA>
-d$._=Xq%p^J:@Ii]n..J#n]>AOupn3n65?1A\PEZ9r)O^3',7c0f""LYQ*)8/[^j#
-(R(hK!$mch#,MXZ0^4C'*a*=YAs*\BO1n:R5deO9:i"%>S8P626pmI,UPWm'E!gj6
-/A>hndA2SF>m&kDZk'[m3^Fp=s4$8ZI=9N-1ti4sk/Q;nr0!]#Hfrn(M%J5N,Nm2H
-Sk+iV=<X=oGQn,tfuWFqe/bC?S_Q#'=h,PS,/Q\XUtG(\hu6&9c7UBPP#$/SUjaio
-es4/U@gcp\D.)h>Jg^)R?fn7l[T)Y\H"ldjkJG]elHCgh]KuMd_>&`afBAUq]qN\i
-E'+\R;11aUg^.bj-)^RK5;a#L=TZV2&ZaPKj1:ko;&\T-U!4b*,!d1[^]2[EdRarF
-]k[8ddk,N&D'4nX0E9GPr@T]ScZ*ahH\hk-%WO2=*P2jFm\,<VCU0gIIhh/P4%Pd!
-V"p)m5EBAnbA4&\4i+bd[BnZ`IL9ljdcf+N-3)HXdRbbbeEG=P-3)NZdRbbbf'(KL
-AWC0jh6lVn_d*[o57sf[4G?D";>!1_CW3`rVt/4%cI(JgOEhlO@2>m60!JK")-GPR
-4e2A!pl5K#'(/:ts4?/.MJ8\WJ[<H=j,^g]LLhD[CMds1#dB)Ai#Wk/&:?>rTcBdG
-l>L,'M=oNADV?u"J7M1+3YMcGb$SqR;oo03AZ[6-nJVrr)mtg%3fZt-s3T9OAaFQb
-W)d".Cp3(`hubPU60?Y"4p6RO\oFtnim?DsO1E3oi_OT;3hGU78%=)h)"-Pm"6IZ&
-SnSN6J2Xpi@o.8cpUkl#:R_=2k_T`OP5o>hm&=@BEU+l()\86emod-_ADVa\L7L63
-60C;/j5W;1?iSOcps3eT*uXIG-85qCK^-tQ+SQ>pO16Tr*Uf3%fH?N$FU,t/J,dt6
-q>=.j!'c?JkOCs\aL6kZ0uRfPG!?Qhs4#Q<lEo4GhpK&mm!m.VHE4i:!'u]h"F![!
-JF1Q,LKTWGplFV$bqQEhJSTb<hkU0Jq$2fWe`bFQ-3)Q[=^>k"Z(\ddEIe`uF=S9m
-jjbL?@pIr=DU8p('@2]&)@<l5T4t`,g?Vqbg.m1^hh_##rSVqSFd9B%@;l^(m0)]a
-Qs]mFkgE$Ks3TuX8L=DakgE$Ks3g,Z8L=Dckg`_e9/80*mPM^sp:Rahl9KR=,G*VL
-&Oo2a2/R;ZD'V!`+G*(fp`I%I[cdUlb)*CC-+-g]DIF-eP7amU#Wue8s4#Jpm.T+H
-Y+kcr@i.?`%4hL9-V0)Mj@9Qr=A5mOhCNpe['bl=6U?\g!1jE@rTKp%Nn2e.edY8S
-dJ(Eu'ZAg<L6##BmWPE(#B-6i^]2jAAM%],&mjgjGAi7la\'`,WOnb[dGe2TrEXqB
-/_jqagaq3#0"h1H_Vdu6\)"q$ee%5Pq>KOfgA_/FhN7-.q>KOfgA_/FhS9*B&FH[s
-rTMb%[+OX*)>D1D&-te'S7bg=HXBEUl'HfSVeG,KW]7>)g.p>MG;6!VYQ)rd4DXqB
-H)9F*rr>2EdKUq'o@(r,@Q"/c4Zq?rd?Z[rf\]!K'<!sP4tB\VWT2_6kL+SDNh:gs
-<Q$O\BCSahoo_=Rh:q$0l`1!5h\O%d8#Bl!-V$s`6qJ^)e*'uTZ-P!5??\KT^`SX\
-f8!(D#;SOLE+J/Q&O&<k*(OO%7lMdLluNFfecr[tCaZt#m[aaPh(1)Da:5Acl%%qt
-i!-tb[":<15('#Ws4#rH\[`D0ecHcZ#S%DC&kRTQe`bFQ-3)Q[dRbbbfBCXS-3)?I
-b,Dp`XCua`P3*8q#U4Ukjar+UG"^$79<,,=+lV-mE$>SU+qCCNa+f7Z0BdT@fJ94/
-dP7Gi-\2V(jA>-q.b"n0=?%>8!0/G4s3][)q]M*e#l5_Q^1WLnih]psXF!FJ!_JPb
-`19MT7TC;coSrqFDfW2QlL&a$7_q3u-b%mGs3cP$I=rEMcTHQ5rr>)u!)NFTk)_;9
-rrAX^B`esNq<@%Vs3hf>)ZKf/SnS9=YPIGFO?@=Rr&iC4NIN%*RfCk^>h\GD4E'&d
-^i"_U$2?gd!'+(qG$(W:>:V#%BU/X)cssHWrr>#XYM@ok".crWR646>bmYXNr-f]&
-s4)Yeo)<PloDFDfq0t>qq>NcDI(u/sr;Qa@*PPn*kPfsps42_fo)<PloDFnoZgXZ&
-S]oR:mgV63[4ua%aG,akaSI:!_,qg>&4D/E#J0rehDIHZC33-r?)rE\+-:^pD4nXR
-L<&ujO)XV1.#BVWd-/q9X_<H>"I#a?e>fuf3kT9iZNKJURohU=cmAb^M'RN'#`#\U
-b^.pj;f$p"+q$YON"6CB7rAh@J,dpK_QqK_pKHP?<qj"^G<8u%P%=+$q+9[MWn(A%
-=AFSV+G(,k3e]DWs3g,Z8L=DckgE$Ks4$8\8L=Dekgb()CGK'1/_JA.-?]*_@q.G8
-]3=s>^()q)Go?DL8DUu:]$n^=J,e*)OjpSD7\<DdBF__fb,,[fr]^oMJ`C+XiT?4a
-C\[fifDjHQmIL6p5P+f/G56VHTDAIS4++f4ci!eC+s"C)c0,(UPQ0![mIL6p5P+f/
-G5hOq_pA8\!$WGubOG-'!'eP/jBJkf?k(KX7)ll5TC^P3dBQ6?I;\^oHect+e0'PI
-F$9r;g)4=4G2NZ,No3C>rrA\PM!b1KLS+DA6p#J1O2K<Arr=GHdX^`2*^:0"oDFDf
-kDp^?TDAIS4*/H'_pA8\!$WGoj2^-ArdU.3dtmDj?\b9Lr^8htQf7-,J!/YI;8/\*
-^I[8@*Ie"go)A^#WK!0<6Y2$[h)qn@eEEFR]qqk4_"%gLY0,eRG34>p?:k.sD9q*(
-,qA=maD]IR:<.G=roha(J,e'_dSRBL>0n<#L-Yro&!7c`)fa&?l`.L>UhbL++cZfr
-+><cGgV**r)TLMa/79_hN__h?8=oh]EdFj4^!o)L=N7u&cqKT&,KER5HkFe6s4?J_
-8L=D`kgE$Ks3^&Y8L=Dbf?NRh`NciIDK-d:ci=LS!0Ll!Rsn%KGI6W;F</$err>9F
-#B0224T>E-nfccc^CNR#r1F#<JF3>CLS+DA6p#mbiTL2iOUg:1pj)l>TB&AK4F$cd
-rrCC9J,e#KmEZh<%mT[`Lj%sB+,?Kar^8hha,e-ar;QaANo/snH2dl:jT!bdmJ^IJ
-TDAIQ@`PRj+3auZ4REgBjo0[_4+EUUkPfsor>1@VASuk4T$co(TH4<DhF)jc+90nm
-#dqR!pa=l^9@'7%r/pLJDjU;"!1o+dq7^5!rd$4.k4sM!q<@q2O.YM5!'g)QMpLsD
-TDAITkP7?gr;QaAO7SG(rr>:*s3P3REW1INq%3Q+3<&tCoDFCW%#GmS#lalhoDFrR
-l;q&`K@FfQhu*KScf+oOkUO0EKX&ANPUCern,n?`UWB.r[]%q=Y\=@,&",K!T"]Y0
-Y1?`;9U=m4EUaG:dcf+N!mF\JQ!NI4jtsR$81.5%OECUa3blG0e(/T1bWMDQgcnC?
-N-O7iTE>G7%=.k[8q=a@4U2d)YaZ-^l#D]oR?J<TM:*+.EXfPRm]mdCX:Et;4f3_T
-i@;_EeEG=P-3)NZdRbbbf'(OR?tDQG<^Z!qj@&OF(ANpsrr>&ds4:nj8M*"tPM-ME
-SUA2uZjXQ&"eOO8k<n4cbJ3q;*P]eeoD\eTaG4^)r&juZcglScd"q)g?\b9Lr^GfD
-h_4U$!'M-Ro6e=!r:F;;c1:l75P*A(d>sp\rr>:Tr/8nlJ"QQ97j$n9kPfsn&+bkR
-rr>:*s3dHa;/<_5XjbM<rrBH'Xd3'tNA!EkIU@m+r%GPHN,&pWkR[utkQH_1pNV,B
-W8"r7H#_V`)'JKtINRbBs3koXrr>:Trr?JWTDAKeTDK#orrCCCrrC\YkPftorl>&g
-D]X3(!'g)T!&2'2kPY>[chtZMkF_AG!'g&_a.@e,r;Qc@J,e&/rdX,1J)j,trrCCC
-rrC-$q>UGeq>UGX9ll\5Uk@Y8J"QQ7^]2m3`p.FHD;n(S!O'iIrrC^!Y/XYlju>>G
--F1'_)ht+a6%V:/7W#(:l*[kM%D[8ar3c)Gs4?I:p,j@u"q2Rui)GeZ*a+J2DpfkG
-7$0)_!@*FI5\07-(:huHG.Q-75!!j,';Q^!O8mS`\q\m,PmCcB1BU?sqtp-ZSQ%#7
-iF&tS#<Am<dQ@5qgq_CGBN9_Ps3^&Y8L=DbkgE$Ks3p2Ynnr>.(0]pV!d-4FYkbGM
-Z!.T'M%.g'q"apiTB)3,cFuIA!2\lXJ!9o^EoHH<a1o[@r;QaB*l?@mVE;WS8b:Cs
-rl9XOgK[+Z\rKQB`#nUN!$o>*r;QcCrK%!/DtEu/5P+mT@=OpFrrA\g$iL#)ci!eC
-fO*h@J*6gOs42*0H2dk/oD\eE]Qr]<rrCCC_XZf]oD\eTo*)E=9gcp-nCBha^ZXAO
-f:=N/]TVHb8*1X9kLb9V_"GFG=OpsL[)?i-cCDnHkP/,g(>E4>!ZY`0JZiuFoCtTN
-!2')e!2''Os3P9TJ*6f\jF0>>r;QcCn6CI8q>UGei4/de5P+mT5K!NK>^rCArrA\L
-\GlOnoD\eT_/]I(kPfs_j8AoWci!eC&-('bkPftorke[85P+mT5P>ohrrA\errB:<
-ci!eCci&q)e"(YGVs\&Q8FZWZ5P+fA(u7o^#2C@#nDO4ocgFlgk.F>XE:F8n<6(EW
-Y5RMHFT2>)3+)^8hCj:h*7EuidVcgErr=>BP\^QuA%Jtt<#rZlH%9?c*Hh0#h,EU=
-`fOOsj'`?!^!c-sNri*@)A1d,gMFmA.(R:MqHE,%li>[K"50CRBe_=ms4->&]4ft"
-FD:i<$?VG<s46D^8L=DgkgE$Ks3T9]2RU'>XH3mO)G[NmA:21XQKNZLETd86J*5o3
-,3[kN4J.s(J*6CMh!T=Tn,4n(oDG6\d;n46f>kYHci!eC,()b1]7]#$kPfso%^!r&
-@66aN/jIZG?g$*[)n(i3iW7b.^ZY+d!-A1gA,^u@rdX!X5L99-!71.>J"QQ:!2&2Z
-rr>:Trr>:$s3k5&TDAKeTA]*N-3,<TTHE@rJ!,#rWo+;?_e7#'M>TTaYl=^Lr;QcC
-rK%!.]KK?Ch2Z%TF$M%i!qHI9\idaL<q8uY(Cd9`UiQ`ici!P[q>UGeq>UH!^X)iX
-!71V)s4(K>rdX,1_Z'U#oD\eTp)!Q)!2')e!3lJ'*oH/[J*.pRepe-Rrr>:Trr>#b
-)Y*fVkPfG52<4W7!71T%G3=qXrr>:TO8mg\h!tAnkPfG7I".darrAQBT-*7qJ*.4&
-a8,`8TD?P-d!qZ0kPfto"KM>JE-!"'*0/kPJ"QNnW9Q6)90Yo6-aL5f+:r&us3^$N
-;bQkogA_-bhr6`t!1YOjjhD]+$\NW65qVkf+AD]&^DYCelDr"HZo!im<a34PTa!\C
-UG)YqkgE$Ks3p2[8L=DdkgE%4om9'3>0u7)2X3TX(Nq!M!<3$^8,q+K@R)1=HZnSu
-O7W-.Sb0V9TCVgX!2#KhMkbL+npXj>rrA\77ru5ma1q8ZrrCC9J,e)?iU5=<^W4[u
-rr=:R`p"a^@pb:hq>NeWpII=OeFChsrrA\PJRb)e9XJg[FT]WrbPd_+f4LH3(7t]`
-r;QcCao;@er;QcCrIt6#kPftt5KC8/rrA\ea8aL<+3"P8MZqi(,EKi/c[kk,a8,`8
-TD?@kcQD?LJ*.UbBeEidCpq?kZI?U>2.-C2SYpUjEKR6Inim'RoDWG$q#:=YoD\eM
-?Tp^#r;QcB(XJ06rr>:TO8mXXT-*7qJ*./cb^VSIrrA[TT8Z7.G5hP,oC>E3&Z2,6
-ci!^Us3m,*`+c,foD\eT,^qHdC"rRc!7/b/N(07Zrr>:Tnm$H1iVn>ijo<hs*`;]^
-TDA:84JVEG!'g)G>^8iurdX+lNg$XgLZAA`PQ00qdWOU>r.!&`,GaYGiV<EQTB%jI
-<o]CJqg8npr;QcCnn?M%.'c4$VFU(q483+^f%RS8)V7!pC#&.RO833[)]cH4/8Ld<
-p'rkaaY3\GkgE$Ks3TuX8L=DakgE`09nLTIXUYIo`Z3I'!<P.:J1(9QA<7(a"2OHP
-K3gdg:>c*"@U_SJ!./nPc]@\m4.Z#Wa.MqurrA[UBT&X0\FP)Rq>UGeb=?Waf>kYu
-]`.uXnpg\gEoHH<a1o[@r;QaA\AmbYBObD1TDAIV-4>jF$.SLkTDAIUZ&LM4bB4`g
-3S0i0s3sG=cMN.e!n$b\IE;]r0Ocj`_u0N7ccSc<&Z2,6ci!]sheb84@Rso)VEWu<
-I"21HOnck/Vf22,!'_Z(/G1<@9*%*Cf_P(:Ig]:@gB1^IVUjB4)Kc6H"FmYU>j^+p
-mF*[Kr6M#2r_NRFQQB$!J"QQ4/j,ourr>:Tnjc:'O2LMf!'ePbPHQ'`j8OOls4<C]
-FlVuhJ'[[1V!H([q#:>dj@;enO2LMf!'eP]M#b?k!-ccerr=GHd#g%*(a&2ArrA\P
-Eaj0Irr?]Xr;Qa@-7;oVp3cl?cgi8hFbp%tB@$MU!%7foREusar6M#2r^:i5=T8@W
-kPfsn*<F_Ubk_8=TB&E3YPIMIrdU.3d[<5`rd+D?!2&=?`9[DKq>UGejCc0-"M)l,
-r4[[Dq(6#cjdVZBF^]6[rL;oMn`0?ss3p2[8L=DdkgE$Ks4->]8L=Dfh93H@j&p(=
-(6'\u3Y02Nc1ZmBj6[HJrr>:Tj4c$2Ag?g.6*DBnUhGT-&MOH@j.-CeJ"E4Gs4:^h
-5U6>VG3@24oCtD<oY&;;o(i:cT9O#IUNa6=IU)^K!2%G)F1KoC^\#2=!714cs3PfF
-maoLoa3X\`!$f"nkp0qP?]UiTr^S:CNk,PHn^!j'r^9FOf0M)d*:(omkOAN!PM4JH
-m63>)k>SQ*8gerfM>%&0a<,mRk6TWM.]<HC"k#O4Hk6>Y!'LN[8-T=r^45>A5QB0"
-0fm7&Zfh=;P3%/!CEA=?WW7+2&a)=T^'^]j]:ZN!AAI[Qq>UGejC2S@M#RHfci!eC
--i_Y`clHWoc_(%47!&Z9rr=k<rdU%N!S0KZq>UGej@&UCq<R5CJ!9o^R69g7HMRR@
-TB&DYli)5+rrA\P7.[UCIug5tr^9OCq"ORZrrA\Ps4*N"lf6m_kPfsn'@+<Tr]Yhp
-q%5aTj58n[rdU'SM:_[uoD\eTaoBp8OZNLBT"]^;q%;&)cc=9TV#LFeO.)!.BQ7qS
-GC\b'5%/s@f5p5e8NSaiG9;bm"uV'q2$9"Pr624424LmCg0q+OSd@V&qQ3(L"Hrg=
-s3TuX8L=DakgE$Ks3g,Z8S@^cK.1AYTY-I0+f"t>^]2b",^1F5*tQKmIh->=7\i9o
-iV>^-nFjNZ1D0D'T\#7rdPO@R#ab_0n]lbn5L3*^s3tLe5U6>VG3@24oCtD<oY&;;
-o(i:cT9O#IUNa6=IU)^K!2%G)F1KoC^\#2=!714cs4)/KmaoLoa3X\`!$f"nkp0qP
-?]UiTr^S:CNk,PHn^!j'r^9FOf0M)d*:(omkOAN&.pD*q28;\Q#D"\V]Hqf4Y&f.G
-JJ'dn1^*`.*8'/G,_#7Cm[ZSgKco;ALIaIX&'*#orr=GHf?b7pl2#Z%SH,!9P1(QL
-J>u`ra3KE5J\^Hpr;QaB8`sG%rr=-*oDFVZ:;>tqTDAI^s3Mq;J'Z0[,Gb>>T9#F2
-8cJcT+#K"ArdI%Hs3VuE1\lJ`BbM.EQfI4jn,?[TRRb-gIQhQIdNS)Y?]UXG^\N=B
-Bcd9SjnSYIHiF)4j6",VdrT-c/-WmSO?.g]q%>6(P33G7CJ77:chS9j%;[jd&nAhD
-M2D640?;=es3r2H5NV\9X^7I;a"Girj7m;WWA<chCF_V?J6Nr%a?9/-%0$<p2CL48
-<c$1FTY!bG2.-C6kXCbu_Aii2d51F%SN]Y;,esB1kgE$Ks4?J_=M8&.q0N4><mV-A
-ES'bOq<BD)M)l).^F/jT4hq$D(aO;L!?ViordPGobXSBn,N8G_S+--akq`qHF.h-G
-o?oH`O9h3U_"#^&?9cb2huD)5@R)1=HZnSuO7W-.Sb0V9TCVgX!2#KhMkbL+npXj>
-rrA\77ru5ma1q8ZrrCC9J,dr;iU5=<^W4[urr=:R`p"a^@pb:hq>Nl2$]_e)eFCkW
-q>N][G.GrNf[B._#?X+Y1&cQMs3i,G3lFVA[lU():EU[""($68;m-N4YR,7pSBe]k
-PHXj5?DZMH(:_7P1[X<0-Vepd!&=N'+n,D;O.&SRq0kMA*rc6%q"^gNq;]NUk.grH
-.IYS(59D_CIX(DXq4rB;!12a.Omi9VO.-+".I[7CO.&SRq0kMA*rc6%q"^_-PQ$".
-fDjGIgsudOg[RH"o24<6AZ[)"\AulZge6+gVKWm.Gl+D""YsP7[9rs\.5="nm.mM*
--iC_$1l:C&*rc3^1rR>urd+D?!2&?PdHE&mVc+P3J---2QXm<g[B2&F7-HiA9pQ`0
-/u?kID@WeG-W8Fk_,_D]fp#ijlJ,$UL4d"DKH1@[%GHpLR%>,odcf+N-3)HXdRbbb
-eEGLAO_D?'/ShhN\j>oSp^b9_LiNEDkMcF$HX;(kctVV;5L8<Us4%r3G9R&0&'=g#
-%r9BYUd-0`q*1A<p:TWG&bpF?f8oOO1dmE2Qik.oc@]FfcVEBtem`)R,QN17kKf4\
-pcG&=]uQc9q>UGeP\>uMGI[3m>l"C"T?B`G\_"m:oXt2(cglScf5fj<f>kYHci!eC
-,IkbX,\U[pO.Z7I6HQC"*<^9,'BLM6pj\n<-7%oMQm[o:kE#60J,dk=0fm6Ef=*f3
-GY]G&F9>iok>SPkFe,V@PI,2qhqSc3H[gs>CVeMKe+jg[d?gi>qu);T-VqMQPl,lU
-HZGI6Di\d6na5l6b5]mC)Y*@aQQ#Dam%!>%na)CebN%9*s3i^ObN%8EcYHbd-@(0A
-q"teSOjJT9Dr^gmb+5VL:@2])-XZU1QiGPgiV^e2'BQ6'@XlSko157@o)*mes4*Ml
-3r]2O^45>A&MZ?H!1poSkP5FEcW;9Kd":XP\0G/S5L75eJ,e*VVHj!>Hb3t?=Djas
-<G_E^ChkN@2nTGYCtM!:A)Y8e[)%=P:iEc8=NbB+:2<,fSF6\)OV'_RQBM:"kgE$K
-s3TuX8HV$R!41ZfA<9%V&K29iF/L=6s3V>jU$)@R!%4*ThQAtdrr>7o&&\:rj8AoW
-cbo_&p:U0aT[V*TJ"OX5s3_`0G9R&0&'=g#%r9BYUd-0`q*1A<p:TWG&bpF?f8oOO
-1dmE2Qik.oc@]FfcVEBtdpccO,QN17kKf4\pcG&=]uQc9q>UGeP\>uMGI[3m>l"C"
-T?B`G\_"m:oXt2(cglSce8jO9f>kYHci!eC+`;JS22=^+h"NVfi!9)J!arP(TUeju
-q>UGej@$qWF;"fIcFi]HIh2S0+Yc$r8_:F4STmQ$_f"B4feR[kiMqYOR/doBj.ALK
-`fNJ/P;9oQesU$;*guK5j8G&1d5ZC+)K^1Yq=:>Es492b4Jh#_.NY6.L'$oS(d*1A
-q>:lXpO+h!Af=J)=9$Vt>1PS3JNc;T:GMG<',)&@W^fWFkMOO6s3VuE5NV\9UeFJ]
-?]UXb@Wh\N4ad80cgi8hFoMG)I/a2mnpg\fR69b[rr=^Eq>O%#/V2MUo;Q@9g1Q,8
-pBE@t4>[[\a[1m0FKpMBK1(jWpHLP8e'kkXhidH7qS'X^f9RGMEuTb=,>r%RXlELI
-eHMYL-=%*6PPl`*e,5$$0E9PcdRbbbe`bFa]lMr:<F<=BmFiR(^,h;dIU/7'KLhJl
-F?esIji?3WediFfkPY>[-^Pq3Xuq"0!'^u)_u&'Gr;QcC_u7[M]_I\`e'%<3T>TF`
-f,,cW+orbrao6c#CWo8D5U57`5F_09]]h3apiE+[O7UdV7$%\A"2OHPK3gdg:>c)u
-@U_SJ!./nPc]@\m4.Z#Wa.MqurrA[UBT&X0\FP)Rq>UGeb=St9b6%j>\A6_9I/a2m
-npg\e-.W=7k&f*3=F__[p^cu`(DtsRN=9UmoD\eTaQ10Wf0MHh3V37N5KJ\<3p7ms
-j.1JUr;If<dPGBMP3oL,!1uIOn<uU'kQ\]icDOt]j&7'%Gs$02_JuJ`a^>(s0k_a:
-g^2P26XIjfG;Oba[6K0:IftJ5JaPT1,WNUHDfO0a58Ru<o<82DR''qEhrX[KGPPfG
-7Yhr`pa*dq_tfZ!eL<4:>,6N:a,e9c0ekoSq"^^]3r&IEq>UGejT!f!0fo=7T"]^;
-q%5aSH2djtTDAIS:HJLUT"]^;q&#K\$kN)[rrCC9J,e-Ql"qX\A.[o:!$$0C_&FM7
-CK^Q'B_!8`,N]"4Nnq)0+?D>)8-Mi7UF#Sbql1-ff">&Ak3a@*6_o2rI2Dq1kULB%
-dN&l-2c<<Z,b@g-lcGSe0E9G`dRbbbdcf6u=L>h%B=J.&#X1Alf8h#/P_pURXRL?#
-`hQj)cf"X3,%<jbrrA[HQQLGOdgm+ckPY>[-^Pq3Xuq"0!'^u)_u&'Gr;QcC_u7[M
-]_I\`e'%<3T>TF`e/0HT+orbrao6c#CWo8D5U57`5F_09]]h3apiE+[O7UdV7$%\A
-"2OHPK3gdg:>c*%@U_SJ!./nPc]@\m4.Z#Wa.MqurrA[UBM+4&?b#tO:VpWJf>NaA
-)F;[3?QT4Ide!J=5KWrVEoHH<a1o[@r;QaA\AmbYBObD1TDAIV-4>jF$.SLkTDAIV
-0%q?+*$3n-(&ul/0fm6Ef=*f3GY]G&F9>iok>SPjEN,$#4J"S)iAf;kjKJU12]a>H
-(J2/iYQ`)-_#1$'2[fZ51rmf/9MA6JW=os,Wa]FebOP12s3`&F1\lJ`Bo.\ur:T[]
-!'eP]M:_[uoD\eTaGK(YchVtg!714cs3mAuli)5+rrA\PBo1D)*P)1M5P*:#c87a=
-oD\eT/c&RbWJi)8eq"r/0K^0OeD;En97.Sn@/.7qIfoGBb&I!j+I?2RZo,h.H/rtb
-^X'd!<AB\A/Sgg=05).bm5n]j*T0I5i30?ae`bFQ-3)Q[dRbbbf+lk_f=op^]u@cH
-lOl>WIlH0fR01_F57L)p&+f?WnZ;5%n&D,/5L89a&L([Md/O*<LR0*,s3M8iU$)@R
-!%4*ThQAtdrr>7o&&\:rj8AoWcbo_&p:U0aT[V*TJ"OX5s3VZ/G9R&0&'=g#%r9BY
-Ud-0`q*1A<p:TWG&bpF?f8oOO1dmE2Qik.oc@]FfcVEBtdUHZN,QN17kKf4\p_Che
-45IE+c[d-&aQJOQq[oLEUNa6=IU)^K!2%G)F1KoC^\#2=!714cs3l#ImaoLoa3X\`
-!$f"nkp0qP?]UiTr^?<\m0=QpGgYAtkP6*bPHKLFSiPDo5L8<ge0-P-`(ARi3h:Lk
-+<>P+??kX3Y6f3JO9%J83V22he$7u;s4*Z]l<&C,%tma?,u93OL[ucb:R8']egW=;
-?gRTc-7A`++#Ji;?QT4I+#LpSli)5+rrA\Ps4<Z$li)5+rrA\P7.[VXlf\7sOV?$T
-kHCNRr^Pqj57dAc!'`.:d!>5Dk5PEGoC=dY*;lgh8J"07-32Zfj8@hQ+]&U$oD-]n
-GXo7=Vu5Y+s3]O[)!$9CUpS44?_QNSP/b@N4k<df[I/:#dQETobR_J'q,NZGs3g,Z
-8L=DckgEK-KuT'5?3HVt6P1XmjXZd<k4?O_nFQ5K54AO$X:2qsM1C$no>$FYm-QP5
-S0!+tNHcQ.jFQ>oi9B-Y7_F5C_=Sp>`.Oc`!'^uH54AO%%hkZ"r;QaEQQP(e4F-r,
-57\:Bqq'm+rrCB_rQ+]FplhB"bOU.T_qY4B(aO;L!?ViordPGobXSBn,N8G_S+--a
-kq`qHF.h-Go?oH`O9h3U_"#^&?9cb2huD<"6.d&W0H/;3H-%*),(:S:6-f=5j3ROK
-rrCBf1e#g(gj)+:I/a2mjeKBAlf6n!?@V/65QB)NiU5=<^W4[urr==#0_mF'SpikQ
-jSo3(-4>jF$.SLkTDAIS9M*i%0M`\ScQD?>s3VuE3lFVA[lU():EU[""($68;m-K@
-Zq6VtIN5<9*%GRj"sr.JrR_(t.5="iUeFRMWJQK3!&)C;,%?&Fnag,fe!VpOrrAY)
-J*6V>0fo=7T"]^;q%5aSH2djtTDAIS:HJLUT"]^;q*4o/OYIsq+7At)!2&=dmkOat
-kPfp&I,k%;ci!^-a1(mE!2')-s4,K\%%#W<50t3)dpMi6caJh:fj!>IZkFK7R[+lV
-Xb?,rd+Rr>VSE/^kgE$Ks4?J_8L=D`kgj*IZo5L2/c&3pR>?Y@ci/<nAsh<un0;:q
-TDAIShp(>@kMbUcpjM'"dB!bmf85$,)Y:b*oBbj"#Flia)NAt`kN%3S=lAQ%NCLR1
-T>C.D7)X_Orr>7o/jAb(dLR"bkPY>[-^Pq3Xuq"0!'^u)_u&'Gr;QcC_u7[M]_I\`
-e'%<3T>TF`dhj?S+orbrao6c#CWo8D5U57`5F_09cDLH(0nAZH6[tjeTG,BAr"YM6
-3TbLA3Wo#"J2QBbo^2\.@U_SJ!./nPc]@\m4.Z#Wa.MqurrA[UBT&X0\FP)Rq>UGe
-b=?Waf>kYu]`.uXnpg\iR+bb\\d3#0GqsdI!713lN,FeJL,Jc%rrA\PEaZECTUeju
-q>UGej@$qWF;"fIcFi]HIh2S1+Yc$r8_:F4STmu@S\%C9!=-J8cFcQ>',0K-7nGr.
-hp$ZNf-)k5jnSYI:HJ:Fq"^d6-XZJsci!eC+t&q2cX/p.r1F#9R69g7HMRR@TB&E3
-YPIMIrdU'?nrL]drrCBeVp7Mrr;QcCbQ#t8j&="orrA\eLAl,_rr>:TKLu'Uci!eC
-c8I^pHSIh9(R!bgh>GIrdb`%K_R9n44hCPShp!8+#cT)as3p2[8L=DdkgE$Ks4*`E
-YWFt'K##s]o;Fhta8Gg3CPJ""48_5@!713t9Por;&[0*ur;Qa@Ds$Z0oC2ABr''TL
-euT:rf85$,)Y:b*oBbj"#Flia)NAt`kN%3S=lAQ%NCLR1T>C.D7)X_Orr>7o/jAb(
-f+/OgkPY>[-^Pq3Xuq"0!'^u)_u&'Gr;QcC_u7[M]_I\`e'%<3T>TF`ckn$P+orbr
-ao6c#BkYtBV#)ZcT-&"Cq1"P@Us)?fc@]FfcUcFr5U'SH"33G3GlIb,4+I:X@U_SJ
-!./nPc]@\m4.Z#Wa.MqurrA[UBT&X0\FP)Rq>UGeb<o<+Vie1FCTefJO80UldW4=7
-f>kYHci!eC,IkbX,\U[pO.Z7I7j\V(\d?mVc_(%46qg2(5ql(Sld$[9nGgt$MnMuc
-[@tWIa1$PUOYK)^q"^^Z:\fH'Bo.\ur:T[]!'eU*e<r$PrrAY)J*6V>4R.4l!&'u?
-r^9OCrrAY)J*6VER#h^epO)u@cglSceTpU<r86]:IS,"Jq7k8Rr/a*^+6WWQk7.@H
-kPfto+90nsJ"QQ:!2&2rGRYqDJ9$)\kPiLh<FVtr>=fut%0Z9q;%WYl)4sX.U$h;=
-5B-MOs4?J_8L=D`kgE$Ks3^&Y8TJuZ/@kIhh<utQi^c6Xr;Qa-s3djtENb.IkkY5Y
-TB&^cdSGXJLS+DA7qmsg:BEEKH2dl:jA#R/Gb0@*IU@lds3n%X_:ONoIN%gnO7V`*
-1'a<jIN"2j+6V^9j&t=)hi1+<J"ORL,"0A%U&P*W%k^'7s3qPmU$)@R!%4*ThQAtd
-rr>7o&&\:tZF_YA`g7:jUQ>$H!''o)CoO&H]XY>gefI#&&!u5nJ,e&_E_BW@1^`0^
-4o((Z5BM8WYec='JPgA?7aa^&!RcE8+1p8/8=>d^M#H1PkE#5_1dmE2Qik.oc@]Ff
-cVEBtem`)R,QN17kKf4\pcG&=]uQc9q>UGeP\E%d]5O$t5gW:RGj"8hk)j_qf>kYu
-]`.uXnpg\kEoHH<a1o[@r;QaA\AmbYBObD1TDAIV-4>jF$.SLkTDAIWY`e<DOfUH:
-@Is#Ss3MoD1\lJ`Bo.\ur:T[]!'eP]M:_[uoD\eTaGK(YchVtg!714cs3[5sli)5+
-rrA\PDEO]`rr>:TnnI]Vk5PEGoC>i"ViUHL!'g&ss3b9!rdX,1E/?f'q>UGeq821i
-rrCCCrr<8nkF_AG!'g&ss3j2.XBV",'%Zr?^)S6/5L5>-/9l5A?o.(-R@OWA&b,iF
-YQ*,9dRbbbe`bFQ-3)Q[eR#4nV1W3BbFt$cnmM24V/n54dJ"]3aliYQOkB,tmQCLL
-PL'1,!%7fuW7Q$mLO\O`rrA\P9lSNVLOY)Oq>NluNNu=]2>DIs!2&=Hr8)[iINErF
-LY`!WX:2qsM1C$no>$FYm-QP5S0!+tNHcQ.jFQ>oi9B-Y7_F5C^l58]DW[!rki+i3
-,D&J`^W_3-d:fDfqGnUr0[P8pa,_3cB\$G_#`YsKlu%>Dh8bR@n^qj\J*5eijEk3\
-8^M25q*33amJkTO,^1F5*tQKmIh-6rHj7%*HWg^E,KLtu"2dhQ1O'+u8`OIH2k9r>
-8,5+bL.MB%J34>^kV_Duo^2\-@U_SJ!./nPc]@\m9O"d2#sR=WiN2hMJ"13ckhYYh
-T9h`kkOR$UmWJ'gr@^D,r1F#=EoHH<a1o[@r;QaA]^62si:m$BrrA\PC;FIuBehs'
-cR3'W,%>]p!'P`0!714cs4*N"l?WC00;&(>6r,lD!1poSkP5s^O:2ZoI/a2mngXBa
-2u3IRT9oT/H1R*Zrr>:Tnl*Q+O7WAO5P#?^hrjugk6m@Brr>:Tr'155DC86Orr>:T
-n6TUcoD\eTo?gA0rrA\err=s<7]Ka*Uim2_VaKLBa=mS?kUq@_;k9_8V"[$-bbqRp
-]%XtSciBYZ;FuB<dHK"M-3)EWdRbbbe%+)tJOM=;`4<e"OWDH3XCeucIE!OVpj&[e
-I33Ilr18E$q&PLl53'ub4T>E-npg\hW7Q$mLO\O`rrA\P9lSNVLOY)Oq>NluNNu=]
-2>DIs!2&=Hr8)[iINErFLY`!\)_#d\kE/R`+*!,A2#nMR3tJs0[b@,g)8+2]J'&#s
-^]V)&a)97HO*M\7>l[@-[,YElnGJiH66o5q3Zmt_o&K0<ediFfkPY>[-^Pq3Xuq"0
-!'^u)_u&'Gr;QcC_u7[M]_I\`e'%<3T>TF`f,,cW+orbrao6c#CWo8D5U57`5F_09
-Qe1,sTY",J(i\Y0nC,,n?(K45\CT[%[U]kO"SSELk>*_fs3Ru5$=#)=]%7KM%O*/h
-!"\\uZjlNJ/SK-Y\<"hrrdI_?9;?^@npXj>rrA\77ru5ma1q8ZrrCC9J,do3ID]ml
-iSVl*If]OsLeLRYkHCNRr^9OCSq"rHrdU%DcG/PGTDAI^s3d.MlQ6VlrrA\ekgS]:
-c2N4UjJU9fS,E9dccLQ]J"QQ:!1\Q=dmTh?r;QcCr8DYpJ*6f\K6["6q>UGeq1V&r
-rdX,/huD2eq>UGeq>UH!L9Q0R\"EKq9s0giVhWW([EnRfH1:_37_0T9l^^W&Fk.M8
-jc@*)s4->]8L=DfkgE$Ks4?J_8TUG3dq3sF["^pN*dAqNHq@]Fd%h)c,fKHGa.EYq
-``qjc,JV.@-G/L=O$D^srr>:)m!$kO*e2;prdU.3dAk<0Rb#S+J,hg]oD\eTaB$e.
-r,mRP#IG@jl.^BCH'nU3+r@YLl.-[W&EapTDY"kB!$+.E*oc>f34P0O,kK$grrA\P
-s3dtW_:ONoIN%gnO7V`*1'a<jIN"2j+6V^9j&t=)hi1+<J"ORL,"0A%U&P*W%k^'7
-s3hJlU$)@R!%4*ThQAtdrr>7o&&\:rj8AoWcbo_&p:U0aT[V*TJ"OX5s3ql2G9R&0
-&'=g#%r9BYUd-0`q*1A<p:,)\Jm03bk4>7tO7UdVd:;%r%J1Unk(^G6R@b_c0M\)-
-Hp@Y]S[Ii<2)r=YSm+D8@!;GI!6M#Vn"oG7rrAD3r;<<X>oUJtPOdn_r;KkSPAi=Q
-6aYI.9R$%lkK!VRR69g7HMRR@TB&E3YPIMIrdU'?nrL]drrCBeVp7Mrr;QcCbQ$1>
-j&="orrA\eLAl,_rr>:TKua#h!2')d%E.N1J*6f[+90]+oD\eToD\f!:\k"jTDAKe
-1Ol%mrrA\g#Tc4V_pA8\!%7foMZImdcsXA6,j?S)5L98J7p?p<D.>skTJR0%T\+]\
-h(u8>o>*J[_@]lLdcf+N-3)HXdRbbbeEG@A_6#>0!!+@:bE00]D:VhLX3?^Ylc2+7
-#E<>'CYt*]]J'<8U^Y$a`:r`@T*eQ+b8^V.3]/YEC!O9jiel=;<mO[lo05RI4LoRS
-_C+Hu^=7=\YR5s.m?p(\/suITo7-ekW7Q$mLO\O`rrA\P9lSNVLOY)Oq>NluNNu=]
-2>DIs!2&=Hr8)[iINErFLY`!^X:2qsM1C$no>$FYm-QP5S0!+tNHcQ.jFQ>oi9B-Y
-7_F5C_=Sp>`.Oc`!'^uH54ANu%hkZ"r;QaEQQP(e4F-r,57\:Bqq'm+rrCB_rQ+]F
-plhB"bOU.T_qY4=(aO;L!?ViordPGobXSBn,N8G_S+-.-CMBr[Z1_Ai:c+'pdqn`0
-J'X]1.lm$-h6`WDSH8RLkV_Duo^2\,S#rg@*&^9UX3s#q0unrsO^,p]V;(_uSK-K6
->rhob5KG`RFfq<@A"=jR59KLVAAj"+J%OnCJ!9o]H1*Kchrjuf8po[p^X)iUQcHT2
-rrA\e_gaW@rrA\ea8aXoJ"QQ:!2&3+4S/Q%kPemcq>UGeq>UFMTC`'_5P+kms4)qV
-&,Gqjrr>:)e%n88iTL2iOTQ1[Qf7-,J!/,OB;q;$d"[/3&!.cY$nqY3kg6T-Yh0B\
-KX_o\G5NKu-3)T\dRbbbd-/nL-3)BDlSj,q50,Eb$m'K9i@C=[XHUSM;/3*!"nN-6
-$_O29NBc&6q'l<H=Qe:Ue$s=5%\SsYI+SDHWr.c,%;VO$OmQf^';ls<q>UG^K3W!%
-it=HO4OS#ZO1=f\:I"IKNlQPiETd7kJ*6Vls3mpuENb.IkkY5YTB&^cdSGXJLS+DA
-7qmsg:BEEKH2dl:jA#R/Gb0@*IU@lds4"+Y_:ONoIN%gnO7V`*1'a<jIN"2j+6V^9
-j&t=)hi1+<J"ORL,"0A%U&P*W%k^'7s4%VnU$)@R!%4*ThQAtdrr>7o&&\:rj8AoW
-cbo_&p:U0aT[V*TJ"OX5s4/#4G9R&0&'=g#%rM(%0]Ua3Picdi)]7$[*]ed0#Iomo
-f1h;]mS9q]6_-77rrC^",`i;!"2OHPK3gdg:>c*'?E<>G=Q1NHqt,`pGlIc6'r?VD
-C]0:q$_,2mfR,mO#ec7/):6S>a8,`8T>ED(ViUHL!'g&ss3P,trdX,1E/?f'q>UGe
-q821irrCCCrr<9'!'g)T!'g0As3YQ\!'g)T!'fUaoD\eToD\f!"3:64H2dl:jC!64
-!&)79r;QaEs3cE[CZ410kPfsnJ`C)Jk4;c)%?fI^d-;M[EMT5h=r4]SQOmTG7fNHZ
-kW]g^e**1MZ&N7<BE1hY:6J9MeEG=P-3)NZdRe"mn6F+>Ci+!T'=r<1,CiR2rc#XP
-euS)b?h%tdFD1OO5OE\;3Vai4gFOV``0c,7'??2/]3\(UF5P)!4DQ_T?MnJZiICmZ
-U^Y$a`:r`@T*[Bp>OF3j^Ve;C]BK-Q5NMG9!'eQkGL?.+J'$mQJ!9oZW7Q$mLO\O`
-rrA\P9lSNVLOY)Oq>NluNNu=]2>DIs!2&=Hr8)[iINErFLY`!XX:2qsM1C$no>$FY
-m-QP5S0!+tNHcQ.jFQ>oi9B-Y7_F5C_=Sp>`.Oc`!'^uH54AO"%hkZ"r;QaEQQP(e
-4F-r,57\:Bqq'm+rrCB_rQ+]FplhB"bOU.T_qY4?]%_&$RS.RrQL,?m997"]BHstk
-Nmqlhko>+A46_*Q-_EU&!9_@]3_[J@*9]9?r:GsdnmS3,ga?$r8V+&`J"HiCe9UYH
-k5PEGoCA(sI=+'\LL]oT!'g$IoM>Je69d6_nrLiQ)@c(T$k`4G++O+d!0dH5D]X3(
-!'g)T!&2(++6WWQkG"U?rr>:TralCr^\n*3ci&q)eqENgjnO-$!2&=;nbumNTDAIS
-%iY4epj)l>TB'C)f>IEsfDjG>4DK0A!%45kl"o%*;:(YhdQ<*%i<Zk0\uP`_567\D
-+VfM,d-/nL-3)BVdRbbbdcf+VHPp<d?I7i+6\L/US'\ttpnS?`Mg+b7o)7nSe"q1f
-ddkSMju<eNn([8,PH9tdHrKIbP&q]<nkK]6beViF)BF'0s4!hQ^a-kmn&M%,29&kg
-0dFHNbpL'dqi<u&oD\eTaR",upE"h+kPfsps4+("ENb.IkkY5YTB&^cdSGXJLS+DA
-7qmsg:BEEKH2dl:jA#R/Gb0@*IU@lds447[_:ONoIN%gnO7V`*1'a<jIN"2j+6V^9
-j&t=)hi1+<J"ORL,"0A%U&P*W%k^'7s47bpU$)@R!%4*ThQAtdrr>7o&&\:rj8AoW
-cbo_&p?8kiC91Ok.2rKCfE@:#h!k3QJ,dl2%A'X!7ifCT'Be9NrrC1.N5TI!!^7]i
-q7dGTCn#$-%;?EWP(2-a!-0ogo7*D.rrAR=s3X6,]DV[/chuaArdX,1ItX5"fF)t=
-3jeGVa5DH8ii<A;5+1IgSI`O0q>L:7s3aYXR-h'>6`5Aj)Y*fV#_U1npj)l>TB'_E
-T?H`qrr>:)J`C)Irr<QooDG6\dhk2_iV_PH!tha4l/n'iC3fgZ-^m^MUY*H^]A+>h
-A:VGpeEG8[47BQMA2EB]Ije$Tl2b+Y-*;DF%HOr.+#l"1Bs.]@ZHI+qCL#SG9^`Nt
-A4-O&OElnUs4->]8L=DfkgE$Ks4?J_8OD]W]nMb+4h_)Ls3NrJ6aLj+NpX`j%jR&Z
-XJ`MH3R+cgY(-d&<84hASHh=UPCpl]0K&==LL(esdA.2d,fKHGa.EYq``qjc,JV.@
--G/L=O$D^srr>:)m!$kO*e2;prdU.3d\tc;YD7Vkq>UGej@sUA:PXFTTDAIVBoTDo
-!]BaurrA\P:&NjmSph`0?\dJ;e#Wtof85$,)Y:b*oBbj"#Flia)NAt`kN%3S=lAQ%
-NCLR1T>C.D7)X_Orr>7o/jAb(e.34dkPY>[-^Pq3Xuq"0!'^u)_u&3`otVM#h"QpS
-efS_Dm/TY3bDt+j/iQ"DKGRCi#(1((r:K^_!<:Rd,^1F5*tQKmIh-:hka+tu)%kiJ
-o6GhIS:@1,rrA\LgeOL)rdX+is42*Ca8,`8TD@]Kr;QcCr;Qbb^X)iX!71V#ZKDFH
-\-FoOGAi5II)"J:f9Y-_"ch;Hke-gQ3Y/q9[:t8e)A%78kPfsnJ`C)Jk4;+b2*Cm=
-PKeUWcknl\rd&jeSN3>6$K"DoZ^In3CRt"R8)h!Zs3]]B46^USj!EaDFWZ8dREhI4
-(KH:O")5I,3^*_F]VUH[gKrK>$6!4k\W1B<+D=<mr&!SB$IE/[dcf+N-3)HXdRbbb
-eEG=P-3)NPaMsu$]5:r#m6$G\=Ll*`lM!>kCh+&jqHA>S5M0,9>2gPX1a)U;.0ISr
-0K&==LL(eset`_i,fKHGa.EYq``qjc,JV.@-G/L=O$D^srr>:)m!$kO*e2;prdU.3
-f;R;@YD7Vkq>UGej@sUA:PXFTTDAIVBoTDo!]BaurrA\P:&NjmSph`0?\dJ;d&[Yl
-f85$,)Y:b*oBbj"#Flia)NAt`kN%3S=lAQ%NCLR1T>C.D7)X_Orr>7o/jAb(d16na
-kPY>[-^Pq3hEHpYV4Oft#\`jG)M/3NNrK*'b=\'#f=3_("NKg>cgLf5E]p[KK3KV>
-BKeS7hu7qKJ,dr/JB!*d!!E0!!71Utj3KsQrdX&ErrA\errA\_2u3IRTDAKeZ2`:/
-edqTMoD\eTaO@siQf7-,IusiQ^Q6:Yr;QaA"3/%sc/ue@e99\WXae$Y!1l\#):S/%
-,hh!`H;B_h6/!C:HN%7s,Iebk5m@TY4p<e-bl7[1?iSXbq9%:P9pT,]-eoR]!C+l5
-j?%3J$l9\d&_h:,IStt%!!",Fs45Sm-IH+n\)P*lq[:)H?k]4th>i,r$I/mV0pu=3
-\s$>c5]`CY"&;A^!j\!hfBCXS-3)?UdRbbbdHK"M-3)EWcn_iqnsW"+P7b<<8'PN*
-FGuY.k>sTDfFDCc#lalPi3U8[=dU-%j$U!Xs3mbP^a-kmn&M%,29&kg0dFHNbpL'd
-qi<u&oD\eTaR",upE"h+kPfsps4""!ENb.IkkY5YTB&^cdSGXJLS+DA7qmsg:BEEK
-H2dl:jA#R/Gb0@*IU@lds4+1Z_:ONoIN%gnO7V`*1'a<jIN"2j+6V^9j&t=)hi1+<
-J"ON@g$-#Z0L*HuUZ:qEDEi@Ff![?I)Ok$@fR8a6eCKVSiaD<Gn+*<%9/!Xb?:2dZ
-pXc!a^X)L@@s_G8R=J]0rdX+H0::etrrCCCo`*NWrr>:Trr>:GDtEu/5P+mT@0=RG
-pj)l>TB'C)rr=^ici!eC-i_PD4DWp5iTL2iOb)P"&*EIS*]6([!0bYMGh;lco3_OF
-'_/BanjI?>g'*Jm#(V[Rn=L5Mq*JDJq=L6CIg.(RGPNNlH.;>us3fZ>BVPd6gOqA(
-K=MYp+!i9tQ<cai";'l""@3#Xr-:J&-PkVJ>"]m:reT%<P+ds$foj0X-8g;b?#qP,
-/NtQ:,jG<Ns3p2[8L=DdkgE$Ks4->]8L=DfkgE$Ks4?J_<O/h`Eb)kFj3*pc4EKQ"
-`67D5=N$U"=o6+S_!@X*rlY8fU^Y$a`:r`@T*[Bp>OF3j^Ve;C]BK-Q5NMG9!'eQk
-GL?.+J'$mQJ!9o[W7Q$mLO\O`rrA\P9lSNVLOY)Oq>NluNNu=]2>DIs!2&=Hr8)[i
-INErFLY`!YX:2qsM1C$no>$FYm-QP5S0!+tNHcQ.jFQ>oi9B-Y7_F5C_Ylg7bT;E-
-/Kp.?]4bl/[N[e$b\B?1s3l\U?#4D&]^"o\TAenPpTUi8Z-[W2KE?P9,S0T1(4X[.
-rrCC@Qtls)qg&2ATB-%%K^_e!pj)l>TB&8U:Z_@srrA\P@!L;@q7P,\NI3s[c%#cD
-(d)PYrr=F8@!Dh=ro]_KV_e<\2#!DFs4.VMWSo2lEIfC&!"S;e(sg>M>i!b7\V+i?
-F4s%(SUN[QRp##Wp.T?,:W7h`f=00X]&._17;XW<%]"U\*1\t=`dVO]Xj43%9iV26
-mN^4Fm0nGV@gD([+)A>>fmNq!f##E<q;!;fj2cImqcmM.d-/nL-3)BVdRbbbdcf+N
--3)HXdRbbbeEG=P;p4Emfd+(eO$'tdrZf2>o3_OJL0b'R/"tn4WR9aX2!8-Z<k->$
-`[#d'H)0&?+*$KASq#r!*KKt[j3RN`rrCC9J,e)uf5\!LJ*?_.!2&=HE7.O;ItsZl
-r^U[^Z;1NZpj)l>TB&`EhKYW@*e%IOh>c*.%)LPPJ:8F.^lS*S.Y4kKCrY[$r&*Y&
-48_4Jd<W-OWiaQV(`3PNk&^YaNBc7o;SAp9g'MhVH']2g*dR>S54ANu*Ds78%bF(h
-dKoFD!'c-fj8Ag;rrCC90KaiOiTL2iOTWV;*W@+0kP7@Bd24u]iV_PH"3/+=Vj]m@
-WTX2NBr?r>rrA5^dM2WZ!1bt<WSpF-I>!?sdpF9]i"as,?*AJ:AY=)d0)knRUe'iC
-?iSU/UBZUFoKa`iUP#GVab/MC$Hbsuf#jB20LK"d"om*9dRbbbe`bFQ-3)Q[dRbbb
-fBCXS-3)?UdRbbbdHK"M-3)ECb3:n[lH-$__>5O>h_*9\E\T=h*78FCZ2ei)*^'A5
-O;dS_mQCLLPL'1,!$ec+8)/Ci!%4E7r_NRCW7Q$mLO\O`rrA\P9lSNVLOY)Oq>Nlu
-NNu=]2>DIs!2&=Hr8)[iINErFLY`![%47h3Rl<`/0YokskVW;>51f=Q2q5l+Rf-.2
->O#?QaO<W)QPsg,=n`TCdK:Ibd2G<5`16lk^W[:od*\op48_5@!714cs4)W^J!]-W
-rdU%4`kEJm*e3AK(`kR(rbjWEj&=;"4P0Va&3L#9rr@,b.FX^b!&0jgbbA*+[s\ft
-M>28cp^MV;s4=rFd[V;*;_UK-,>Sbnpd#l2ZtlD9^kR[XXEO^m#*\OE8UpcekgE$K
-s3^&Y8L=DbkgE$Ks3p2[8L=DdkgE$Ks4->]8L=DfkgE$Ks4?J)d,pY(!XOAgFe=rI
-.Br6:`huMM]2-RkmD?iRMt*=Wg)S!k:BupOg\gu(a*f%LkPUp$kP7@Bd&>Q9YD7Vk
-q>UGej@sUA:PXFTTDAIVBoTDo!]BaurrA\P:&NjmSph`0?\dJ;d4H&Ylsnq6F0(*c
-dMg.+)rJ)Vr;0I"e2NM(L[HJJFX0J.id]:k@.CG\nFQY[5KLY1YD;^pYQ*#f0cL&l
-St9Wu`i#I"H)@/jqu0/_chZ2me!<04pRMN85l+E_LW`C&$VMS<ZF<KPq!f?ogQ)s(
-`"9+0N,R*W)?HMt3!n4:eEG=P-3)NZdRbbbf'(OR-3)T\dRbbbd-/nL-3)BVdRbbb
-dcf+N-3)HXdRbbbeEG@AXa>6$#7gmAo(k.5h2^LC2:tJCnXq\9+7:\8f52$,ZoP:]
-cM;bUVa'<.s4+("ENb.IkkY5YTB&^cdSGXJLS+DA7qmsg:BEEKH2dl:jLeiYlEU*E
-=QY>rC1PC.F!Q=1rr>2=s4.QN*GaHIG(Til_lu<:rkaaZCZ53JB`lAQTCR9)#CoRA
-mWl#9f,0i>'&n!8a,LhHDOYe&\\Wp2aZg:G7h[%[A)L9QM>CN^_d:a^*`;])[(lXf
-kgE$Ks3^&Y8L=DbkgE$Ks3p2[8L=DdkgE$Ks4->]8L=DfkgE$Ks4?J_8L=D`kgE$K
-s3^&Y;7<Ll@;FR:%uSNOkep-!hK7@ZM>ReXC&(j1d]DTF[g'J\3(/O88($r.!'eR@
-\7m>.^VeCqrr=>0%,0_36o5\F&nRiYj7duJ7[:@,dY#l`c%#cB(d)PYrr=F8HE4@'
-#-k#f^jN]`=7Nk+T*FHi#9\6]q+$4UXX\=iU38@(52^Z]/-",_dRbbbe`bFQ-3)Q[
-dRbbbfBCXS-3)?UdRbbbdHK"M-3)EWdRbbbe*,4O-3)KYdRbbbe`bFQ-3)Q[dRar6
-.D;ur6bEqLn386!f<^aim'#54MqTE0B6S8K4F&LO93ZI1:>jJZ"(C!$h#+q59,Q=5
-hE\3@BKo.oiFl_CV?&V8]D+K!bP,tjs3Tt4>:Th55UL!Fp^YG<,esB,kgE$Ks3g,Z
-8L=DckgE$Ks4$8\8L=DekgE$Ks46D^8QP*o0#jZ-)BWbM)-]l?a+aQFfIs/#@h2G^
-H_0Z@P4tM@%ao]CT$6?H^hg$j3R;IZ_?@B\L`jaur5kGX.X0UCO(lUIF2NO"$.E67
-LPC\)bbi#rQK]-M#K1D]"7]aud+gWC=:=D@*9V0S$khS6fTGp#MNp-/f/]=*a0Yp1
-\7u&3e7a*n<aK)(eV%tJn_[IQV3[5bVmpdQE<Lab58[RHACk]foRM-a[rFMN_F-'W
-dFGk/d8MZCY/`;aluSTuDUV?n^F)f@&FH^Rf0KgfK]9d_H2;u/#L+14V+"BhpU/u0
-D=nbKF*AWda5W)BP?pJM]G'S_g;J6$s3f?o*Z%eY\tQN<_nNSC(uYHVb'oCc4s`u[
-EH3SQDp`QAGA_DNdQe%9!Y:W<XBUri<dJZ?>lhkuNcY@X^ci*IgKjJ1b1muW#m;p]
-e*,4O-3)KY+&u>ZHQ)8r:_&[=BdCIne`bFQ-3)Q[dRbbbfBCXS-3)?UdRbbbdHK"M
--3)EWdRbbbe*,4ZHFnZ.Y3ed#[?cp%,_1%8%&V<cc+'1+[+sA.M/+;.>i%u3_n,lt
-fY#Uu6c!?01kH!CRc^4Xa;U*mp(]XYnhtVp*PT@4EEescF.oC!h%#ro,mucs%Ya+-
-Ronh':aOB7A8+7]juV_0A?aa9*a9QW2PU/pg-_RN-4Cn>Lm-MAs4,P@1U?ST\(t71
-N+cpH@$4*F#@0I-PRQGLh%X=U/N5PP[ET.+#U?k+r1s<GC>WVf;U0Q^f=&RfBk)63
-,Q,k/4cm7X)m!WDisQe&93gc"I?m@/4>ciu-90Kis45W.gK.Qq^6@ASg%Mu$"RYps
-fPB5;R]"^eZJ+m?Mb>Q8='ITh0)'rk*COnGf9LD1IV$$sf3?sE\[K/aU]uSISdF">
-T=HatCs$X4Y@FT@_m6E-<X*sb#ijaEq0W,As4>WCHa7s7'\Ll?fgUnT)RiO7M;Uo"
-<U?37'lW`:C`fESPP7ZS9;L0.Q59dSU;pLsbQ.&kO2r'Ts3TuX8L=DakgE$Ks3g,Z
-8L=DckgE$Ks4$8\8L=DekgE$Ks46D^8L=DgkgE$Ks3TuX6,^aC'!Fp,gE_;@0dR]e
-s3^&[/ulPKF`oT%NY"KT8UpcgkgE$Ks3ofI`ih$9o[l]Mi_+RDatcLT*J5Wp/hSa1
-"i^Q2"15k9K)a?W[@%36eRMc-;"i!+5m_#\f8E!FY'.$`4JJXds4->]8L=DfkgE$K
-s4?J_8L=D`kgE$Ks3^&Y8L=DbkgE$Ks3p2[8L=DdkgE$Ks4->]8L=DfkgE$Ks4?J_
-8L=D`kgE$Ks3^&Y8L=DbkgE$Ks3p2[8L=DdkgE$Ks4->]8L=DfkgE$Ks4?J_8L=D`
-kgE$Ks3^&Y8L=DbkgE$Ks3p2[8L=DdkgE$Ks4->]8L=DfkgE$Ks4?J_8L=D`kgE$K
-s3^&Y8L=DbkgE$Ks3p2[8L=DdkgE$Ks4->]8L=Di~>
-endstream
-endobj
-22 0 obj
-28317
-endobj
-23 0 obj
-<<
-/Length 24 0 R
->>
-stream
-Q BT445.68 129.84  TD1.95  Tw ( ) Tj-389.04 -9  TD ( ) Tj0 -11.52  TD ( ) Tj170.04 -11.52  TD 0  Tc 0.0293  Tw (Fig. 3 ) Tj25.8 0  TD -0.0767  Tc 0  Tw (-) Tj3.24 0  TD 0.0012  Tc 0.0288  Tw ( Cartographic Visualization.) Tj112.68 0  TD 0  Tc 1.95  Tw ( ) Tj-123.84 -11.4  TD 0.0173  Tc 0.0127  Tw (Source: MacEachren 1994) TjETendstream
-endobj
-24 0 obj
-340
-endobj
-16 0 obj
-<<
-/Type /Page
-/Parent 5 0 R
-/Resources <<
-/Font <<
-/F0 6 0 R 
-/F1 7 0 R 
-/F2 8 0 R 
-/F4 19 0 R 
->>
-/XObject <<
-/im1 21 0 R 
->>
-/ProcSet 2 0 R
->>
-/Contents [ 17 0 R 23 0 R  ]
->>
-endobj
-26 0 obj
-<<
-/Length 27 0 R
->>
-stream
-BT56.64 56.64  TD0 0 0 rg /F0 9.96  Tf0.0102  Tc 0.0198  Tw (Revista Brasileira de Ca) Tj98.52 0  TD 0.0119  Tc 0.0181  Tw (rtografia, N) Tj47.76 4.56  TD /F0 6.48  Tf0  Tc 0  Tw (o) Tj3.24 -4.56  TD /F0 9.96  Tf0.05  Tc -0.02  Tw ( 53, pp. ) Tj32.76 0  TD 0.06  Tc 0  Tw (29) Tj10.08 0  TD 0.0433  Tc (-) Tj3.36 0  TD 0.06  Tc (37) Tj10.08 0  TD 0.0325  Tc -0.0025  Tw (, dezembro 2001.) Tj69.12 0  TD 0  Tc 2.43  Tw ( ) TjET52.8 65.64 488.88 0.48 re fBT56.64 45.12  TD/F1 9.96  Tf1.95  Tw ( ) Tj0 717  TD -0.018  Tc 3.5623  Tw (But any researcher will move from visualization to) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD -0.0029  Tc 4.01  Tw (communication in the course of a research project) Tj0  Tc 0.03  Tw ( ) Tj0 -11.4  TD 0.0212  Tc 0.9688  Tw (\(DiBiase 1990\) \(Figure 4\).) Tj109.68 0  TD -0.0133  Tc 0.9005  Tw (  In the beginning, he or she) Tj0  Tc 0.03  Tw ( ) Tj-109.68 -11.52  TD -0.0059  Tc 0.2279  Tw (will operate in the private domain and will be concerned ) Tj255.24 34.44  TD -0.0167  Tc 1.54  Tw (with exploring the data set and then confirming his or) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD -0.0041  Tc 2.5141  Tw (her findings.  This DiBiase calls ) Tj145.8 0  TD /F0 9.96  Tf0.0226  Tc 2.4074  Tw (visual thinking) Tj61.68 0  TD /F1 9.96  Tf0.0059  Tc 2.4241  Tw ( and) Tj0  Tc 0.03  Tw ( ) Tj-207.48 -11.4  TD -0.0132  Tc 0.8146  Tw (requires multiple maps that are highly interactive. Later) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD -0.0344  Tc 0  Tw (in) Tj7.68 0  TD -0.0064  Tc 4.8514  Tw ( the project, the researcher may want to share) Tj0  Tc 0.03  Tw ( ) Tj-262.92 -11.52  TD 1.95  Tw ( ) Tj0 -11.52  TD ( ) TjT* ( ) Tj0 -201.84  TD 0.03  Tw (                           ) TjETq 42.24 0 0 -0.36 124.68 690.6 cm /im2 Doendstream
-endobj
-27 0 obj
-1791
-endobj
-28 0 obj
-<<
-/Type /XObject
-/Subtype /Image
-/Name /im2
-/Filter [ /ASCII85Decode /DCTDecode  ]
-/Width 94
-/Height 1
-/BitsPerComponent 8
-/ColorSpace /DeviceRGB
-/Length 29 0 R
->>
-stream
-s4IA>!"M;*Ddm8XA:OX[!!*&R!(-`,',;5t',ql0*@i0R+tGQ(.k<#/;c5q<6;:9f
-Amf(W?u'Y1Jou*VG%c;]Mi3U\V5:#_P,5"OV5:#bV5:$g^]4rP!!*(+!s&u6!YGD7
-&HMjL!7CiI!<iK)!<E3%z!!!!$!!*-("U52;#mq%O!!*3'!s/T,"U5/:#6PED!<<05
-!sBb[0a0j?@1si)JMIEDOeK$H,:""%@P]jWEe6X`-'AO4dI:Xe2&>/FnZmco7$CS\
-7DbgA2A[4Y<T7T\Z\66FFlW'_-^:E\[$ASZjRf:V`RX)C<b?N0QDV+1f&lZb7os>I
-LR4pJa4KMK-oab"BR#?#W49q$kkGH%.60t&BmGQ'WO^.(l1kZ).QU1*C3kc+Wk-@,
-lMCP:!!E9)s4RG]!s&B'!!<3$56/H"nSIt(I]qban-],$`O"J8X8',N!`a^cc[\Wk
-in<f-<W$&b!@kjBB>>fpnSIt'Wr=TB!0pp1ZeuIsppPPOs3SM^nSIt(I]qban-],$
-`O"J8X8',N!`a^cc[\Wkin<f-<W$&b!@kjBB>>fpnSIt'Wr=TB!0pp1ZeuIsppPPO
-s3\S_nSIt(I]qban-],$`O"J8X8',N!`a^cc[\Wkin<f-<W$&b!@kjBB>>fpnSIt(
-+8AS/:ZbOS!/07Zrad2H:&RlM?iSd~>
-endstream
-endobj
-29 0 obj
-702
-endobj
-32 0 obj
-<<
-/Length 33 0 R
->>
-stream
-Q q 169.32 0 0 -0.36 294.72 690.6 cm /im3 Doendstream
-endobj
-33 0 obj
-48
-endobj
-30 0 obj
-<<
-/Type /XObject
-/Subtype /Image
-/Name /im3
-/Filter [ /ASCII85Decode /DCTDecode  ]
-/Width 376
-/Height 1
-/BitsPerComponent 8
-/ColorSpace /DeviceRGB
-/Length 31 0 R
->>
-stream
-s4IA>!"M;*Ddm8XA:OX[!!*&R!(-`,',;5t',ql0*@i0R+tGQ(.k<#/;c5q<6;:9f
-Amf(W?u'Y1Jou*VG%c;]Mi3U\V5:#_P,5"OV5:#bV5:$g^]4rP!!*+F!s&u6!YGD7
-&HMjL!7CiI!<iK)!<E3%z!!!!$!!*-("U52;#mq%O!!*3'!s/T,"U5/:#6PED!<<05
-!sBb[0a0j?@1si)JMIEDOeK$H,:""%@P]jWEe6X`-'AO4dI:Xe2&>/FnZmco7$CS\
-7DbgA2A[4Y<T7T\Z\66FFlW'_-^:E\[$ASZjRf:V`RX)C<b?N0QDV+1f&lZb7os>I
-LR4pJa4KMK-oab"BR#?#W49q$kkGH%.60t&BmGQ'WO^.(l1kZ).QU1*C3kc+Wk-@,
-lMCP:!!E9)s4RG]!s&B'!!<3$560MDX*#\N8L0Hj-3)?J>H;llP"?p^8L=Dah-6q&
-,a(_EP"?u"dbS-.FX3,A,a(_Fs3oe.X*#\N8L0Hj-3)KN>H;llP"?p^8L=Deh-6q&
-,a(_EP"?u"f%jQ2FX3,A,a(_Fs4?(2X*#\N8L0Hj-3)?J>H;llP"?p^8L=Dah-6q&
-,a(_EP"?u"dbS-.FX3,A,a\Pa~>
-endstream
-endobj
-31 0 obj
-631
-endobj
-36 0 obj
-<<
-/Length 37 0 R
->>
-stream
-Q q 339.36 0 0 198.48 124.68 491.76 cm /im4 Doendstream
-endobj
-37 0 obj
-50
-endobj
-34 0 obj
-<<
-/Type /XObject
-/Subtype /Image
-/Name /im4
-/Filter [ /ASCII85Decode /DCTDecode  ]
-/Width 452
-/Height 265
-/BitsPerComponent 8
-/ColorSpace /DeviceRGB
-/Length 35 0 R
->>
-stream
-s4IA>!"M;*Ddm8XA:OX[!!*&R!(-`,',;5t',ql0*@i0R+tGQ(.k<#/;c5q<6;:9f
-Amf(W?u'Y1Jou*VG%c;]Mi3U\V5:#_P,5"OV5:#bV5:$g^]4rP!=8eF!s&u6!YGD7
-&HMjL!7CiI!<iK)!<E3%z!!!!$!!*-("U52;#mq%O!!*3'!s/T,"U5/:#6PED!<<05
-!sBb[0a0j?@1si)JMIEDOeK$H,:""%@P]jWEe6X`-'AO4dI:Xe2&>/FnZmco7$CS\
-7DbgA2A[4Y<T7T\Z\66FFlW'_-^:E\[$ASZjRf:V`RX)C<b?N0QDV+1f&lZb7os>I
-LR4pJa4KMK-oab"BR#?#W49q$kkGH%.60t&BmGQ'WO^.(l1kZ).QU1*C3kc+Wk-@,
-lMCP:!!E9)s4RG]!s&B'!!<3$560*t[!OAGaX!$TddEHD]-Z,_bQ#r:=t<#ol$#e3
-7U[MqOdJd@[7aO"dF$NGNj?$7PhNuk@5b?^<;NNC/S-MF/S0G3da6P\L9S$BK_hUs
-5,krPU2=FSRopXT-X@>uY)*J:7K:i`ecq%"=;ib#?tbk31eUsi-*3(='<[/uf0k;X
-U0>@[/RW7XYV]_eeBlc9MaLVc/Ic6(UTD%+FdG^\ZKY*ZJeNT@K\r.?5Ne+!n5&l?
-r;76-GlIb."om,a-etk]pFDtdaaRWN^G%u]Qm"]WO7Vj:q;_DN'E37V!'^V'IE@0>
-P6pt:s45iAr["UT(\j;uN*kRJMMd:S8L0Hls4?(2X*#\N8L0Hj-3)?J>H;llP"?p^
-8L=Dah-6q&,a(_EP"?u"dbS-.FX3,A,a(_Fs3oe.X*#\N8L0Hj-3)KN>H;llP"?p^
-8L=Deh-6q&;cM:(P"@:jG>#OIf$RYO73n$h\m<bPOl3$[.38irf?mbP75!hK9=eWL
-eM6"IR.,5nSN?etdI+AgXWH_f#?8`rWailq3csV];6"<ZC77!uYQ*"s".`JC*9sm2
-k>]jr)Q&R/eMMVBWT2bk:EJJpGkVYF".`<lSPfQ\=9$^`*mq"&*mq"&*mq!4pC1'A
-\8%Tu_c7cGeOR6Z;=<gMIUMN3o*8g`Qocu$e%PS9?Ms;rIX"ON3ACBl_t0&h_:^Kc
-*Kp?:fg"YQrrAW(rchfMe@Ik)>p#T>O3UerIu.pLMu64J]O0Z%MMd:S8MC+oh-6q&
-,a(_EP"?u"f%jQ2FX3,A,a(_Fs4?(2X*#\N8L0Hj-3)?J>H;llP"?p^8L=Dah-6q&
-,a(_EP"?u"dbS-.FX3,A,a(_Fs3oe.X*#\N<6Rjkr[O=lnXmd!0ci.GUlnCNeBu]F
-NfpbkP`/+kr[A\F)>mAe*]*SeP"B@:BdmaHs4,LZ+7kblGX(@A7.>]O;UI'/d5I/W
-8PQ"V@Qk)8O+KhGi4o<CdEuXkZueRWZJ&u?Pr(MGJjJlGTOq>D1d9'N*9P'[p^U+V
-/@LuhAPEYU@$#a@.[.1XDKTNU$Q@o!<8^;&)(lNaTN%JLgN0DHW*%XIJu8Z9ONDI&
-4T_GG`nR%eAO=DGe.jqU%#.E.H0>pje1qJV5/u4@/K4hJ1m\6Er);(o1(ACj`n0Q/
-)[(pQQN=2c;q'5O%<aqTfBb(."G\h#!Nc3#s4;=aAWJ^u`f!QpXdb0'BEXKgkLj@i
-FYTW>C[5Tl@N#7mV`FHQo3G%'[+bB0\<r#$8L\-*Donj:D%E>YZuJ0rQ7_7sRU/J1
-qA`-u'=k)OhJ^N4jD>F$`3aMGR]gE-7=.QD/)!895*@`uUl?&P,=VXZ^*?nunJ^Vp
-Lt>&%JYH=5d4HJST1KqKdRK)cOeRl!kY]c6$9ChRJ,dp.q4`7:houhoY5W+,'`S0'
-'E2rHq8"bGEa^$M_EH"iBV-!R1f'!9RO?((s3eUV_-[&tYC:Fa,M\YV\M0(b[u:/T
-<q1Zr$JmH++Vb_,J,e!R>H;llP"?p^8L=Ddh-6q&,a(_EP"?u"e_OH1FX3,MoBj8N
-=5-A8gs&AS\iKT'YFf\(@_UQ"*p.3'rR&s:'n#msUD<LNd.]=o&+5I,E3mi:DsDG1
-;CuZYNMYQpA27C4l)oY=So`Y9;l$^]CKbOk0*HnNP2QX?F;h7PT%j+4-'X<kdpm*:
-,T.#W#WcaoeURVM-%/uO<p/,h^7-(GD@U3J6\4erYH)7Bh"r$ldpmP1_9A+AE'?gX
-ok_HKT4;X4Ci7)!3KeLp#K[hU403e.V2Z91m&?JrgC+(F@2SZ!XF$qCN>EQ#WLM#a
-$ilH!)"ftlH`<j$(E;_?S&sCn!0Ub`%jh$3Gh*sMIP[Kt%[4H'=EuRAbJpd`6h-]+
-cubi';T$V*:0of5g)l::(5&FNC=-387=Y?hh-6q&,a(_EP"?u"d+qp,FX3,A,a(_F
-s3]Y,X*#\N8L0Qbb+E6@ZN&A#=t<#ol$#e3?'=Q@A<KN6s3oB`[!Snrko#/5_F@rc
-;Um?sel('selVn$d+/teYd?9@qPVk-WJHrF85)Fm,!o`c5nXoEo__b>`b^aPn23G#
-2-$-pnQSp0Z9n`0eGaF;<c:dQD+nQ`$kEG=q8654eMB701Fo_]UkaI/P$eBf,;Z6-
-1:nAA89b-V-3-(n1HK\8/$XZ$LO]er?j!2O*B+s>l,09>rR7\j6.I[R\Dk7u*?2KU
-SO"G0WJ=3g(&Dn5h7n's#nV5JUDBjfltICW>1k8g9VTpm<?$*<NK#N+PFs7"BZ7!2
-],F/YQF9B3'.DSMd2Q1+,ARBMs45QJ7Z0W:)D)D/BTSd,85?`A-X@A9#)R*t7(%T?
->0,)CA8%:71gg:7]r\eFm:F_LCG(k/Qm"EN#Yk,H'E37V!'^Vd!1lF$_*@+DoC,F$
-gmCmJ0V<Ccd(B+*(#R4HY5Vg^rrAWTcbVj/O7Vj:q;_DN'++C['CJOAgo]T9!#!h#
-(\j;sGe_2)J,dpP>H;llP"?p^8L=Dbh-6q&,a(_EP"?u"e(n6/FX3,A,a'8]5nX\N
-Ud-&S,T]6BJ3a</4G(?JeBqo%_JN<)Y`W%4&l0#L<f9"F'5F\`KSm[_P'D5'ZrtiH
-RoOUt,ZYrhPJb<R(3GKNeRa(6%uDUP6u`I=.'o^W[]:q28:3u]1*_T<TgbLs"gqK>
-_F*<SEKM5,m0O8dL+)\KptfiC\F,M&lB(6i@ZO&uNTSL?Np._tW=G,H..i8hhJD#X
-mZJ^XO,o!UN`^(2)]Iis8MCI<qpFs'Z16!HD'NOq`lTP.1EUp,4r-=B@BH>ACREd#
-^a<R[?iS[4>H;llP"?p^8L=Dfh-6q&,a(_EP"?u"fA0Z3FX3,A,a(_Fs3T.s.n(_H
-9=eEWmZL-ps3]4t.n))TG>#M;Js"ueGUXo$s3f<_[!Snrl&Q'Ka+LC%_::Sgk^KpG
-^SAGfOh5Op+0AVJkjKRgDVO6-lW*9I43+<>[eVTVe$2YRGN/J#P"T%I1u5),MT%Su
-hi$d*8M+ojdrqAO.hq*sIP7_C,dkQH:"k*,MVD<:_VuD;!SU;C;-Rg/(gKE9J3-?P
-8h4am@ge*$E!L)<M,;76AaS>;^>dd"W<sL<%)'9n\(k0l2'G=/+d]Z_pA9bU`hY%b
-BJkQ0oONe%a+Z#1#-d:iN0,AFn>0E`ef=\id?5c1*Z+k+]e(0hE0J>2]e(0hE0J>2
-]e(0hE0J>2P^A.b;=5@%8%<;q*9rV*lB!"NRQ[EFdHqjLO(d'ns4,JWE7JVl\8&Aq
-gbhssm8SGE<?CSY2s(Ul^G'h*q1Gu&cO'UO4=C'r^]2lr5<3!kS?@pu9CiC!^G'h(
-o*8h+!1jl'GYe.o0`:"Lo90^1?iSa1`Vq0a@i+p+Xc-WH>)J2pP"?p^9E3Ap>H;ll
-P"?p^8L=Dah-6q&6L1YFL%`/6UUuD;f2Y0Gm<E,2G81LgWeM>DnA^LV-nad%/?Q?"
-fsTTQjTXI-"dQO6HT&Kg4J9<b@'[5nDe@U?B9]%<E*2\_A2"VL;L_Q[A'8/>^di*1
-rC7$P/TsJ^*Mn8cdaL?TVhTsHL-ZG0o7a&fT2,n+3=LKbCZc(!oferc*-)o"8Cu-$
-lcmAVG$N'TK1m?LO1e<$ge29kb]Gg$_<uRFeEbAt[WYor6\A&RkE!;,F0Om/flL@D
-_c,?25"StLLI_WmRb9;3T&Yt(9&/bo5W2lua`,c(*068+j>1q4elF;:>2XU>!M*#:
-n4qbnDQp^p`GKBq%dcM;WULr8gQ9\2(KjkBX_WLDW!7B."2TKee(#>gAs72IL9P'R
-i2okIL1rRSfP:ZtSdO!cfOg=d]nWb!RGae"F^-C69?i%4[Eo:P0Kadd\fO@A_P*4,
-fGrXO!47@\a5B%QjE4]W),&5*c*bn+82*/T"1fr(Y.n,jfiqT^DP68?%Y'l\j]>fj
-lYN])XLD#K&dLYFMK5c$eoeE%elH"R3f*s2k"P..2UooUF$h$2>rifrm-HX[b?]0V
-+$3ah(ej;_2UooUF$h$2>rig0s4#f'g?u)O<oE,PJig*GXfgsDASqun\0JT>WnQmC
-[T;>K]7N,D.4HO*8L0K!e_OH1FX3,A,a(_Fs46"1X*%>q*]*SkAg><F'hlPjcf1*Z
--)@B5V51<pf?l;o1\e'c&`Z*5d4l[upnX'EBdmaFBdk)6q8u3[rc4.ZrrARms3T0@
-B]ugF9r+Z7;e[ZtO+KhGi/rij-db,7oO%XGRDWb(_W+HDo]CXY4T&V]iO&8dEMsY!
-F$IR6IP@X<g3U!5e-eE"TAe*\(fW$M[k`gHW/D$9(2M^4L8l!\gR1J5<(2M-$T7?U
-6WFKiD9S`+.O)aQKpq`f+fMkX=_2DhXRE>-NGk#sfB/!7"dW30)UA3L=P!:1*I_\2
-?s.&WENJW4'od-q_:Rh8*[X=$<EWf>RD-HT8'ok[RTOg&($/G,N%S`>!,3NB?@HTs
-iac,U<L,>LS*U0OI1:JtYQ*%Plj)3461pYL*Ul:KfiE7um%U0Lbh%mM+2dHG3s#%P
-:jlqka*\EVp-X7'%]-]N4P]gK*hhR9C%7UU2q6dN>EMk/caKP4*[1f\)4<j?:(F,2
-'g1:KC*').+DLA6Q+NiO(@I>B>ImAQ0TC0J,@(rgf1#_g^SD;Rr?,dWklX?M8C9Va
-1f'p,'Qf[.NfrU'dTm0o1f'!IbnK*+o0iAWs4"aX_-[&tYC:Fa,M\YV\M0(b?^`@]
-0?k0iQfa.p:\hgkk61ebS/;4U\g-"5M"`Eo4j)V7nKD,UrZj"=^Vke)<)f#PJ,e*U
->H;llP"?p^8L=Dgh-6q&,a).'Q9EiG&$;t?d^*qqjo`!gTi:5YpKcuH[^OLSc,R5[
-%b(!&:T7j[GG+fdgH@&G)W"j`:WaD&qL3jr2L9I_[\m0g#m#b"GBoeq9)bHTCX&HA
-)m-*i\Um(TELks!`DXIKkM#N?VafueF`(TK(gL]tRIOYad$7lPengn;gO2h\q93V^
-rrBR*=%0Nd-Y'UB;l'D6)V@:B.94c4B$&]m\('Y,SAquJqhfm/00)$nSVP^tk-J>\
-T&Uj($D6[Cc;%B;@J).]XOg;3\ArLhVu%\0PEfk7I7ipC2:OYS1#'L<=jup[9</I_
-Ia2-MM=fq#)L3N0e++DMWsh(=c<AnXo]AX^Gp6D?net0%$p/p`>1nc)k!p>8.'of,
-CRG!d^dG;SdUimH4*FJ69tJq2pG%2R?N$\D(W:L`U<]6NY%-m0!=lg?8XM/emFd!h
-d51W*8]H)X@<\W02NhLg\WD2r1\tEL`d7_pGGgHZP$uA@OF2pAqHcb5HN@Q!ViEZu
-@E,j>I#=K)\[M?Y)JNufZoh=:oRIJua!8$_.GKcMDl7TPQFa[q`D&Qf!<Pr84))R&
-\@K'EG8b12X0auge+A/%,f_.<S0k/2jL5@$LDFdJa;-ae@'gPge'0a52^Psn<&h4-
-5!ZBk'*Y%mVOhM$l+&C^_P+r<Z18'Y+IF_`SM]q+aMQ%X>BP9uqJ,C,-g:iD,KjC*
-1,-".f%jZaI[[l98bt`TM"9/N9T1NdFgkG[hkmR'dXI9n@Q_'WJ,dqSI4!ju([OAf
-3qp"#fc1MD&Zb.Srd_alrF+<kUP?kJGjp]"8[n<qq[`!&^$Qdt7g$ecGGX>&M1\eD
-&7!K/[uFWb]@-5N`5/I3#VK`RgW$BB?0QUb@UR_TKGQFdmGh7\XXd#l8L2(Ne(n6/
-FX3,A,a(_Fs4#k/X*#\N<;S.nPs3;8P5j([m^.>C*pIi@Z<`Vb,eKo/0'iPgd5).u
-bUjJ^QDnVbWG<qu.;LB?K\F:[@=S=/dFDpqZuo#E93Fnj9ro\m'5IpI:TAhEs3T-D
-7Z0W:)D)D/BTSd,85?`A-X@9&M*l2?MT;`B5O9LO&r,7]'ou>bJ(R#(,n7ND.it\N
-rrB9aXGmhbOeP%F1gg:1ckER?5YemB!BTG1YV]!T)C;Ho'%TO/CEl6TOeRlAku$#;
-.QYbLJ,ds/q19@=bRgrV@"eO[Sj1Q;5Ne+!n5&l?r;737pEgRA9IJV^jp4WO"=<kq
-(]Vstq;_DN(%9HjkMWOmGlIb."N#T/K_pr>pFCL'`3iggr["T$0C^V_77CS`eD4?0
-FX3,A,a(_Fs4,q0X*#\N8L0Hj-3)QP>H;llP"?p^8L=Dgh-6q&,a(_EP"?u"d+qp,
-FX3,A,a(_Fs3]Y,X*#\N8L0Hj-3)EL>H;llP"?pa2,."Vs3oA!.n*CO1=g"TCTKY-
-Bftm7,^>SLr6&6-Bs+]2h5'YYr/ou=47b%9;5UqBbBB)q#P(BA:j5aBFmNmG9eC_$
-DNJ7?".tX+K=Zc+Y@CbQBkuP:FFsZd*;k0u*RlXrHQ(HK94%#?U_k"8kMtKjjBH+P
-]JMT/LO0?dcPh6=c:,/tCVrMlW->J;*:]rbSE*ma2S:k+3er%giQiEk$ie^te84dU
-7^8aP]9jkfD[k=e:3qnkT;^<tLUV=-R>p1:rTVX*Zd\Rc`fTo^@$<=X2da6jm*(@@
-jr/bpCZ!F,>Q!STm*(@@jr/bpCZ!F,>Q!STm*(@@jr/bpCZ!F,>Q!S=n&V!TG3j&H
-qa!$@mf#6oIJFP'cJ=JQ5A2Bdh;?7@cbCZBH/#U2#OMZ>]=[k%M!V$t*=W1'c=kg4
-%4CR3G#QA?L4[5(1i'1IPP67_.H8B86""c&2:b,dqj7?5Z&Nn7QSuj<*K55q0tMYZ
-a]QQogIn#G6Oq*u6($Ijl/\pU?#?F_Z(Zq_*[&[ESojO(<L%,Jl$#e3A&6\Mi9H^!
-F^P1"d98%h1hnmB)N@ZbUJud,<.O.2JEKnZm2Dj_B[nqd7]ZR@d#W.rBLfRIZm4?`
-8.Kc5%Wt;PF\Nq)WbD*c;b+30Sistjna7<nO)WX!s3SI8g8j&cWkI6BVYn9`2s(Ul
-^G'h,q;FR$K`;%D'+`A^5<1Fqjo<`?q1Gubq1Gubq1Gu&cO'UO4=C'rR!s'aq8nET
-.sShI[9LWL-*#fTnL\,JdbS-.FX3,A,a(_Fs3oe.X*#\N8L0Hj-3)KN>H;llP"?p^
-8L=Deh-6q&,a(_EP"?u"f%jQ2FX3,A,a(_Fs4?(2X*#\N8L0Hj-3)?J>H;llP"?p^
-8L=Dad6&Esq::D\ks*J#:BsJjFHT3&b^(kGYC18/S&$=GKk<I`f[mjG\]s&pW'[g3
-Mem1d>?p=[8CT%nM+b+uCh$X9*7bZ\g`]#N8mRHm@iEc4k-0EVi<gB1;XAI/(tOeh
-21uGu#[dV[[72GVe/6anC'fp]8,3n"0drol`j):89Qq[FaK8<r75Y9,N>dCY\Ing/
-rr?WMh"0bg?9rb)OC^Z0EOS(,9p^rIV^*-Up0;I\5*KR=(MUtq<3F99n3't/rORgm
-=(BX&*j':.h*crIZ08h2<job\U-`1?+bdN4da5iqJieE1H5))Lll/Sb#lY+spnd1P
-(gF4]/IWm!,Ic[Is3nOPH4A0+di7'b]=A:3g#t@UcV/7rK'q\MT4ahPlTHu9_@*u;
-U_q,:)[6<<$'36)(rkh["p"H*O3478`p+KI!;Qq^b,2&5S+F-aq:m=pmMGoQd-\]s
-mD@6;_K>%kIW3[nk7&)RE7$A!FA*ob'+!2Ys4+m:BWq+J/,b3Zqi)9`)COr09I!gV
-#hMJ]2:4%o7(Wm@lni)Lf$NhA=rkV@6b(N6]<mXj$9d4@J!a+$m3DPGDp9<q:&1Qu
-WP:96eN`4"rrAQ&rbu6Ef=F1.7<F!%MWk!*')^/7<5186eM#/fohYD"5N`1L!1X]5
-cI"?Dm1U#Ud=;2CfZ!h8/W=&r6J09V,U/tWUln:pP5iqc>H;llP"?p^8L=Dbh-6q&
-,a(_EP"?u"e(n6/FX3,A,a(_Fs4#k/X*#\N8L0Hj-3)NO>H;llP"?p^8L=Dfh-6q&
-,a(_EP"?u"fA0Z3F]7Y+p/Lo7P"7KA(-IXPj::)jfoT>,4ZAHaJ:hH"A'"<!5je^R
-d'NH"\9@$46F6C>\9@$46F6C>\9@$466e67Ih*Va&K-^(piuVuLs1``_oL(k5XEm;
-#_7Q+1(aNl:h1h`%!%Jt1!2sna".2;d98%h/S-MF/S-Z(.?)):AdWYEfDj:HelIg:
-ZuqVQ@&>^`0pjE=VbO7Gg;m!iL&]WK'<\B$::dP.3pN2:)Q)'iWO7;WI:O_V6@EAi
--XBU`Y,M`Z<WCR`X:82.?tun2"'#-<:TT6GaALMnUTD!r=`SH)&=`7o-N([fs4+gY
-j8Afin'<*=i3.TSrr>7d_L9OZqi_?\-2E-*r4r\g@"eO[Sj1Q;5Ne+!n5&l?r;7B2
-f"*6aY)2m'U4(2@0C^VpnUHC1[u:/W;,L1g8L=Dgh-6q&,a(_EP"?u"d+qp,FX3,A
-,a(_Fs3]Y,X*#\N8L0Hj-3)EL>H;llP"?p^8L=Dch-6q&,a(_EP"?u"eD4?0FX3,A
-,a(_Fs4,q0X*#\N<7Nj#,a)O7f$WomH`\@R7#4G\6;\p@*DK9?=:`M>eC<F\JGbWP
-9hl7%&'5+9f.tB,LWH//3p'Q-0_lD-LKr"BjrYe^s4=R=jY1B1f\bWn.a+<G_5!K0
-ItSrF/oFSlNbsdT&;$"c%3Sp)=n1PeL.H"[k*jVW+J^b[8/F,6I!Gl9Y%s`U1(OZX
-F'T8iOEa92RcnfdK>L)#q'9D[P"$Si0E9DH=t<$"P+,$;UnhH1P"$Si,[q:IFQqEW
-dD)K:<W+1XYN[92KPRSS2:WiglB[o/\g=6$Y)-l"CSG!M)Ps=iW`j9YYQ*%b,@+=>
-)X=M^f2T-22:4!6NH@ffUKnM]E7HO!%8tYoeM`TOg.RWD/mnY-]D81K<Su%7ii`8o
-T+q;*S.km@:\hg\O)eYMjMF(%IV>>f^GJ`D?^`@]J,e$3q8$D8i3.TK9I&>[8%C=7
-Ejpu)86581M$i)mnKAV^'n?86h-6q&,a(_EP"?u"f%jQ2FX3,A,a(_Fs4?(2X*#\N
-8L0Hj-3)?J>H;llP"?p^8L=Dah-6q&,a(_EP"?u"dbS-.FX3,A,a(_Fs3oe.X*#\N
-8L0QW`tSC9RH'/'F\M>Drr>+[eBqGM75!hK9=dWR-i)1QEBha2j,*bWP"C0'e^<fl
-H`\@R*YLR\GYCAAJg;DV0`f,sOF%\[#7)M>lqe^]>3Vm&LVpA^Ftmd0QPLYQ`<"W1
-Y*rTtHoi)Cf!<Me4)Jo5miKGNAkX5R\'oP^@]Zm_%bk4P]>q0W'np'Kl$#e3DTTL;
-m(`SPd98%h2fYR0j$__CM1OhX_"4:.H-n(fBU%^;8ott)s3T-\1g1p>MaP#%0KeQd
-*ct'd3[Hfr&tK5`:4kt5`ejSP'DECus3\O9g+2"8U:oC:-N(^92s(V7^G'k-q;FR$
-K`;%D'+`A^5<1Fqjo<c@q1H8jq1H8jq1H8.cO'UO4=C'rR!s'aq8nET.sShI[9LWL
--*#fTnL\,Je(n6/FX3,A,a(_Fs4#k/X*#\N8L0Hj-3)NO>H;llP"?p^8L=Dfh-6q&
-,a(_EP"?u"fA0Z3FX3,A,a(_Fs3TS+X*#\N8L0Hj-3)BK>H;llP"?p^8L=DbdHn5e
-/KW"ZP"?pcA@j/@J,e!F=t<#eP"<e6jWcHhP`3G=;Fr27eBuiJNj?$7PoCRp(g>i'
-;6c+cKrtE0)]7<H>2TZO,2@$>n#1Ete,h5Ae\:m8DXB\5ghg9aW-7UYC9;?T%V_'a
-g`og7D.muaNt1+eX'9@,RUgYe$iec(1BhG0K!Ys&:7XF_A1#koD.Fn>>uD?=W<q0V
-s44rd%9<@7C9Qq*<;O[3XG$Gk85?al-XBU`Y,Sg[Wbl-YRogT4s4>WK6I=:Md+1OD
-ZK3*<au[_0IUIidQm"EN#Z(9Vr;76-GlIb."TJIn5L7/qs3S>)gocM./#%I6IUIiD
-0LB-6+[>.NoC,QOj8AfgrcnGC56SiOab9PT$26+QdFcG;-*(Mlpm/%@?fG7HMMdQg
-,a(h#dbS-.FX3,A,a(_Fs3oe.X*#\N8L0Hj-3)KN>H;llP"?p^8L=Deh-6q&,a(_E
-P"?u"f%jQ2FX3,A,a(_Fs4?(2X*#\N8L0Hj-3)?J>H;mF<7Ngg8M97O9=k/Nd98%h
-,a(g3?.//.`nbl5@rAq+0t1I*s3f:u.n)@ZRn6>MUgajt7NhLP@LnWDl.>sa[;IsF
-rCYnNr`g1Qgi2HQQ+LQ(\16%=iQq0IG/sDt;Qh2bAV4L5DT+*r!VTVR4Eg'hY94ou
-K4Dr>`>os>7nFVtkp'1K,\k*oe@m/5<Uh!mYDCe0[+[Cb/N/T19220e'%:gM/N4,:
-dr<h\)X<EDF\#!5YQ*.fVU;Q(rgQBg/,F*$ka%]mWG/kWQCEW/+jJg9K-UFfmM&$X
-\a9Sl!0Q%bLGs;.%$1K7\4cE]pnde\HrBmi4tHZa^%oKNr8=c-E(hM3Qq+\@O)eTr
--cIa`'B5A@M=FC;_*@)crrAQ*s4=h,gocJ-/##2LhCnCB>K-Re.sShIKN(oMP"C0'
-d+qp,FX3,A,a(_Fs3]Y,X*#\N8L0Hj-3)EL>H;llP"?p^8L=Dch-6q&,a(_EP"?u"
-eD4?0FX3,A,a(_Fs4,q0X*#\N8L0Hj-3)QP>H;llP#TaI:\1T!N[OYQ1WL1,kp2Gl
-f?s#nH`\@R*]TeT8FaXu!'3W1-i)1^,eKo/0'iPad6&uo_U1IkP"Bjj\m<d.:"_I:
-s3]4t.n))TG>#Lf[5-<!)YQ>2*ORZR5oTG[_B$$>ej15J4i.c9b]4Y@\W`fd4t&b@
-1!"4Gk"_!,pn8'Ha!%ngR6!RMikPNAciat+=miWt"GkWUXT1X224j&`k=!,WU0r8o
-.F;amkVPnR)COr0:Y]WU\C#g+e%Q>R/)^#n^(37UX#%%>(CL=OiVZg[CE`'VHg1q#
-jKbl4aOj`K%=<m#A-o>mZpF/Z-_HREZTBC?E3M4f+2s<gZ6%Bu^7_'H8C,AjN\s#I
-dCb*O!!\Fb1#]4N1\*2/NDHo<D]mh#!MaF(G\]!lr/94f;sb#5a>XY1B\LoV)U'Tb
-q_rqtF;7^>5TGEfIdVYW%)1!DBUo<+]$L[)m[q+`P(PEoGM4E1<A(WZa?-<fkN'DX
-e/ar;/SuZW'oN>[%IF;^,N6j<6aJ-dXe[u:Z!dlg]qCo!Ho[$3G%B[A["gbE/0OF@
-ZkK*nLG:)43AuY&[sK%F4Nmgj9TCsVq%"*:;j1m<4*Rs3F3ME5oZ6&e&!6<-2*!RM
-A%-e'f0%7X5>7(od.n1b<fm7@Ud$kR&'di>#B[^7G>%N4FoU"*q;GZXn?7:c9KtNk
-r8bceQ+UJ`>-6fa!#!h#(\j;jU8"jkf%jQ2FX3,A,a(_Fs4?(2X*#\N8L0Hj-3)?J
->H;llP"?p^8L=Dah-6q&,a(_EP"?u"dbS-.FX3,A,a(_Fs3oe.X*#\N8L0Hj-3)KN
->H;llP"?pa50BL/:U:#Nd98%h,a(g+?'=Q;8MC+pd98%h,;<VlN5:NP1Boj2,a-_V
-el((#s4>UR"_\d*ZjacGSN9rs>0:$k@k^h!Jsaass3T,3%M3afQ([%T+R0If6,5HG
-e/hUfgG)C1>ur:q$E7m0VHY[ROun@s[`hZ%QW;-J_Qd=aNSN,V<\&F"]:.sk`GZMN
-F'TqQYVf4X%9)Qp<WCInej@a76I=:M6?Ug%3pMftF\SqH;elJ7g;)6&Z4lOI5-c")
-d^`jN7_,Z_83_(t>d9lq>h9uA+1Qp*=O0jICQ=Pggd+a3JeS,kK`;%>+[>.NoC,QO
-j8AfgrcnGC56SiOab9PT$26+Qe%>F-(#R4HY5Vg^rrAWTcbVj/O7Vj:q;_DN'++C[
-'CJOAgo]T9!#!h#(\j;sGe_2)J,e$S>H;llP"?p^8L=Deh-6q&,a(_EP"?u"f%jQ2
-FX3,A,a(_Fs4?(2X*#\N8L0Hj-3)?J>H;llP"?p^8L=Dah-6q&,a(_EP"?u"dbS-.
-FX3,A,a(_Fs3oA!.n(_H9=eEWmZL-ps4#G".n))TG>#MW)g1*oNOnVH`nbl7SN?f$
-d*bsLP-d'1N'[#*`#g7`61RdA3c-0$P+,$Ms45OO#K^WrKB0BJ61RdA3f]@\;:7q6
-3_7e&F\\pTo]n_5^+-apF\XTf=o(k_<S^TREIBmodVk$Cf==nhg<"'hOk_IP>@"=r
-SiIh.\Q-&ka_BdtgaVKtC8[rfWh,]7W<h*TKPRSS2:X9:NH@ffUKnM]B\,]Qd(cI:
-WkYFiWkYFiWbj'([$N,f>at=Qpnmu:4t46':PsYI$3'ub-iDo;s3\D&gocJ-/##2K
-IV>>f^GJ`D?^`@]5N`1L!1X`%E(hM3Qq+\@O)k9KfZ!h8/W=&r6J09V,U/tWUln:p
-P5j"e>H;llP"?p^8L=Ddh-6q&,a(_EP"?u"e_OH1FX3,A,a(_Fs46"1X*#\N8L0Hj
--3)TQ>H;llP"?p^8L=D`h-6q&,a(_EP"?u"dG8$-F]1DB5L-7"31oA5cQ#aPUln;n
-9=eE\s3f:WEBhaU:E31%XV8_gr95Ji?.//-FH6_L&j.iIe'V>L75!hK9=f#_]-cm8
-3d(JPdI+AgXWH`=-L@5-FQq7u)CFl/:#'Ess4+go3\0.[U:q.!+C.XTN2t\3j7eWf
-V;K9mm=0-Qa;7bCj!sc;\GbMMDf(47g>U+&FPba\&[fN<<9_*)(aEgO+JJt`Lk,)k
-+?\l&s44qG%2J]cBWo^67/b,^qi)9`)CY?'METdiO*>9,o*9BpQoh2C_;0V@f=h"=
-?Ms;rIX"ON3ACBl_t0&h_;-cg*Ral%h*:(UrrAW(rchfMd(2G%>p#T>O3UerIu.pL
-Mu64J]O0Z%MMd:S8MC+kh-6q&,a(_EP"?u"dbS-.FX3,A,a(_Fs3oe.X*#\N8L0Hj
--3)KN>H;llP"?p^8L=Deh-6q&,a(_EP"?u"f%jQ2FX3,A,a(_Fs4?(2X*#\N<;S.n
-Ps3;8P5inV=t<#oa`^=_8L0Hj0E9GI1BojC-=FkE7*HM0,a(f'93Fnj9P+WA0N/j@
-^]2a0=t<#nAM%IFAMKQ$N582"$?YOas3o?G6I=:Md+1NMFk%WrlB%QZ9rne&CBIPi
-^srq[4[L+uf8^g^m\A8T_!QC*_%,`n66$KeNZ8l8e?`0Ch<E\]Iq.-32.#\,S\E_L
-4c6RGmbR-^m=/WuUMBs2D.%+<X:8+o+[31FlQJc$EfRHe*G*Foe[tX/(#R4HY5Vg^
-rrAWTcbVj/O7Vj:q;_DN'++C['CJOAgm@./9Ci94q19F_f"Ln>r;7;ucQD?.YC:`r
-!'^V'IE@0>P6pt6Ge_2)>K-RfWnoE!/O`)s?iSa6>H;llP"?p^8L=D`h-6q&,a(_E
-P"?u"dG8$-FX3,A,a(_Fs3f_-X*#\N8L0Hj-3)HM>H;llP"?p^8L=Ddh-6q&,a(_E
-P"?u"e_OH1FX3,A,aC5];d]RUd98%h0'RRQ\k+018MC+qdI+AgXWH_cD:aH\2XA4i
-)g1+#FQp/sg.H3.J,dmB0aGg6(k^nV$pjGZSN:U62NjP$8AlSqN'[#*`#g<*dEu,J
-77TofW9GO,*@,B]NHIc]\tgQV;U]=27'tZ*d4I89FC5'r^S]ti^S]ti^S]tiKp>_T
-89`tLTk.6XdN/)W-s9Pn["j)/#U/Z0!<3%AI@N=nTSL73"9$dDE9HA8*r5jIpK-%c
-T:3"91!i4JGZGaF3X@JO$H$,h5mBX6J,e!2Uq'g[>d%io:&1N2;grDP']5?,`BWMg
-rrAQ&rbtOUgmCUB0TU8Se@YONHr](K'B61oBV-"=!1X`%E)6;G0TU6_*ot1$b2+fA
-+^;qb,V+,S`.e6Ah-6q&,a(_EP"?u"f%jQ2FX3,A,a(_Fs4?(2X*#\N8L0Hj-3)?J
->H;llP"?p^8L=Dah-6q&,a(_EP"?u"dbS-.FX3,A,a(_Fs3oe.X*#\N8L0Hj-3)KB
-4E3U2ZqhZ;o;r\H'E%)?P$QN(QZS9.:\1B,id[LD`tSC:s4,M#.n))TG>#M;KT?E\
-&kODLf$WomH`\@R]-cm6Z?5?Zm[&%-YQ*5$m'Ji+%a!1t:#'EO\C!6TU0r8o0KeQd
-*ctchd(_UN(&?3iYKhbgrPj]kN>)%)-3p(T"3uaSk<t7E_%Jj;7LNU\*X*blYXFNR
-^]2]clCV"a;o^2>KjiLqVf&Dm9+MBIWdRXu:E5ZA'@hFN83Y(Cktb=GGp)u)qkZGW
-Z/gQ(GOC\kbT5(q0R#q__;.?=K`;%D'E35`s3eJC3F*_sY)gk$o*9BP0R$1]#B]tG
-SeM*J:\is'r8bceP7PrGs3oW>r["UT(\j;uN*kRJMMd:S8Lg$<=PT6@b%-'sF/*rd
-SM\r(5MR`bR?fcXe?YJbBO'cWm3bUcf2),JWFf_$a`T/38/`:*2g\-F9m+q`_S?-#
-^LpD))J\r66TB0.cL'S`k>cuVU3&6BlSO?8kW>?i_a2SJrLH@?Brfg!%,oQW41Brs
-SQ$VtQL"&C(riuPZ&]j7/_giJGg]+;T^9n3?\fQ=26VFeGhpJZi-!eoP!7t4AnARO
-5fPO\HgG7^mRqa+Y22!tpE3pf4)*sP55NI;7U-p=X,(^5cPj</-lALMg3S0C^9[4T
-QNn=AiZ&0/`i^6&"t*?XStAsMXLn+9_8Y-<LB4LHX+mp^N;*:@g1gQ.YRjRd3M!Ji
-UrOt;c[XWmVP!4E!<hfMRG0GW9QI7op\gW9C&Z5Y&5M(BS[0!*a".2?^?k#;gPnsJ
-F``etR;7"ae;uX%WRc1=?ZpLXmDc%`]"1IK9XVLAC.K<MeE]//YIcg=G2lMk?!S_`
-VHVg1[3Q4bC3?((<jAcLe2#'$1q63a!XHqiX^bQ#W+D!&BlKFL":pm]>/mu%:s0j*
-dbul"#TkeD+sJ4&,esB1h-6q&,a(_EP"?u"fA0Z3FX3,A,a(_Fs3TS+X*#\N8L0Hj
--3)BK>H;llP"?p^8L=Dbh-6q&;s^LW<;Rr(8L0K!e'[NhHS$;\,a(_EOdIlG7UX7c
-)1rp4s4#G".n)%$/S-MF0pjDK_+\GJFQqEWe^;rKNj?$7Pf@+.1BfM#.FY1hXG#<K
-9rs'Kf$G)5X$BFkXT:KJRogT+ecr+]JZ=-/-e:V4A0`O.;A644$.i2Wf>"Br<W-<?
-YNl9iqT)I6K_ibV[\he@\Ju4&6FNcG41Q=Ca?m>4gH2qc&]d6J\sA?4p1^Jd+GX5q
-7dk[\e8c*fY,.n;]p`[r$ieS_?&Z">djj0s1;XDmX**(<#V@g--etLFgnZ=QQf\QH
-o)pB8JeS-.rr>7drrAWTcbVj/O7VjJs3\D*gocM./#%I7hCnCN<q1ZrC:B-!92SP`
-;Fr27db$P0)o]`9i5kX0R#-ZVKs5Qs2iEJR_3+.?0bY36$Xi!oD\it/K-T/\@O<EK
-&Fj`*VO"TrDVs_?38T,O4?S_qE9jBe['X`.l8go]IdK6[OR[;UVO"TrDVs_?38T,O
-4?S`12'L1_DQIoLh+i[Q5CA\]NC\+1)ljtA2cHDlceg#[@o=;e#3s5hc.(r_1\]!f
-q[OdK[2Qkk=BGTfTcj@80MqWV+fVjf_.-SL!L'3"rr=`Lq[OdK[2Qkk=BGTfTcj@8
-0OOk/fD?jXT$Me%h)jH(@QBi[rr?T-e(O2LgS]D-9Lglh?gO$RHTgo2FROD;Lur8'
-_T!aoBcC7,['dg`)_hI;177$1&CIkEX_V*DiWp!\Je+8CE3Y44g.'Z$XY"Mq#0]@<
-bbA$9FO]%1)d(JfGTp'dFO]%1)d(JfGTp'dFO]%1)d(JfGU]VkYQ*,.>H;llP"?p^
-8L=Deh-6q&,a(_EP"?u"f%jQ2FX3,A,a(_Fs4?(2X*#\N8L0Hj-3)?J>H;llP#Tsh
-9dGm/s3]6^[!Snrkp2E`,aWVbV;6Y$da0_X?5A*O](!'8D:aI*e#(PlBdpERN'[#*
-`#g7`61SC_e'V>L75g<u8PQ"V@LnVk+Sd9l&!D&!fDj@8UlACQ,\jOI,?0>3W^8Sn
-+WBX3Rmst8VU;Q'Bs_ZM>&G7TVW"OYDAo_Ye\386<Uh!mYDCe0[+[Cb/N/T19220e
-'%:gM/N4,:dr<hqP2t=iPA)XVs44gXU3otubnK*>rb.o<4)s!KK$mcbdD6=JG.lh@
-Q9$jA6an)>GV(5%N>rW9[o?/%h9GBMp.uO\;*Lb!2nPR45[/A!qMj:emVcW*=N_O>
-\.hD7b8<.I'Ll3J(cJl=s4=s[_-[&tYC:Fa,M\YV\M0(b[u:/T<q1Zr$JmH++Vb_,
-J,dmO>H;llP"?p^8L=Dah-6q&,a(_EP"?u"dbS-.FX3,A,a(_Fs3oe.X*#\N8L0Hj
--3)KN>H;llP"?p^8L=Deh-6q&,a(_EP"?u"f%jQ2FX3,A,aC1+'E%-`j,*bX9_$($
-!':/3d98%h0'RRQ\jqc.q9hBF5L,DOM>hU[8UpcedI+AgXWH^J&j.Fa8L0JeQZTjC
-s3]3[Zo]iLaj[.\\m<bPS$HqR].a34d98%h2fYR0j$__CM1OhX_"4:.H-n(fBU%^;
-8ott)s3o?_1g1p>MaP#%0KeQd*ct'd3[Hfr&tK5`:4kt5`ejSP'DECus4"a<g+2"8
-U:oC:-N(^92s(V7^G'k-q;FR$K`;%D'+`C90`:;O&'iRPs4+@M)!6E5Y5RL`&##"s
-,MMVCC9[OOk(5b!rT:'(9ghPF7lk[c3AhBneK!hrN9&JVO&U1u.SRscOr`mQ%T6n5
-A<?7gn8a^JCF"[^%tg/F64FBV5&1'?#)9sd21H0i6X\6/s46"1X*#\N8L0Hj-3)TQ
->H;llP"?p^8L=D`h-6q&,a(_EP"?u"dG8$-FX3,A,`jY&VMbO-,^X`/&ceNna2I1m
-G%EL4).=cE\mUU&pPqEb6jp=MU;4qY*o59JJ1&!LnN&?'dagFG_<u#b(@I>OJ[A##
-Krf>MKA=oM/_q\)")*n%$WuP$#J$]#>ImB1#14f)'/qujbp5='(kU?E9MU0bkaB!6
-c=nHId)6^03b!1C-Uc5)`cF]]G(q-I_:''jM)lsVr*AZ,o.Jc=e#)O6dmAH1qgL0k
-2gLa,O(m'e!9p1@Bmm`4HQ0W@[`>c>]7>"MT/?Z!nJtJTA_)3$KJD3$bO=ps*D[9t
-(Y2l)[(&IDXF.b^!!NDQnJtJTA_)3$KJD3$bO=q-s3oHqUPddXkI@b+9GY3)n`,Zo
-(8't6<n>;S`J)0:[F,;@*-q%\rr?`l[^J3a/1qS>Y)kbjj3NDpo`dV(L2AL697>*$
-TZh[qch$Y#hOqpBONjVnM/TrLF;^,k3W=IA>LXMe1)[I*d4P)QY(JIjVa&ME/$j5a
-lN)8M",T*56[=;&a-%sZELQ1oGoHjB4%r"eK,Vdn/$j5alN)8M",T*56[=;&a-)u2
-'j_kq,jj_[*;k.4d?.Gf`j/@rA.d/.ZCMjJ?6!`+mH-\Sr-L*seD4?0FX3,A,a(_F
-s4,N`[!OAGaX!$@,aW&R-/!eJf$RYO73n$ebS]Fd0Op?+_2_Db-3)TEelIg:ZuqVQ
-@&>^`0pjE=Vb:/c=\Dn)s3T+K"_\d*ZjacGSN:Uu-ItM#A0`O.;A644$.i2WdD)al
-<W-<?YNl9iqT)I6K_ib\::d5K>uD?=WO7;WD.%+J=;nCCda6Q3d+1P1ej>D&jW.pT
-3m3_9@"dF)+ZJNh:\j&Kr"K'Srr>7drrAWTcbY,2e%-p^Y)2m'U4(.4@"c9K6=6*'
-5Ne+!n5&l?r;76-GlIb."VShf&E"T!;(QM!%KYH%'#qQqi#V>ps4"_W'2;p-f]nuS
-2%f=ZWPWAN5+<QkO+sAm$M?AQ22BXjWc@OX8&7lJdAZB:nb3bQqaR?`bK&C;a6ae*
-].Y7G89Gj)@bT^:T&W4o;6?]IXn<S"1e;a-g1&dn;4cf:B"P(M9-,,C.a<0;BU1bB
-i)Q66WmNABGJLE^e_OH1FX3,A,a(_Fs46"1X*#\N8L0Hj-3)TQ>H;llP"?p^8L=D`
-^R'pt7TS*Qf3>7,H.tE33e2Po=7Ym`aNE5gRd5)bY<-B9-Vt=`$N=?h\J\UTo3H74
-[HDAo"R6$S@3=j\1uDMo/\&B%Y]*,01JKgZi_+/AR-Ye)rlihcosg1>Ml&Q@"]tD#
-3+dqJf+S&DcE%RQN(h@`PumZ^3+dqJf+S&DcE%RQN(h@`PumZ^3+dqJf+S&DcE%RQ
-N(h@`PpZ.=gq)tI98F&5\5)#d:Q[g4qimT!"*3_BeLht'G2YN=&O&VWe*^+P9F]1J
-rr?$.JDJt5mN=pn'AlTrJ,dpDVZYAEWr5N]l?uSNmNZ%cQAmjFPr2Y.:T%.VR-/H-
-oAm8m_"=V+^J]J@T2`imLtA7F*3Ph/RBa6t@FY_A2M8LL&!nS4/#PSnCi00=F[EQs
-T^Do7jiLBBl-Ho0)h4_*:p&bk4+Q8bE`C<r5A;Id2jP,T)aGH-iCr2Dp6'6UH!raR
-ZiT4D'[@:TBdUq\Q4p/85TW)I7K#BqopTdl4gkPRDpU/uc[JKEqKnk#1u7MFC^b4=
-TO5g4r08)jpHR5C]@ci0(u;ql^QUhV/-"&NAQpdqadr<Nn:7rM<m.VNB7AZ!+>&mZ
-ZKl=phmZAe#`+:n,a(_E^]2d=>H;mF<7Ngg8M97O9=k/Qd98%h,a(g3?.//.`nbl5
-@rAq+0t1I*s4,M#.n)@ZRn6>MUgak'7NhN&@LnoLl.>sdd*bsLP-d'1N'[&+`#ggp
-61[jB3f]@[;:7pk3_7YJs4=t0>nulJkc]fo7'tZ)d4I891eUQ<9bPood4I9d'%:gI
-+WBR+NH@]\\hF*1^S]DUMZ0)7ROe5O)JGG+L5BWSBU5-BM6rTrdTi85Ec929ig]O-
-pnmu:4tHZ\^%oKNr8=c-E(hM3Qq+\@O)eTr-cIa`'B5A@M=FC;_*@)crrAQ*s3eJ'
-gocJ-/##2LhCnCB>K-Re.sShIKN(oMc>-YjE!.4J9]iauLB'X$'[CK!#]Knf6!sZ@
-e?c(4]Z=^&imS95cC^!c+e'"#9J&muIOiWsCd'F)U%Wlfrr@tugcGlKo;I)02S\8B
-2\*^@r9>A:c*-oTNPi!)Il^qMc)^Wn2iemW!6CM\1MZnINT8$nng4!gg:rWBGk&!8
-M%6GE+?co:rX_VC4F$tpHOoUt6`K+e%r9gIKGX[<fWQeD_<nYF!atuGCfcm]@.r=3
-JM;Q4[O]M?Y^:5*^mI?+70F2FaRVb&&Ko0c70F2FaRVnJP"?u"e_OH1FX3,A,a(_F
-s46"1X*#\N8L0Hj-3)TQ>H;llP"?p^8L=D`h-6q&,a(_EP"?u"dG8$-FX3,Lq^R#Z
-505(5s3f:u.n))4G"],4,a(_Ps3o@O#!#j6@)jccbS]FeP"SqN=\DmkAdW$%;]12%
-s4#G".n)%$/S-MF0pjDK_+\GJFQqEWe^2l6d+1P1ej;]Gd31R7OI^JfX:5hY"%:kY
-d6=iLlQJHt(]W(5'<[6Y::`"X3p<&8)CF#>M7%o/I:O_V6@EAmlRl&c>beC2J,e-4
-q19@=bRgrV@"eO[Sj1Q;5Ne+!n5&l?r;737pEgRA9IJV^jp4WO"=<kq(]Vjqq;_DN
-(%9HjkMWOmGlIb."N#T/K_pr>pFCL'`3iggr["T$0C^V_77CS`dG8$-FX3,A,a(_F
-s3f^G&I!'6#_KNV"@5A\(EU@ZX(e0q#Ob!c(EU@ZX(e0q#Ob!c(EU@ZX(e0q#OarA
-1DXPqbs"XN'@S[J=rc#PGX4JK(1j2a5"C:`?updO7BIUDS*UW'd)`Vi_Gbl6c2&:n
-[!54Ce'`AE6,,n_^W1D)538U*\q>Hkm=1/Y`-og#eTD)p)qt;l*R0E;PA]Z&dqqj?
-qWaPo;f8(>FEc>9gU`krgJal]\u-A-ND;/Pah]sO4DJke*_m$\q;YD4#kDq*A`QY!
-(#X:g-glYB?:=[q?3b^1Ics=6jA3B&i-0f$mY1\jeGF1^=1e@KWV56EYBT`!;sh?i
-?LR=s?.<P%LUHJ4%W8:!l81?8g@cTn2cUZ:)B*&OHOkauWc-UY^+T;HIal@,GMJ\]
-VD!kAjM,G=pq,rep80L$^?!%D@edS'?iS[+rM,/I1[mWi>+`0@rrC&f#Q0KYp5U6i
-cbTP\OY>EJJ)``qr^=M7iVrn:r"&T9rM,/I1[mWi9D4Afps6bU!0Jqg3.KsQ"9(^'
-B]8skN;O4^')eS\r\O%.j@f3,+8F0trrA07g,OTB56LmRs45]uUPJh)n3>u;T<rS;
-!60Hmr/4MINZ\&B_#FCs0A8C8j$*YF7)*EorrA#U&,?k:UPJh)n3>u6h:1+`YRdd;
-em\pb!%P/>VTS:VI9Oq&&4cOrGBGfFC]itRFdRbFb-'-?=1<<iOl+8dUAD'2lJ3]"
-P.O0U?JX/C7t2ibfA0Z3FX3,A,aC1+1&T1^j-]gW9_$>V1B5_K=t<#ol$#e37uh*T
-P!!e-b`UqQra_0`J,dpDm^.>C*pF^Y4=#/C,a.S^FM"aVda7?f4"Urae#,jM?.//1
-Z>Rdr0E9MK=t<$#EN3p:<8GQnJEKnIF/iV.eL8dZP\;pH1`ERteBmV@=rkV`6b(Z#
-*9rn$F\E$$V&Be@N<Z@OK2hfhWV_ZRpDU78e\0emX52U3^"qD>r5%&FjpoMJ0Qp7f
-iBQLYrrAW(&'dj53ACBms44gXK<i,bK<i,bK<g!Q$3'uf-iEJ$IWAlmabT%0Ge_2)
->K-RfWnoE!/RSP0h-6q&,a(_EP"?u"d+qp,FX3,A,a(_Fs3]Y,X*#\N8L0Hj-3)EL
->H;llP"?p^8L=Dch-6q&8(+U8)ttcW<W;$-jW@+0gi(u7V-iXLmRu!3pD`iQku[bA
-qi^TPrPnfXH<'t)IcS0lrr@&RErXYDoW.r1rQB--YP0"1/\aomgi(u7V-iXLmRu!3
-pD`iQku[bAqi^TPrPnfXH<'t)IcS0lrr@&REis@sZI<BhHl+gbj]0S8G$8^j%tb)h
-r2R<DY00P*_=1jjJ!GN`e_FqDciZN5E!"g1>0m@:!,r"pCKf'e5QGa)FQq4F,a(`K
-s45S$.n(_H9=eEWmZL-ps4>Y%.n))TG>#MW)g1*oNOnVH`nbl7SN?etd*bsLP-d'1
-N'[&+`#ggp61[jB3c-0$P+,$Ms3]1J#L-p!KBBNL61[jB3f]@[;:7pk3_7XA)X*9B
-F@\m40E9J8VU;8urgQBG/,F*$BU5-BM.sJ5QCEVc#hMItCSF-Qd4I891eUQ<9bPog
-dma;c^S]ta^S]ta^S]taD'd<2QR:-cS+B&CVYnh*.DI]8MLWnXrr>#+r8>?ie@Hm[
-Y))g&U-6VIBV-!R1f'!9RO?'=k61ebS.km@9I&>[8%C=7ErX\B`Vq,7N*kR2fZ!h8
-,,1g-P"?p^s46"1X*#\N8L0Hj-3)TQ>H;llP"?p^8L=D`h-6q&,a(_EP"?u"dG8$-
-FX3,A,a(_Fs3f_-X*#\N8L0Hj-3)HM>H;llP"?p^8L=Ddh-6q&;s^LW<;Rr(8L0K!
-e^<`jHS$;\,a(_EOdIlG7UX7c)1rp4s45S$.n)%$/S-MF0pjDK_+\GJFQqEWf=@*-
-?8Z?<,W7p7/"&C4j&U!%6Y$W-\W`.^2.k#W2F,V=mcq<TIWk1([qUu6RIGo9h,b:$
-cJ@p^m4pTk4qOd,WoAU*gV)J"VFKET_@ttmZJ/X4k3XKu!:^'T4k&HSZJ/X4k3XKu
-!:^'T4k&HSZJ/X4k3XKu!:^'T4k,47#1bTd0&&S=m4R<;4/iYb%BO3R?+,0Zg0MKT
-G>]=N)d(F.]57@?[(Cj1m_AeKQ$l91lhs;A`GU5LbIkPQ8lbO6bHLRWCDFD`K.c`i
-q'fCpX"M0:BrkA!&e)Cqj5d=@E4LY/&6`Is!XLIjF_[D"bU&p6df_WA6%F<_<89*7
-/HciV+i&[<"5OVn#b&h&ej;]Gd31R7OI^K#s3\T_%2JhLBWp_(7/Fu#XG$Gk;:]!I
-XLUi(Ec9/5S+?b0r4rd@d_5J:r;7;ucQD?.YC:`r!'^V'IE@0>P6pt0q197W_$PQu
-K`;%D5L7/1kE#6(:\j&Kr"oC^\gQ:9M>&NpIELD"nL[f3Iu.pLMu64F;,L4_-3)KN
->H;llP"?p^8L=Deh-6q&,a(_EP"?u"f%jQ2FX3,A,a(_Fs4?(2X*#\N8L0Hj-3)?J
->H;llP"?p^8L=Dah-6q&,a(_EP"?u"dbS-.FX3,LcQ(!s.VFcOq3<bV1&T-=P5j"Y
-m^.>C*pF_+O60"'b^VB<NaqmJ8L1pEh(J$neBpB1'>i-Z,a(`C9=eEXG"pXKAcL<.
-=t<$?lBPLi3,N&iDeB,]?<'1g<L2["ed6NnE$dI(;sKWNDE)K@QZ$L<@pW,S\nItW
-A$#>Dn(jni/lBXQU72=HZda36G+V=97iS=_C_f(X;;V9*I3Rb(oW%:qUXUmPnF6VE
-kn'<_Q!LN!HA/uf*[#kO+qn>3X0oBs:q(eh`"/W=6N>V4l'?73V35V(XRu[=!tIp$
-1<o7ZZ;#.XStKu:@ECa2=hW[X8Ze#Ze.(%=3DSG"b8Yrq+MHdSR//(W<BGMB/8bCe
-Uk8?!)Iqunq,HbGXKf86Opg+tBoeuYj[R2/3:uPjhlOn4B__XfM2lT?fO)BrOO2DG
-!?2[lj3t6II^:2kUZ;J@EN26CW]tL's4=si3ih1[WkJ^!V&Be@N<Z@OK2hfhWV_ZR
-pDU")G,d^]WfM@=^]2Zmq1Gubq1Gubq1Gu&cO'UO4=C'rR!s'aq8nET-2E2!?^No$
-q1H!QdCoA7?Ms;rIX"ON3ACBl_t0/+?fG7kir8ukeSc9!QD1+JYQ*&,>H;llP"?p^
-8L=Dch-6q&,a(_EP"?u"eD4?0FX3,A,aMe9l<+sl7_6Qc)b@@)R6KhcWls[U9-Y)u
-f3#4dBbm92-f#=k=aa)FA7B*glP8c',1F8:qk=:qs4+D9S*jZrf!WhHbTIokCIoV1
-=WL620JdKJkITde%\P\TO3"D_VYc_u[B4N+EsN"I)U_.:=n^uaH;!ecYjJ0OZ.0NT
-)h<S'ZgGuLoU"UQ@G=4(A#^p12ZX0.BA8i"kqC)+_mYG/a&GjAD?:?;[9le9\JERc
-CTO#nh!83g_dgXUI(8ZHX6MT%,2+J_Fd%7.SSO8<Cj;OIQQ?LaI7D6;>=C-HZ>[?r
-X`<))Nt]Y+j2#P2iqf&%>"b:j/2@aOpaqAn?W.q;8TR0DL-bSV"gM!al=5Zb/ncN7
-a?Kdb^]2m@>H;llP"?p^8L=Dgh-6q&,a(_EP"?u"d+qp,FX3,A,aC5];d]RPd98%h
-0'RRQ\k+018MC+ldI+AgXWH_cD:aH\2XA4i)g1+#FQp/sg.H3.J,e!E0aGs:(k^tX
-$pjJ[SN:U62NjP$8AlT,N'[&+`#gl:eBqGM77Tof.-VsF*@,<[NH@]\\g/M+'%:OC
-7'tZ)d4I891gg:5^S]ta^S]ta^S]ta68d.6)X*9BFA#?'9bPogdmURs1smm6%2.-/
-d4I9d(]W("Uq'g[>d%io:&1N2;grDP']5?,`BWMgrrAQ&rbtOUgmCUB0TU8Sf=UjQ
-Hr](K'B61oBV-"=!1X`%E)6;G0TU6_*ot1$b2+fA+^;qb,V+,S`.e6<h-6q&,a(_E
-P"?u"dG8$-FX3,A,a(_Fs3f_-X*#\N8L0Hj-3)HA^Sb"mSh_l,Z(eJ<`t%\rZu>3Y
-jCaF06YpG;0JUJXbcMi\FZC?",1,'_.gui*mkZAi$P;04oUG+`QZpqG.Dj"^S%U0F
-L1T36&;kG3%Hd+N^7gs=I7,Ec#7e?&>A.DSa=\(KE@Is)_lgK"g)([t$\WR@8o!j7
-l`KigL'Bbli>flNT$/096p?>eggA*Can_j@#7f,lToSj`n_E\aC$`[RZpX%e]uBnn
-4J/)BeD4?0FX3,A,a(_Fs4,q0X*#\N8L0Hj-3)QP>H;llP"?p^8L=DgdHn5e/KW"Z
-P"?pcA@j/@J,dmC=t<#eP"<e6jWcHhP`3G=;Fr27dF$NGNj?$7Pf@+.1BfM#.FY1f
-=\Dmj=^V3Wcnbi=)1o4(_+pO^D.G!E6>^6Y-X@>uY)*J:7K:iOX:5pC?tcb0"%<",
-:TT6Ga@K(;,UZk1'<[2"JYI!hBU`*B0E9PKej@a76I=:MNj@aeA]d'WPC?nmhj>QG
-jp4cYj8AfgrcnGC56UudSj1Q;J,e'1-etk]pFDtdaaRWN^G%u]Qm"]WO7Vj:q;_DN
-'E37V!'^V'IE@0>P6pt:s45iAr["UT(\j;uN*kRJMMd:S8L0Hls4?(2X*#\N8L0Hj
--3)?J>H;llP"?p^8L=Dah-6q&,a(_EP"?u"dbS-.FX3,A,a(_Fs3oe.X*#\N8L0Hj
--3)KN>H;llP"?p^8L=Deh-6q&;]IYn*&UY72(mcNk=`;1q9n[%rcGn7quU5qIK;+I
-56/Iuf$PHpBT="<7h&,#chZ#VoDWjDI/a2;0?uc^QffH@9Cn4[,WKO+L86eDs4>Zc
-oDWm-gZSM#8%6h?der.p$%?mh"MZqo!^h^<3,1g8V;(22l#un&!'4E"J'Ph/d*_dO
-n-_bXO2*=hc9D;jiMd;*OQ!0^q>UFU?+tg6QZ&MfV>85^EaP?Os3\PBrrA[!YE&V_
-kL_<F^\RR0*oA(&8G;iY!'3WZa8+2Eh^%6kaZ/\Y9KW7ST4"%1rr>7!0^o!hK)a95
-H[L=6?Tl+fcEEhs+6QB\I$9TJ,icAU8&s\cj76(;q'Q$TS+?]"bR=I"^%pVnr:$n=
-GYC=^0`:"Lo90$eQf\Fc0IQefTC]pLcO9d&\j&2\+.TKpc;sIbM/'MXr(C&&?fG7H
-MMdQg0E9SY>H;llP"?p^8L=Dfh-6q&,a(_EP"?u"fA0Z3FX3,A,a(_Fs3TS+X*#\N
-8L0Hj-3)BK>H;llP"?p^8L=Dbh-6q&,a(_EP"?u"e(n6/FX3,Ws4I~>
-endstream
-endobj
-35 0 obj
-25650
-endobj
-40 0 obj
-<<
-/Length 41 0 R
->>
-stream
-Q q 42.72 0 0 -0.48 252 491.76 cm /im5 Doendstream
-endobj
-41 0 obj
-45
-endobj
-38 0 obj
-<<
-/Type /XObject
-/Subtype /Image
-/Name /im5
-/Filter [ /ASCII85Decode /DCTDecode  ]
-/Width 95
-/Height 1
-/BitsPerComponent 8
-/ColorSpace /DeviceRGB
-/Length 39 0 R
->>
-stream
-s4IA>!"M;*Ddm8XA:OX[!!*&R!(-`,',;5t',ql0*@i0R+tGQ(.k<#/;c5q<6;:9f
-Amf(W?u'Y1Jou*VG%c;]Mi3U\V5:#_P,5"OV5:#bV5:$g^]4rP!!*(,!s&u6!YGD7
-&HMjL!7CiI!<iK)!<E3%z!!!!$!!*-("U52;#mq%O!!*3'!s/T,"U5/:#6PED!<<05
-!sBb[0a0j?@1si)JMIEDOeK$H,:""%@P]jWEe6X`-'AO4dI:Xe2&>/FnZmco7$CS\
-7DbgA2A[4Y<T7T\Z\66FFlW'_-^:E\[$ASZjRf:V`RX)C<b?N0QDV+1f&lZb7os>I
-LR4pJa4KMK-oab"BR#?#W49q$kkGH%.60t&BmGQ'WO^.(l1kZ).QU1*C3kc+Wk-@,
-lMCP:!!E9)s4RG]!s&B'!!<3$56/8Z1\u"gF``(Fo\KH1kkrck]D9ksRJf'o3^`L'
-VXN\=IV8</r94a9rgUZn+o.bZGOqUp1\u"gFGK".:#F6Xr6OW>q9g@QrAT3es3S>A
-1\u"gF``(Fo\KH1kkrck]D9ksRJf'o3^`L'VXN\=IV8</r94a9rgUZn+o.bZGOqUp
-1\u"gFGK".:#F6Xr6OW>q9g@QrAT3es3\DB1\u"gF``(Fo\KH1kkrck]D9ksRJf'o
-3^`L'VXN\=IV8</r94a9rgUZn+o.bZGOqUp1\u"gFGK".:#F6Xr6OW>q9g@QrAT3es4I~>
-endstream
-endobj
-39 0 obj
-741
-endobj
-42 0 obj
-<<
-/Length 43 0 R
->>
-stream
-Q BT464.04 491.28  TD1.95  Tw ( ) Tj-407.4 -9  TD ( ) Tj0 -11.52  TD ( ) Tj155.76 -11.52  TD 0  Tc 0.0293  Tw (Fig. 4 ) Tj25.8 0  TD -0.0767  Tc 0  Tw (-) Tj3.24 0  TD -0.0167  Tc 0.0467  Tw ( Visualization and Communication.) Tj141.24 0  TD 0  Tc 1.95  Tw ( ) Tj-129 -11.4  TD 0.0201  Tc 0.0099  Tw (Source: DiBiase 1990) Tj87.84 0  TD 0  Tc 1.95  Tw ( ) Tj-284.88 -11.52  TD ( ) Tj0 -11.52  TD ( ) TjT* -0.0282  Tc 1.0782  Tw (his or her findings w) Tj86.16 0  TD -0.0171  Tc 1.0071  Tw (ith colleagues \(synthesis\) and then) Tj0  Tc 0.03  Tw ( ) Tj-86.16 -11.52  TD -0.0049  Tc 0.5815  Tw (present these findings to a more general audience.  This) Tj0  Tc 0.03  Tw ( ) Tj0 -11.4  TD -0.0184  Tc 0.9244  Tw (stage takes place in the public domain and may or may) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD -0.0229  Tc 6.1729  Tw (not require high human) Tj111.24 0  TD -0.0767  Tc 0  Tw (-) Tj3.24 0  TD -0.0046  Tc 6.0346  Tw (map interaction or even) Tj0  Tc 0.03  Tw ( ) Tj-114.48 -11.52  TD -0.0071  Tc 2.0371  Tw (multiple representations of the phenomenon.  DiBiase) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD -0.0118  Tc 0.0418  Tw (calls thi) Tj31.2 0  TD -0.0344  Tc 0.0644  Tw (s ) Tj6.36 0  TD /F0 9.96  Tf0.0249  Tc 0.0051  Tw (visual communication) Tj88.2 0  TD /F1 9.96  Tf0.03  Tc 0  Tw (. ) Tj5.04 0  TD 0  Tc 1.95  Tw ( ) Tj-94.8 -11.52  TD -0.001  Tc 1.5396  Tw (Table 1 represents an example of what topics) Tj0  Tc 0.03  Tw ( ) Tj-36 -11.52  TD -0.0231  Tc 3.756  Tw (currently occupy the minds of many researchers in) Tj0  Tc 0.03  Tw ( ) Tj0 -11.4  TD 0.0068  Tc 1.0582  Tw (cartography \(note that the topics are presented in order) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD -0.0011  Tc 3.7061  Tw (of the numbers of papers presented in each field\).) Tj0  Tc 0.03  Tw ( ) TjT* -0.0253  Tc 2.5753  Tw (Visualization was among the ) Tj127.44 0  TD 0.0139  Tc 2.4961  Tw (top research topics and) Tj0  Tc 0.03  Tw ( ) Tj-127.44 -11.52  TD -0.0149  Tc 1.8449  Tw (was the theme of many of the papers to be presented) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD 0.0034  Tc 0.4084  Tw (under the other topics.  Based on this and other national ) TjT* 0.005  Tc 2.713  Tw (and international cartographic conferences, it appears) Tj0  Tc 0.03  Tw ( ) Tj0 -11.4  TD 0.0105  Tc 4.8881  Tw (that the "hot" topics in cartographic research are) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD -0.0162  Tc 0  Tw (presently:) Tj39.12 0  TD 0  Tc 1.95  Tw ( ) Tj-3.12 -12.24  TD /F4 9.96  Tf-0.0216  Tc 0  Tw (\267) Tj4.56 0  TD 0  Tc 10.95  Tw ( ) Tj13.44 0  TD /F1 9.96  Tf-0.0059  Tc 0  Tw (Visualization) Tj53.04 0  TD 0  Tc 1.95  Tw ( ) Tj-71.04 -12.24  TD /F4 9.96  Tf-0.0216  Tc 0  Tw (\267) Tj4.56 0  TD 0  Tc 10.95  Tw ( ) Tj13.44 0  TD /F1 9.96  Tf-0.0137  Tc 0.0437  Tw (Automatic generalization) Tj100.68 0  TD 0  Tc 1.95  Tw ( ) Tj-118.68 -12.24  TD /F4 9.96  Tf-0.0216  Tc 0  Tw (\267) Tj4.56 0  TD 0  Tc 10.95  Tw ( ) Tj13.44 0  TD /F1 9.96  Tf0.0023  Tc 3.5077  Tw (Cartography on the Internet and World) Tj0  Tc 0.03  Tw ( ) Tj0 -11.4  TD 0.0432  Tc -0.0132  Tw (Wide Web) Tj43.2 0  TD 0  Tc 1.95  Tw ( ) Tj-61.2 -12.24  TD /F4 9.96  Tf-0.0216  Tc 0  Tw (\267) Tj4.56 0  TD 0  Tc 10.95  Tw ( ) Tj13.44 0  TD /F1 9.96  Tf0.0042  Tc 0.0258  Tw (Electronic atlases) Tj70.08 0  TD 0  Tc 1.95  Tw ( ) Tj-88.08 -12.24  TD /F4 9.96  Tf-0.0216  Tc 0  Tw (\267) Tj4.56 0  TD 0  Tc 10.95  Tw ( ) Tj13.44 0  TD /F1 9.96  Tf-0.0156  Tc 1.5756  Tw (Maps in Geographic Information Systems) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD -0.0176  Tc 0.0476  Tw (and remote sensing) Tj76.68 0  TD 0  Tc 1.95  Tw ( ) Tj-94.68 -12.24  TD /F4 9.96  Tf-0.0216  Tc 0  Tw (\267) Tj4.56 0  TD 0  Tc 10.95  Tw ( ) Tj13.44 0  TD /F1 9.96  Tf0.06  Tc 0  Tw (3) Tj5.04 0  TD -0.0767  Tc (-) Tj3.24 0  TD -0.0092  Tc 0.0392  Tw (D and Virtual Reality.) Tj88.44 0  TD 0  Tc 1.95  Tw ( ) Tj-150.72 -11.52  TD -0.0096  Tc 5.1196  Tw (All of this research is taking place in a digital) Tj0  Tc 0.03  Tw ( ) Tj0 -11.4  TD -0.0341  Tc 0  Tw (env) Tj14.28 0  TD -0.0166  Tc 2.5323  Tw (ironment and: has been driven by technology \(by) Tj0  Tc 0.03  Tw ( ) Tj-14.28 -11.52  TD -0.0192  Tc 1.2834  Tw (what is possible with modern computer technology\); is) Tj0  Tc 0.03  Tw ( ) Tj255.24 303.24  TD -0.009  Tc 1.374  Tw (very practical in nature; has been conducted with little) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD -0.0034  Tc 1.5784  Tw (user testing; and is atheoretical \(that is, these research) Tj0  Tc 0.03  Tw ( ) Tj0 -11.4  TD -0.0113  Tc 1.2413  Tw (efforts have been conducted with littl) Tj154.32 0  TD 0.0205  Tc 1.0895  Tw (e regard for good) Tj0  Tc 0.03  Tw ( ) Tj-154.32 -11.52  TD -0.0068  Tc 0  Tw (theory\).) Tj31.2 0  TD 0  Tc 1.95  Tw ( ) Tj-31.2 -11.52  TD ( ) Tj0 -11.76  TD /F2 9.96  Tf0.045  Tc 4.305  Tw (4. ) Tj14.4 0  TD 0.0089  Tc 4.3411  Tw (A NEW APPROACH TO CARTOGRAPHIC) Tj0  Tc 0.03  Tw ( ) TjET326.28 353.52 212.4 0.96 re fBT311.88 344.04  TD-0.0099  Tc 0  Tw (REPRESENTATION) TjET311.88 342 92.28 0.96 re fBT404.16 344.04  TD0  Tc 2.91  Tw ( ) Tj-56.28 -11.28  TD /F1 9.96  Tf1.95  Tw ( ) Tj0 -11.4  TD -0  Tc 12.9907  Tw (MacEachren \(1995\) synthesized some) Tj0  Tc 0.03  Tw ( ) Tj-36 -11.52  TD -0.0066  Tc 1.1166  Tw (theoretical approaches toward understanding how maps) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD -0.0194  Tc 0.3985  Tw (work and pointed the way to creating maps that do what ) TjT* -0.0145  Tc 1.4845  Tw (we want them to do, but better.  Hi) Tj150.24 0  TD -0.017  Tc 1.367  Tw (s ideas come from) Tj0  Tc 0.03  Tw ( ) Tj-150.24 -11.52  TD 0.0036  Tc 5.3304  Tw (computer graphics, past cartographic research, the) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD -0.0232  Tc 4.0132  Tw (neurophysiology of the eye brain system, cognitive) Tj0  Tc 0.03  Tw ( ) Tj0 -11.4  TD -0.0158  Tc 0.2858  Tw (science, and semiotics \(the science of sign systems\).  He ) Tj0 -11.52  TD 0.012  Tc 0.858  Tw (proposed three basic research paradigms.  The research) Tj0  Tc 0.03  Tw ( ) TjT* -0.0072  Tc 1.5572  Tw (paradigms of visual per) Tj98.28 0  TD -0.0073  Tc 1.4773  Tw (ception and visual cognition in) Tj0  Tc 0.03  Tw ( ) Tj-98.28 -11.52  TD -0.0009  Tc 0.168  Tw (the private/visualization realm of cartographic space and ) Tj0 -11.52  TD -0.0106  Tc 10.5806  Tw (the research paradigm of semiotics in the) Tj0  Tc 0.03  Tw ( ) Tj0 -11.4  TD -0.0048  Tc 1.2108  Tw (public/communication realm of cartographic space \(see) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD -0.0033  Tc 6.4961  Tw (Figure 4\).  These paradigms promise to allow) Tj0  Tc 0.03  Tw ( ) TjT* 0.01  Tc 4.22  Tw (cartographic researchers ) Tj108.24 0  TD 0.0038  Tc 4.1662  Tw (to connect theory to good) Tj0  Tc 0.03  Tw ( ) Tj-108.24 -11.52  TD -0.011  Tc 1.556  Tw (empirical practice, to help us to understand why some) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD -0.0127  Tc 0.5627  Tw (cartographic designs work and why some do not, and to) Tj0  Tc 0.03  Tw ( ) TjT* -0.008  Tc 3.438  Tw (form a framework for further cartographic research.) Tj0  Tc 0.03  Tw (  ) Tj0 -11.4  TD 0.0029  Tc 1.7585  Tw (These three research paradigms are presented in more) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD -0  Tc 0.0303  Tw (detail below.) Tj51.48 0  TD 0  Tc 1.95  Tw ( ) Tj-306.72 -15.84  TD ( ) Tj0 -11.52  TD ( ) Tj240.96 -11.52  TD ( ) TjETendstream
-endobj
-43 0 obj
-7441
-endobj
-25 0 obj
-<<
-/Type /Page
-/Parent 5 0 R
-/Resources <<
-/Font <<
-/F0 6 0 R 
-/F1 7 0 R 
-/F2 8 0 R 
-/F4 19 0 R 
->>
-/XObject <<
-/im2 28 0 R 
-/im3 30 0 R 
-/im4 34 0 R 
-/im5 38 0 R 
->>
-/ProcSet 2 0 R
->>
-/Contents [ 26 0 R 32 0 R 36 0 R 40 0 R 42 0 R  ]
->>
-endobj
-46 0 obj
-<<
-/Length 47 0 R
->>
-stream
-BT56.64 56.64  TD0 0 0 rg /F0 9.96  Tf0.0102  Tc 0.0198  Tw (Revista Brasileira de Ca) Tj98.52 0  TD 0.0119  Tc 0.0181  Tw (rtografia, N) Tj47.76 4.56  TD /F0 6.48  Tf0  Tc 0  Tw (o) Tj3.24 -4.56  TD /F0 9.96  Tf0.05  Tc -0.02  Tw ( 53, pp. ) Tj32.76 0  TD 0.06  Tc 0  Tw (29) Tj10.08 0  TD 0.0433  Tc (-) Tj3.36 0  TD 0.06  Tc (37) Tj10.08 0  TD 0.0325  Tc -0.0025  Tw (, dezembro 2001.) Tj69.12 0  TD 0  Tc 2.43  Tw ( ) TjET52.8 65.64 488.88 0.48 re fBT56.64 45.12  TD/F1 9.96  Tf1.95  Tw ( ) Tj171.24 717  TD 0.0215  Tc 0.0085  Tw (TABLE 1 ) Tj42.24 0  TD -0.0767  Tc 0  Tw (-) Tj3.24 0  TD 0.0048  Tc 0.0252  Tw ( RESEARCH  TOPICS) Tj93.96 0  TD 0  Tc 1.95  Tw ( ) Tj-310.68 -208.68  TD ( ) Tj0 -11.52  TD ( ) TjT* ( ) Tj0 -11.76  TD /F5 9.96  Tf0.0053  Tc 0.0247  Tw (Visual Perception) Tj73.44 0  TD 0  Tc 2.55  Tw ( ) Tj-37.44 -11.16  TD /F1 9.96  Tf-0  Tc 0.2403  Tw (Visual perception is a research paradigm that is ) Tj-36 -11.52  TD -0.0231  Tc 2.5581  Tw (focused on how humans perceive maps, that is, how) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD -0.0214  Tc 2.5447  Tw (images that come through the eye are formed in the) Tj0  Tc 0.03  Tw ( ) TjT* -0.012  Tc 0.234  Tw (brain.  Research in this paradigm springs from studies in ) TjT* -0.0303  Tc 6.7203  Tw (human neurophysiology and the eye) Tj170.28 0  TD -0.0767  Tc 0  Tw (-) Tj3.24 0  TD -0.0093  Tc 6.6393  Tw (brain visual) Tj0  Tc 0.03  Tw ( ) Tj-173.52 -11.52  TD -0.0344  Tc 0  Tw (s) Tj3.84 0  TD -0.0188  Tc 0.0488  Tw (ystem.  Topics within this paradigm include:) Tj177.36 0  TD 0  Tc 1.95  Tw ( ) Tj-142.2 -12.12  TD /F4 9.96  Tf-0.0216  Tc 0  Tw (\267) Tj4.56 0  TD 0  Tc 10.95  Tw ( ) Tj13.44 0  TD /F1 9.96  Tf-0.0419  Tc 1.2033  Tw (How the eye forms images and how they) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD 0.009  Tc 0.021  Tw (are transferred to the brain.) Tj108.48 0  TD 0  Tc 1.95  Tw ( ) Tj-126.48 -12.24  TD /F4 9.96  Tf-0.0216  Tc 0  Tw (\267) Tj4.56 0  TD 0  Tc 10.95  Tw ( ) Tj13.44 0  TD /F1 9.96  Tf-0.0195  Tc 2.4666  Tw (How the eye sees color, and what map) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD -0.0234  Tc 5.7234  Tw (design principles follow from human) Tj0  Tc 0.03  Tw ( ) TjT* 0.0251  Tc 0.0049  Tw (color perception.) Tj67.92 0  TD 0  Tc 1.95  Tw ( ) Tj-85.92 -12.12  TD /F4 9.96  Tf-0.0216  Tc 0  Tw (\267) Tj4.56 0  TD 0  Tc 10.95  Tw ( ) Tj13.44 0  TD /F1 9.96  Tf-0.0291  Tc 6.6991  Tw (The visual acuity of the eye with) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD -0.0153  Tc 0  Tw (implicati) Tj35.28 0  TD -0.0082  Tc 0.9782  Tw (ons in regard to symbol size and) Tj0  Tc 0.03  Tw ( ) Tj-35.28 -11.52  TD -0.0149  Tc 0.0449  Tw (visual discrimination.) Tj86.04 0  TD 0  Tc 1.95  Tw ( ) Tj-104.04 -12.24  TD /F4 9.96  Tf-0.0216  Tc 0  Tw (\267) Tj4.56 0  TD 0  Tc 10.95  Tw ( ) Tj13.44 0  TD /F1 9.96  Tf-0.0164  Tc 1.3904  Tw (Simultaneous contrast or how colors will) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD 0.0025  Tc 0.3075  Tw (appear different based upon differences in ) TjT* -0.002  Tc 0.032  Tw (the colors of surrounding areas on a map.) Tj165 0  TD 0  Tc 1.95  Tw ( ) Tj-183 -12.12  TD /F4 9.96  Tf-0.0216  Tc 0  Tw (\267) Tj4.56 0  TD 0  Tc 10.95  Tw ( ) Tj13.44 0  TD /F1 9.96  Tf-0.008  Tc 2.318  Tw (Gestalt grouping principles or how map) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD -0.0173  Tc 1.5113  Tw (users group symbols on a map.) Tj130.44 0  TD 0.0129  Tc 1.4571  Tw (  That is,) Tj0  Tc 0.03  Tw ( ) Tj-130.44 -11.52  TD -0.021  Tc 1.971  Tw (how map users form different groups of) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD -0.0282  Tc 4.1142  Tw (symbols and how they understand the) Tj0  Tc 0.03  Tw ( ) TjT* -0.0012  Tc 2.0712  Tw (distribution of the phenomenon depicted) Tj0  Tc 0.03  Tw ( ) Tj0 -11.4  TD -0.0147  Tc 0.0447  Tw (on the map.) Tj46.68 0  TD 0  Tc 1.95  Tw ( ) Tj-64.68 -12.24  TD /F4 9.96  Tf-0.0216  Tc 0  Tw (\267) Tj4.56 0  TD 0  Tc 10.95  Tw ( ) Tj13.44 0  TD /F1 9.96  Tf-0.0118  Tc 1.4818  Tw (Scanning.  How people use their eyes to) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD -0.0192  Tc 2.5092  Tw (scan a map scene and what implication) Tj0  Tc 0.03  Tw ( ) TjT* -0.0233  Tc 4.3733  Tw (this has for how they understand the) Tj0  Tc 0.03  Tw ( ) TjT* -0.0012  Tc 0.0312  Tw (information represented.) Tj97.92 0  TD 0  Tc 1.95  Tw ( ) Tj-115.92 -12.24  TD /F4 9.96  Tf-0.0216  Tc 0  Tw (\267) Tj4.56 0  TD 0  Tc 10.95  Tw ( ) Tj13.44 0  TD /F1 9.96  Tf-0.0143  Tc 0  Tw (Figure) Tj25.92 0  TD -0.0767  Tc (-) Tj3.24 0  TD -0.0076  Tc 1.6216  Tw (ground.  How map users separate) Tj0  Tc 0.03  Tw ( ) Tj-29.16 -11.4  TD -0.0232  Tc 8.1652  Tw (figure from ground, that is, what) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD -0.0174  Tc 4.4874  Tw (information they pay attention to and) Tj0  Tc 0.03  Tw ( ) TjT* -0.0203  Tc 0.0503  Tw (what they see as background information.) Tj165.96 0  TD 0  Tc 1.95  Tw ( ) Tj-183.96 -12.24  TD /F4 9.96  Tf-0.0216  Tc 0  Tw (\267) Tj4.56 0  TD 0  Tc 10.95  Tw ( ) Tj13.44 0  TD /F1 9.96  Tf-0.0225  Tc 6.3325  Tw (Discrimination/Selectivity.  How map) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD -0.0222  Tc 6.9522  Tw (users discriminate one symbol from) Tj0  Tc 0.03  Tw ( ) Tj0 -11.4  TD 0.0178  Tc 0  Tw (a) Tj4.44 0  TD 0.0032  Tc (nother.) Tj27.96 0  TD 0  Tc 1.95  Tw ( ) Tj-50.4 -12.24  TD /F4 9.96  Tf-0.0216  Tc 0  Tw (\267) Tj4.56 0  TD 0  Tc 10.95  Tw ( ) Tj13.44 0  TD /F1 9.96  Tf-0.0017  Tc 0  Tw (Bottom) Tj29.88 0  TD -0.0767  Tc (-) Tj3.24 0  TD -0.0015  Tc 0.0315  Tw (up versus top) Tj53.16 0  TD -0.0767  Tc 0  Tw (-) Tj3.24 0  TD -0.0093  Tc 0.0393  Tw (down processing.) Tj69.6 0  TD 0  Tc 1.95  Tw ( ) Tj-180.12 -11.52  TD -0.0017  Tc 0  Tw (Bottom) Tj29.88 0  TD -0.0767  Tc (-) Tj3.24 0  TD -0.0015  Tc 2.7915  Tw (up versus top) Tj58.68 0  TD -0.0767  Tc 0  Tw (-) Tj3.24 0  TD -0.0166  Tc 2.6866  Tw (down processing plays) Tj0  Tc 0.03  Tw ( ) Tj-131.04 -11.52  TD -0.0114  Tc 0.7854  Tw (an important role in map design since it deals with pre) Tj223.56 0  TD -0.0767  Tc 0  Tw (-) Tj-223.56 -11.52  TD 0.004  Tc 1.316  Tw (attentive processes.  Most of the topics outlined above) Tj0  Tc 0.03  Tw ( ) Tj255.24 443.4  TD 0.0045  Tc 1.1322  Tw (can, to a greater or lesser extent, result in pre) Tj189.36 0  TD -0.0767  Tc 0  Tw (-) Tj3.24 0  TD 0.0044  Tc (at) Tj7.2 0  TD -0.0159  Tc 0.0459  Tw (tentive ) Tj-199.8 -11.4  TD -0.0113  Tc 8.1013  Tw (processing in that patterns in the information) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD -0.0176  Tc 4.1105  Tw (represented in a map can influence mental images) Tj0  Tc 0.03  Tw ( ) TjT* -0.01  Tc 3.06  Tw (before the viewer's knowledge, past experiences and) Tj0  Tc 0.03  Tw ( ) TjT* -0.0099  Tc 2.7249  Tw (reason can come into play, before viewers can even) Tj0  Tc 0.03  Tw ( ) TjT* 0.0048  Tc 4.9932  Tw (think about it.  These pre) Tj124.68 0  TD -0.0767  Tc 0  Tw (-) Tj3.24 0  TD -0.0015  Tc 4.9515  Tw (attentive or bottom) Tj85.68 0  TD -0.0767  Tc 0  Tw (-) Tj3.24 0  TD 0  Tc (up) Tj9.96 0  TD 0.03  Tw ( ) Tj-226.8 -11.52  TD -0.0026  Tc 0.6026  Tw (processes can, if not taken into consideration during the) Tj0  Tc 0.03  Tw ( ) Tj0 -11.4  TD -0.0133  Tc 1.6033  Tw (design phase of map) Tj86.16 0  TD -0.0767  Tc 0  Tw (-) Tj3.24 0  TD -0.0218  Tc 1.6118  Tw (making, mislead the map user or) Tj0  Tc 0.03  Tw ( ) Tj-89.4 -11.52  TD -0.0171  Tc 2.4771  Tw (result in conflicts with pre) Tj114 0  TD -0.0767  Tc 0  Tw (-) Tj3.24 0  TD -0.0178  Tc 2.4478  Tw (existing understandings of) Tj0  Tc 0.03  Tw ( ) Tj-117.24 -11.52  TD -0.0152  Tc 0.7823  Tw (the phenomenon being mapped, and thus interfere with,) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD -0.0091  Tc 0.0391  Tw (or reduce, map functionality.) Tj115.2 0  TD 0  Tc 1.95  Tw ( ) Tj-115.2 -11.52  TD ( ) Tj0 -11.64  TD /F5 9.96  Tf-0.0261  Tc 0  Tw (Visu) Tj18.72 0  TD 0.0114  Tc 0.0186  Tw (al Cognition) Tj51.36 0  TD 0  Tc 2.55  Tw ( ) Tj-70.08 -11.28  TD /F1 9.96  Tf33.51  Tw ( ) Tj36 0  TD 0.0041  Tc 12.9559  Tw (The second research paradigm that) Tj0  Tc 0.03  Tw ( ) Tj-36 -11.52  TD -0.0124  Tc 0.4539  Tw (MacEachren outlined is visual cognition, where existing ) Tj0 -11.52  TD -0.0226  Tc 1.1086  Tw (knowledge in the mind of the map user is employed to) Tj0  Tc 0.03  Tw ( ) TjT* -0.01  Tc 0.4  Tw (interpret visual scenes through ) Tj125.76 0  TD /F0 9.96  Tf0.0248  Tc 0.2452  Tw (knowledge schemata) Tj83.4 0  TD /F1 9.96  Tf-0.015  Tc 0.165  Tw ( that ) Tj-209.16 -11.52  TD -0.0218  Tc 0.8618  Tw (act as an interface between what is seen by) Tj176.88 0  TD -0.0198  Tc 0.7698  Tw ( the eye and) Tj0  Tc 0.03  Tw ( ) Tj-176.88 -11.4  TD -0.0015  Tc 0.8606  Tw (what is understood in the brain.   There are three kinds) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD -0.0237  Tc 0.568  Tw (of knowledge schemata that most adult humans possess.) Tj0  Tc 0.03  Tw (  ) TjT* 0.0096  Tc 0.5004  Tw (The first are ) Tj52.8 0  TD /F0 9.96  Tf0.0237  Tc 0.4863  Tw (propositional schemata) Tj94.8 0  TD /F1 9.96  Tf-0.0212  Tc 0.3872  Tw (, which can be seen ) Tj-147.6 -11.52  TD -0.0083  Tc 7.0463  Tw (in geographical terms as declarative knowledge,) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD -0.006  Tc 4.236  Tw (knowledge about geographica) Tj127.8 0  TD 0.0113  Tc 4.1387  Tw (l objects, attributes of) Tj0  Tc 0.03  Tw ( ) Tj-127.8 -11.52  TD 0.0125  Tc 1.0575  Tw (those objects, and attributes of places.  The second are) Tj0  Tc 0.03  Tw ( ) Tj0 -11.4  TD /F0 9.96  Tf0.0245  Tc 2.7655  Tw (image schemata) Tj67.56 0  TD /F1 9.96  Tf-0.0085  Tc 2.7025  Tw (, which represent the organization of) Tj0  Tc 0.03  Tw ( ) Tj-67.56 -11.52  TD -0.0098  Tc 0.4341  Tw (configural knowledge about space, knowledge of spatial ) Tj0 -11.52  TD -0.0021  Tc 2.6721  Tw (relationships among entities in space.  The third are) Tj0  Tc 0.03  Tw ( ) TjT* /F0 9.96  Tf0.0188  Tc 1.2112  Tw (event schemat) Tj57.6 0  TD 0.06  Tc 0  Tw (a) Tj5.04 0  TD /F1 9.96  Tf-0.0023  Tc 1.2083  Tw (, procedural knowledge of the sequence) Tj0  Tc 0.03  Tw ( ) Tj-62.64 -11.52  TD 0.0018  Tc 0.6936  Tw (of steps needed to get from one place to another.  They) Tj0  Tc 0.03  Tw ( ) Tj0 -11.4  TD 0  Tc 2.8648  Tw (are all applicable to the understanding of maps, but) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD -0.0227  Tc 4.6127  Tw (image schemata and event schemata are the most) Tj0  Tc 0.03  Tw ( ) TjT* -0.012  Tc 2.8877  Tw (important in relationship to creating maps that work) Tj0  Tc 0.03  Tw ( ) TjT* -0.0402  Tc 0.0702  Tw (well.  ) Tj24.48 0  TD 0  Tc 1.95  Tw ( ) Tj-24.48 -11.52  TD 33.51  Tw ( ) Tj36 0  TD -0.0189  Tc 1.3346  Tw (Image schemata are the most important of the) Tj0  Tc 0.03  Tw ( ) Tj-36 -11.52  TD -0.0155  Tc 0.6455  Tw (three in the understanding of the majority of map types.) Tj0  Tc 0.03  Tw (  ) Tj0 -11.4  TD -0.0038  Tc 0.3038  Tw (Based on current psychological research, humans do not ) Tj0 -11.52  TD 0.001  Tc 3.989  Tw (actually see "pictures in the head".  But evidence) Tj0  Tc 0.03  Tw ( ) TjT* -0.0179  Tc 2.1736  Tw (suggests that we understand and store the mea) Tj198.36 0  TD -0.0478  Tc 0.0778  Tw (ningful ) Tj-314.76 567.48  TD /F3 7.2  Tf-0  Tc -0.0213  Tw (1    GIS and Digital Mapping) Tj0 -8.64  TD 0.0033  Tc -0.0201  Tw (2    Mapping on the Internet and World-Wide Web) TjT* -0.0012  Tc -0.0186  Tw (3    Computer Generalization of Spatial Data) TjT* 0.0079  Tc -0.0469  Tw (4    Cartographic Theory and Methods) TjT* 0.0015  Tc -0.0234  Tw (5    Map Design and Production) TjT* -0.0036  Tc -0.0212  Tw (6    Spatial Data Visualization) Tj0 -8.76  TD 0.0012  Tc -0.0402  Tw (7    National and Regional Atlases) Tj0 -8.64  TD 0.0042  Tc -0.033  Tw (8    Satellite Mapping) TjT* 0.0079  Tc -0.0527  Tw (9    History of Cartography and Historic Maps) TjT* 0.0035  Tc -0.0323  Tw (10  Cartography and the Environment) TjT* 0.0045  Tc -0.0693  Tw (11  Education and Training in Cartography) TjT* 0.0013  Tc -0.0261  Tw (12  Cartography and Children/Gender in Cartography) Tj-9.6 183.12  TD 1 0 0 rg /F3 9.6  Tf0.0064  Tc -0.0528  Tw (2001 International Cartographic Conference) Tj87.96 -11.52  TD 0.0089  Tc 0  Tw (Beijing) Tj-30.72 -11.52  TD -0.0016  Tc 0.0352  Tw (Preliminary Program) Tj7.56 -19.08  TD 0 0 0 rg /F3 7.2  Tf-0.0021  Tc -0.0027  Tw (373 Papers, 24 Topics) Tj-26.4 -21.6  TD 0.0066  Tc -0.0514  Tw (75 % of all papers in the top 12 topics) TjETq 173.88 562.44 230.76 197.16 re W n BT395.64 562.44  TD/F1 9.96  Tf0  Tc 1.95  Tw ( ) TjETQ endstream
-endobj
-47 0 obj
-12666
-endobj
-44 0 obj
-<<
-/Type /Page
-/Parent 5 0 R
-/Resources <<
-/Font <<
-/F0 6 0 R 
-/F1 7 0 R 
-/F3 14 0 R 
-/F4 19 0 R 
-/F5 45 0 R 
->>
-/ProcSet 2 0 R
->>
-/Contents 46 0 R
->>
-endobj
-49 0 obj
-<<
-/Length 50 0 R
->>
-stream
-BT56.64 56.64  TD0 0 0 rg /F0 9.96  Tf0.0102  Tc 0.0198  Tw (Revista Brasileira de Ca) Tj98.52 0  TD 0.0119  Tc 0.0181  Tw (rtografia, N) Tj47.76 4.56  TD /F0 6.48  Tf0  Tc 0  Tw (o) Tj3.24 -4.56  TD /F0 9.96  Tf0.05  Tc -0.02  Tw ( 53, pp. ) Tj32.76 0  TD 0.06  Tc 0  Tw (29) Tj10.08 0  TD 0.0433  Tc (-) Tj3.36 0  TD 0.06  Tc (37) Tj10.08 0  TD 0.0325  Tc -0.0025  Tw (, dezembro 2001.) Tj69.12 0  TD 0  Tc 2.43  Tw ( ) TjET52.8 65.64 488.88 0.48 re fBT56.64 45.12  TD/F1 9.96  Tf1.95  Tw ( ) Tj0 717  TD -0.0151  Tc 3.2401  Tw (parts of a visual scene using the same geometrical,) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD -0.0266  Tc 0.0566  Tw (symbolic and minimal vocabulary found in maps.  ) Tj201.96 0  TD 0  Tc 1.95  Tw ( ) Tj-201.96 -11.4  TD 33.51  Tw ( ) Tj36 0  TD -0.0183  Tc 1.5883  Tw (Embodied image schemata are some the most) Tj0  Tc 0.03  Tw ( ) Tj-36 -11.52  TD -0.0087  Tc 2.353  Tw (fundamental schemata that people possess.  They are) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD -0.0208  Tc 3.2108  Tw (schemata that come directly from human experience) Tj0  Tc 0.03  Tw ( ) TjT* -0.12  Tc 0  Tw (wi) Tj9.72 0  TD -0.0296  Tc 0.5529  Tw (th the environment.  Some of the most common types) Tj0  Tc 0.03  Tw ( ) Tj-9.72 -11.52  TD -0.0106  Tc 0.0406  Tw (of embodied image schemata are outlined below:) Tj195.6 0  TD 0  Tc 1.95  Tw ( ) Tj-195.6 -12.24  TD /F4 9.96  Tf-0.0216  Tc 0  Tw (\267) Tj4.56 0  TD 0  Tc 10.95  Tw ( ) Tj13.44 0  TD /F1 9.96  Tf-0.0047  Tc 1.3547  Tw (Container ) Tj43.08 0  TD -0.0767  Tc 0  Tw (-) Tj3.24 0  TD -0.0037  Tc 1.2697  Tw ( like a gallon of milk, or a jar of jelly,) Tj0  Tc 0.03  Tw ( ) Tj-46.32 -11.4  TD -0.014  Tc 0.569  Tw (things are held within a container.  Containers have) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD -0.0097  Tc 2.1997  Tw (definite boundaries, and all that is held within) Tj197.52 0  TD -0.0217  Tc 2.2117  Tw ( is) Tj0  Tc 0.03  Tw ( ) Tj-197.52 -11.52  TD -0.0203  Tc 3.016  Tw (usually homogenous in nature \(that is, has little) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD 0  Tc 0.0299  Tw (variation in composition, texture, etc.\).) Tj155.04 0  TD 0  Tc 1.95  Tw ( ) Tj-173.04 -12.24  TD /F4 9.96  Tf-0.0216  Tc 0  Tw (\267) Tj4.56 0  TD 0  Tc 10.95  Tw ( ) Tj13.44 0  TD /F1 9.96  Tf0.0344  Tc 0  Tw (Up) Tj12.24 0  TD -0.0767  Tc (-) Tj3.24 0  TD -0.0556  Tc 2.0056  Tw (Down ) Tj28.56 0  TD -0.0767  Tc 0  Tw (-) Tj3.24 0  TD -0.0189  Tc 1.8789  Tw ( in terms of the human body \(head to) Tj0  Tc 0.03  Tw ( ) Tj-47.28 -11.52  TD 0.0026  Tc 2.3914  Tw (foot\) or a tree \(branches at the top with a large) Tj0  Tc 0.03  Tw ( ) Tj0 -11.4  TD 0  Tc 1.2658  Tw (trunk in the middle and roots at the base\). The up) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD 0.0125  Tc 1.5775  Tw (direction ) Tj39.6 0  TD 0.0017  Tc 1.5883  Tw (tends to indicate higher, greater or more) Tj0  Tc 0.03  Tw ( ) Tj-39.6 -11.52  TD -0.0032  Tc 3.1361  Tw (and the down direction tends to indicate lower,) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD -0.0064  Tc 0.0364  Tw (smaller or less.) Tj60 0  TD 0  Tc 1.95  Tw ( ) Tj-78 -12.24  TD /F4 9.96  Tf-0.0216  Tc 0  Tw (\267) Tj4.56 0  TD 0  Tc 10.95  Tw ( ) Tj13.44 0  TD /F1 9.96  Tf0.0033  Tc 0  Tw (Front) Tj21.6 0  TD -0.0767  Tc (-) Tj3.24 0  TD 0.013  Tc 1.697  Tw (Back ) Tj24.72 0  TD -0.0767  Tc 0  Tw (-) Tj3.24 0  TD -0.009  Tc 1.6657  Tw ( can be seen in terms of the front or) Tj0  Tc 0.03  Tw ( ) Tj-52.8 -11.4  TD -0.005  Tc 0.624  Tw (back of the human body, the front or back of a car,) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD 0.0041  Tc 0.0259  Tw (or the front or back of a house.) Tj123.12 0  TD 0  Tc 1.95  Tw ( ) Tj-141.12 -12.24  TD /F4 9.96  Tf-0.0216  Tc 0  Tw (\267) Tj4.56 0  TD 0  Tc 10.95  Tw ( ) Tj13.44 0  TD /F1 9.96  Tf0.0386  Tc 0  Tw (Part) Tj16.2 0  TD -0.0767  Tc (-) Tj3.24 0  TD 0.0173  Tc 0.6127  Tw (Whole ) Tj29.76 0  TD -0.0767  Tc 0  Tw (-) Tj3.24 0  TD -0.019  Tc 0.5824  Tw ( in terms of something that is part of a) Tj0  Tc 0.03  Tw ( ) Tj-52.44 -11.52  TD -0.0153  Tc 2.7881  Tw (larger thing, which together with its other parts,) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD -0.0118  Tc 3.1885  Tw (makes up the whole.  For example, a piece of) Tj0  Tc 0.03  Tw ( ) TjT* -0.0142  Tc 0.2187  Tw (cheese was once part of a whole cheese, or a human ) Tj0 -11.4  TD -0  Tc 0.0304  Tw (leg is part of an entire body.) Tj112.2 0  TD 0  Tc 1.95  Tw ( ) Tj-130.2 -12.24  TD /F4 9.96  Tf-0.0216  Tc 0  Tw (\267) Tj4.56 0  TD 0  Tc 10.95  Tw ( ) Tj13.44 0  TD /F1 9.96  Tf-0.0536  Tc 2.3636  Tw (Link ) Tj23.4 0  TD -0.0767  Tc 0  Tw (-) Tj3.24 0  TD -0.002  Tc 2.252  Tw ( Things can be l) Tj72.6 0  TD 0.0057  Tc 2.1843  Tw (inked together to create a) Tj0  Tc 0.03  Tw ( ) Tj-99.24 -11.52  TD -0.0073  Tc 0.0373  Tw (larger structure \(like links in a chain\).) Tj150.12 0  TD 0  Tc 1.95  Tw ( ) Tj87.12 313.32  TD /F4 9.96  Tf-0.0216  Tc 0  Tw (\267) Tj4.56 0  TD 0  Tc 10.95  Tw ( ) Tj13.44 0  TD /F1 9.96  Tf-0.0056  Tc 0  Tw (Center) Tj26.52 0  TD -0.0767  Tc (-) Tj3.24 0  TD 0.0039  Tc 1.3461  Tw (Periphery ) Tj42.6 0  TD -0.0767  Tc 0  Tw (-) Tj3.24 0  TD 0.0055  Tc 1.3205  Tw ( Some objects grade in attribute) Tj0  Tc 0.03  Tw ( ) Tj-75.6 -11.52  TD -0.0082  Tc 1.3316  Tw (quality from the center to the edge.  For example,) Tj0  Tc 0.03  Tw ( ) Tj0 -11.4  TD -0.0134  Tc 1.6701  Tw (the heartwood of a tree is very different from the) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD 0.0182  Tc 0  Tw (bark.) Tj20.28 0  TD 0  Tc 1.95  Tw ( ) Tj-38.28 -12.24  TD /F4 9.96  Tf-0.0216  Tc 0  Tw (\267) Tj4.56 0  TD 0  Tc 10.95  Tw ( ) Tj13.44 0  TD /F1 9.96  Tf0.0102  Tc 0  Tw (Source) Tj27.72 0  TD -0.0767  Tc (-) Tj3.24 0  TD 0.0128  Tc (Path) Tj17.76 0  TD -0.0767  Tc (-) Tj3.24 0  TD 0.0194  Tc 1.4506  Tw (Goal ) Tj23.4 0  TD -0.0767  Tc 0  Tw (-) Tj3.24 0  TD -0.0083  Tc 1.4183  Tw ( In ) Tj16.08 0  TD -0.0234  Tc 1.3734  Tw (this case, humans travelling) Tj0  Tc 0.03  Tw ( ) Tj-94.68 -11.52  TD -0.0274  Tc 2.9374  Tw (in the environment \(say walking to school from) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD -0.0156  Tc 0.6056  Tw (home\) have a source at which the journey begins, a) Tj0  Tc 0.03  Tw ( ) TjT* -0.0104  Tc 0.0404  Tw (definite path to follow, and a goal in mind.) Tj170.28 0  TD 0  Tc 1.95  Tw ( ) Tj-188.28 -12.12  TD /F4 9.96  Tf-0.0216  Tc 0  Tw (\267) Tj4.56 0  TD 0  Tc 10.95  Tw ( ) Tj13.44 0  TD /F1 9.96  Tf0.0135  Tc 1.4565  Tw (Linear order ) Tj55.08 0  TD -0.0767  Tc 0  Tw (-) Tj3.24 0  TD -0.017  Tc 1.387  Tw ( This image schema is derived from) Tj0  Tc 0.03  Tw ( ) Tj-58.32 -11.52  TD -0.0259  Tc 1.3759  Tw (basic linear mathematics in whic) Tj135.24 0  TD -0.0268  Tc 1.3368  Tw (h a lower number) Tj0  Tc 0.03  Tw ( ) Tj-135.24 -11.52  TD -0.0129  Tc 1.4949  Tw (is followed by a higher number.  Two apples is a) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD -0.0114  Tc 1.3785  Tw (lower number than three apples, while four apples) Tj0  Tc 0.03  Tw ( ) TjT* -0.0088  Tc 0.0388  Tw (follows in the numbering order to get to five apples.) Tj207.36 0  TD 0  Tc 1.95  Tw ( ) Tj-225.36 -11.52  TD -0.008  Tc 1.433  Tw (All of these embodied image schemata are believed to) Tj0  Tc 0.03  Tw ( ) Tj0 -11.4  TD 0.0021  Tc 3.6279  Tw (be, more or less, the result of p) Tj148.56 0  TD 0.0305  Tc 0  Tw (re) Tj7.8 0  TD -0.0767  Tc (-) Tj3.24 0  TD -0.0222  Tc 3.6522  Tw (attentive mental) Tj0  Tc 0.03  Tw ( ) Tj-159.6 -11.52  TD -0.0103  Tc 2.1403  Tw (processing.  That is, they elicit mental images before) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD -0.0111  Tc 7.5325  Tw (one can bring existing knowledge to bear in) Tj0  Tc 0.03  Tw ( ) TjT* 0  Tc 1.8124  Tw (understanding a visual scene.  For cartography \(Table) Tj0  Tc 0.03  Tw ( ) TjT* -0.0069  Tc 5.814  Tw (2\), the categories defined in maps are typically) Tj0  Tc 0.03  Tw ( ) Tj0 -11.4  TD -0.0076  Tc 2.6776  Tw (understood through container schem) Tj153 0  TD 0.0096  Tc 2.6604  Tw (ata.  Hierarchical) Tj0  Tc 0.03  Tw ( ) Tj-153 -11.52  TD -0.0054  Tc 0.9954  Tw (structure in maps is understood through part) Tj181.68 0  TD -0.0767  Tc 0  Tw (-) Tj3.24 0  TD -0.0256  Tc 0.8956  Tw (whole and) Tj0  Tc 0.03  Tw ( ) Tj-184.92 -11.52  TD 0  Tw (up) Tj9.96 0  TD -0.0767  Tc (-) Tj3.24 0  TD -0.007  Tc 8.137  Tw (down schemata.  Foreground \(or figure\) ) Tj210.36 0  TD -0.0767  Tc 0  Tw (-) Tj3.24 0  TD 0  Tc 0.03  Tw ( ) Tj-226.8 -11.52  TD -0.0072  Tc 2.1772  Tw (background in maps is understood through front) Tj204.72 0  TD -0.0767  Tc 0  Tw (-) Tj3.24 0  TD 0.0089  Tc 0.0211  Tw (back ) Tj-207.96 -11.52  TD -0.0191  Tc 1.4091  Tw (embodied image schemata, while linear quantity scales) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD -0.0012  Tc 0.3672  Tw (on map legends are understood in) Tj135.96 0  TD -0.0209  Tc 0.2909  Tw ( terms of up) Tj48.48 0  TD -0.0767  Tc 0  Tw (-) Tj3.24 0  TD -0.0219  Tc 0.1719  Tw (down and ) Tj-187.68 -11.4  TD 0.0017  Tc 69.2683  Tw (linear order schemata.) Tj-255.24 -36  TD 0  Tc 1.95  Tw ( ) Tj240.96 -11.52  TD ( ) Tj-123.48 -11.4  TD 0.0215  Tc 0.0085  Tw (TABLE 2 ) Tj42.24 0  TD -0.0767  Tc 0  Tw (-) Tj3.24 0  TD 0.0031  Tc 0.0269  Tw ( EMBODIED IMAGE SCHEMATA AND MAPS) Tj201.36 0  TD 0  Tc 1.95  Tw ( ) Tj-364.32 -219.48  TD ( ) Tj0 -11.52  TD ( ) TjT* ( ) TjT* ( ) Tj36 -11.4  TD -0.0137  Tc 1.3837  Tw (Understanding of these different types of map) Tj0  Tc 0.03  Tw ( ) Tj-36 -11.52  TD -0.0263  Tc 1.8563  Tw (schemata can aid a mapmaker in making go) Tj186.48 0  TD 0.0043  Tc 1.8257  Tw (od design) Tj0  Tc 0.03  Tw ( ) Tj-186.48 -11.52  TD -0.01  Tc 2.1657  Tw (decisions.  For example, when constructing a vertical) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD -0.0082  Tc 0.1582  Tw (linear quantity scale in the map legend, one should place ) TjT* -0  Tc 2.2987  Tw (the greater or larger quantity at the top of the scale,) Tj0  Tc 0.03  Tw ( ) Tj0 -11.4  TD -0.0072  Tc 2.54  Tw (grading according to the classification scheme to the) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD -0.0106  Tc 2.8006  Tw (lowest at the bottom.  I) Tj105.6 0  TD -0.0163  Tc 2.8063  Tw (f the map designer puts the) Tj0  Tc 0.03  Tw ( ) Tj149.64 69  TD -0.008  Tc 2.8113  Tw (lowest category at the top of the vertical scale, this) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD -0.0315  Tc 2.0015  Tw (interferes with most humans' existing schemata \(being) Tj0  Tc 0.03  Tw ( ) TjT* 0.0014  Tc 0  Tw (counter) Tj29.88 0  TD -0.0767  Tc (-) Tj3.24 0  TD -0.0158  Tc 1.9658  Tw (intuitive\), and makes the legend, and thus the) Tj0  Tc 0.03  Tw ( ) Tj-33.12 -11.52  TD -0.0045  Tc 1.7145  Tw (map, harder to understand, or even results in the map) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD -0.039  Tc 1.629  Tw (viewer's c) Tj40.92 0  TD -0.0189  Tc 1.5789  Tw (omplete misunderstanding of the information) Tj0  Tc 0.03  Tw ( ) Tj-40.92 -11.4  TD 0.0021  Tc 0.0279  Tw (represented on the map.) Tj95.28 0  TD 0  Tc 1.95  Tw ( ) Tj-167.64 306.96  TD 1 0 0 rg /F3 12  Tf0.0086  Tc -0.0566  Tw (FOR MAPS) Tj-80.28 -39  TD 0 0 0 rg /F3 9.96  Tf0.0216  Tc 0  Tw (CATEGORIES) TjET1 0 0 rg 256.92 362.16 23.4 1.44 re f280.2 359.52 m 286.92 362.88 l 280.2 366.24 l 280.2 359.52 l f*256.92 317.16 23.4 1.44 re f280.2 314.52 m 286.92 317.88 l 280.2 321.24 l 280.2 314.52 l f*256.92 266.16 23.4 1.44 re f280.2 263.52 m 286.92 266.88 l 280.2 270.24 l 280.2 263.52 l f*259.92 218.16 23.4 1.44 re f283.2 215.52 m 289.92 218.88 l 283.2 222.24 l 283.2 215.52 l f*BT329.52 357.6  TD0 0 0 rg 0.0224  Tc (CONTAINER) Tj-177 -36  TD 0.0193  Tc (HIERARCHICAL) Tj8.52 -12  TD 0.0148  Tc (STRUCTURE) Tj144.48 6  TD 0.0243  Tc -0.0269  Tw (PART-WHOLE, UP-DOWN) Tj-150 -45  TD 0.0261  Tc 0  Tw (FOREGROUND-) Tj3.48 -12  TD 0.0309  Tc (BACKGROUND) Tj170.52 6  TD 0.028  Tc (FRONT-BACK) Tj-189 -45  TD 0.019  Tc -0.0216  Tw (LINEAR QUANTITY) Tj30.72 -12  TD 0.0261  Tc 0  Tw (SCALES) Tj134.28 12  TD 0.0221  Tc -0.0848  Tw (UP-DOWN, LINEAR ORDER) TjETq 127.8 203.16 329.16 207.84 re W n BT447.96 203.16  TD/F1 9.96  Tf0  Tc 1.95  Tw ( ) TjETQ endstream
-endobj
-50 0 obj
-12221
-endobj
-48 0 obj
-<<
-/Type /Page
-/Parent 5 0 R
-/Resources <<
-/Font <<
-/F0 6 0 R 
-/F1 7 0 R 
-/F3 14 0 R 
-/F4 19 0 R 
->>
-/ProcSet 2 0 R
->>
-/Contents 49 0 R
->>
-endobj
-53 0 obj
-<<
-/Length 54 0 R
->>
-stream
-BT56.64 56.64  TD0 0 0 rg /F0 9.96  Tf0.0102  Tc 0.0198  Tw (Revista Brasileira de Ca) Tj98.52 0  TD 0.0119  Tc 0.0181  Tw (rtografia, N) Tj47.76 4.56  TD /F0 6.48  Tf0  Tc 0  Tw (o) Tj3.24 -4.56  TD /F0 9.96  Tf0.05  Tc -0.02  Tw ( 53, pp. ) Tj32.76 0  TD 0.06  Tc 0  Tw (29) Tj10.08 0  TD 0.0433  Tc (-) Tj3.36 0  TD 0.06  Tc (37) Tj10.08 0  TD 0.0325  Tc -0.0025  Tw (, dezembro 2001.) Tj69.12 0  TD 0  Tc 2.43  Tw ( ) TjET52.8 65.64 488.88 0.48 re fBT56.64 45.12  TD/F1 9.96  Tf1.95  Tw ( ) Tj36 717  TD -0.0037  Tc 7.9297  Tw (The significance of these concepts for) Tj0  Tc 0.03  Tw ( ) Tj-36 -11.52  TD -0.0236  Tc 2.0186  Tw (cartography is that maps will be more effective when) Tj0  Tc 0.03  Tw ( ) Tj0 -11.4  TD -0.006  Tc 1.2703  Tw (cartographers use these schemata in the design process) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD -0.0274  Tc 4.5659  Tw (and the map user employs the same schemat) Tj207.6 0  TD 0.023  Tc 4.447  Tw (a to) Tj0  Tc 0.03  Tw ( ) Tj-207.6 -11.52  TD -0.0073  Tc 0.3646  Tw (interpret the maps.  The implication here is that the map ) Tj0 -11.52  TD 0.0028  Tc 0.8072  Tw (designer needs to provide the appropriate cues that will) Tj0  Tc 0.03  Tw ( ) TjT* -0.0124  Tc 4.8424  Tw (aid the map viewer in selecting the correct map) Tj0  Tc 0.03  Tw ( ) TjT* -0.017  Tc 0.479  Tw (schemata to apply in understanding the map.  Maps will ) Tj0 -11.4  TD -0.0122  Tc 1.1222  Tw (be more effective when cartograph) Tj142.92 0  TD -0.0226  Tc 1.0926  Tw (ic designs match the) Tj0  Tc 0.03  Tw ( ) Tj-142.92 -11.52  TD -0.0123  Tc 2.8773  Tw (schemata held by potential viewers, and are easy to) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD -0.0174  Tc 1.9074  Tw (integrate into the general map schemata held by most) Tj0  Tc 0.03  Tw ( ) TjT* 0  Tc 3.8696  Tw (people.  Since all map schemata are learned, user) Tj0  Tc 0.03  Tw ( ) TjT* -0.0276  Tc 8.1833  Tw (training in new map schemata can result in) Tj0  Tc 0.03  Tw ( ) TjT* -0.0262  Tc 0.0562  Tw (improvements in the utility and effec) Tj146.76 0  TD -0.0202  Tc 0.0502  Tw (tiveness of maps.) Tj68.64 0  TD 0  Tc 1.95  Tw ( ) Tj-215.4 -11.4  TD ( ) Tj0 -11.76  TD /F5 9.96  Tf0.0209  Tc 0  Tw (Semiotics) Tj39.48 0  TD /F1 9.96  Tf0  Tc 1.95  Tw ( ) Tj-39.48 -11.28  TD 33.51  Tw ( ) Tj36 0  TD 0  Tc 6.1256  Tw (The third research paradigm outlined by) Tj0  Tc 0.03  Tw ( ) Tj-36 -11.52  TD -0.0017  Tc 3.9574  Tw (MacEachren \(1995\) is semiotics.  Semiotics is the) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD -0.0097  Tc 5.9647  Tw (science of signs, with sign considered to be a) Tj0  Tc 0.03  Tw ( ) TjT* -0.01  Tc 3.04  Tw (relationship between an expression \(the sign) Tj191.52 0  TD -0.0767  Tc 0  Tw (-) Tj3.24 0  TD -0.0051  Tc 0.0351  Tw (vehicle\) ) Tj-194.76 -11.4  TD -0.006  Tc 1.436  Tw (and its referent \(content\) or what ) Tj141.72 0  TD -0.0021  Tc 1.3521  Tw (the expression refers) Tj0  Tc 0.03  Tw ( ) Tj-141.72 -11.52  TD -0.0133  Tc 1.03  Tw (to.  Semiotics derives from studies in linguistics, but is) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD -0.0025  Tc 2.6425  Tw (broader than spoken or written language and can be) Tj0  Tc 0.03  Tw ( ) Tj255.24 252.96  TD -0.0118  Tc 3.5968  Tw (seen as an approach to understanding all the ways) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD -0.0133  Tc 0.0433  Tw (people communicate with each other.  ) Tj153.84 0  TD 0  Tc 1.95  Tw ( ) Tj-117.84 -11.4  TD -0.0077  Tc 1.2977  Tw (For cartography, maps can be viewed ) Tj159.36 0  TD 0.0073  Tc 1.2227  Tw (as tools) Tj0  Tc 0.03  Tw ( ) Tj-195.36 -11.52  TD -0.0307  Tc 3.2767  Tw (to communicate meaning primarily through symbols.) Tj0  Tc 0.03  Tw (  ) Tj0 -11.52  TD -0.0136  Tc 0.3179  Tw (This implies that there must be a ) Tj134.28 0  TD /F0 9.96  Tf0.0339  Tc 0.2361  Tw (cartographic language) Tj92.52 0  TD /F1 9.96  Tf0  Tc 0.03  Tw ( ) Tj-226.8 -11.52  TD -0.0201  Tc 2.0901  Tw (based on symbols that provides a map with meaning.) Tj0  Tc 0.03  Tw (  ) Tj0 -11.52  TD -0.0059  Tc 1.6645  Tw (Semiotics is useful in cartographic research because it) Tj0  Tc 0.03  Tw ( ) TjT* -0.0059  Tc 4.3559  Tw (provides a conceptual framework ) Tj152.76 0  TD 0.0044  Tc 4.3456  Tw (for developing a) Tj0  Tc 0.03  Tw ( ) Tj-152.76 -11.4  TD -0.0054  Tc 1.0296  Tw (cartographic language that takes advantage of the other) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD 0.0084  Tc 4.8936  Tw (approaches discussed above, visual perception and) Tj0  Tc 0.03  Tw ( ) TjT* -0.0121  Tc 0.0421  Tw (visual cognition.) Tj66.24 0  TD 0  Tc 1.95  Tw ( ) Tj-30.24 -11.52  TD -0.0171  Tc 2.0471  Tw (The most important influence of semiotics in) Tj0  Tc 0.03  Tw ( ) Tj-36 -11.52  TD 0.0145  Tc 1.7675  Tw (cartography is Bertin's 1967\(1983\) book ) Tj173.04 0  TD /F0 9.96  Tf0.0289  Tc 1.6811  Tw (Semiology of) Tj0  Tc 0.03  Tw ( ) Tj-173.04 -11.52  TD 0.0161  Tc 0  Tw (Graphics) Tj37.2 0  TD /F1 9.96  Tf-0.0319  Tc 4.5019  Tw (.  He was) Tj50.28 0  TD 0.0068  Tc 4.3432  Tw ( the first to propose a set of) Tj0  Tc 0.03  Tw ( ) Tj-87.48 -11.4  TD -0.0124  Tc 0.6624  Tw (fundamental symbols, called visual variables, that could) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD -0.0024  Tc 0.2124  Tw (serve as the building blocks for a cartographic language.  ) TjT* -0.009  Tc 3.8962  Tw (The significance for cartography is that a semiotic) Tj0  Tc 0.03  Tw ( ) TjT* 0.011  Tc 2.4457  Tw (approach can provide a basis for the "rules" of map) Tj0  Tc 0.03  Tw ( ) TjT* -0.0567  Tc 0  Tw (symbo) Tj26.28 0  TD -0.0163  Tc 0.8177  Tw (lization with implications for map design and the) Tj0  Tc 0.03  Tw ( ) Tj-26.28 -11.52  TD -0.0105  Tc 5.5205  Tw (creation of expert computer systems that prevent) Tj0  Tc 0.03  Tw ( ) Tj0 -11.4  TD -0.0205  Tc 6.2665  Tw (mapping novices from creating misleading maps.) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD -0.0099  Tc 0.8799  Tw (Bertin's original formulation of a set of visual variables) Tj0  Tc 0.03  Tw ( ) TjT* -0.0141  Tc 16.8441  Tw (for map) Tj48 0  TD -0.0767  Tc 0  Tw (-) Tj3.24 0  TD 0.0038  Tc 16.8262  Tw (making appears in Table 3.) Tj-306.48 -11.52  TD 0  Tc 1.95  Tw ( ) Tj0 -11.52  TD ( ) Tj146.64 -11.4  TD 0.0215  Tc 0.0085  Tw (TABLE 3 ) Tj42.24 0  TD -0.0767  Tc 0  Tw (-) Tj3.24 0  TD -0.0093  Tc 0.0393  Tw ( BERTIN'S VISUAL VARIABLES) Tj143.04 0  TD 0  Tc 1.95  Tw ( ) Tj-299.16 -11.52  TD ( ) Tj180 -11.52  TD 0.03  Tw (      ) Tj15.12 0  TD -0.0193  Tc 0.0493  Tw (Level of Measurement) TjET287.76 450.12 89.88 0.48 re fBT377.64 451.68  TD0  Tc 1.95  Tw ( ) Tj-213 -11.52  TD 0.03  Tw (   ) Tj7.56 0  TD 0.0044  Tc 0.0256  Tw (Visual Variable) TjET172.2 438.6 62.88 0.48 re fBT235.08 440.16  TD0  Tc -0.93  Tw ( ) Tj1.56 0  TD 33.51  Tw ( ) Tj36 0  TD -0.0126  Tc 0.0426  Tw (Numerical   Ordinal   Nominal) Tj122.16 0  TD 0  Tc 1.95  Tw ( ) Tj-230.16 -11.52  TD 0.03  Tw (      ) Tj15.12 0  TD -0.001  Tc 0  Tw (Location) Tj35.4 0  TD 0  Tc 18.99  Tw ( ) Tj21.48 0  TD 33.51  Tw ( ) Tj36 0  TD 0.0089  Tc 0.0211  Tw (       X) Tj24.84 0  TD 0  Tc 8.67  Tw ( ) Tj11.16 0  TD 0.0089  Tc 0.0211  Tw (          X) Tj32.4 0  TD 0  Tc 1.11  Tw ( ) Tj3.6 0  TD 0.0089  Tc 0.0211  Tw (            X) Tj37.44 0  TD 0  Tc 1.95  Tw ( ) Tj-217.44 -11.52  TD 0.03  Tw (      ) Tj15.12 0  TD 0.0022  Tc 0  Tw (Size) Tj17.16 0  TD 0  Tc 1.23  Tw ( ) Tj3.72 0  TD 33.51  Tw ( ) Tj36 0  TD 0.0089  Tc 0.0211  Tw (                     X) Tj60.12 0  TD 0  Tc 9.39  Tw ( ) Tj11.88 0  TD 0.0089  Tc 0.0211  Tw (          X) Tj32.4 0  TD 0  Tc 1.95  Tw ( ) Tj-176.4 -11.4  TD 0.0144  Tc 0.0156  Tw (     \(Color\) Value) Tj68.4 0  TD 0  Tc 1.11  Tw ( ) Tj3.6 0  TD 33.51  Tw ( ) Tj36 0  TD ( ) Tj36 0  TD 0.0089  Tc 0.0211  Tw (          X) Tj32.4 0  TD 0  Tc 1.95  Tw ( ) Tj-176.4 -11.52  TD 0.0149  Tc 0.0151  Tw (     Texture) Tj43.68 0  TD 0  Tc 25.83  Tw ( ) Tj28.32 0  TD 33.51  Tw ( ) Tj36 0  TD ( ) Tj36 0  TD 0.0089  Tc 0.0211  Tw (          X) Tj32.4 0  TD 0  Tc 1.95  Tw ( ) Tj-176.4 -11.52  TD 0.0164  Tc 0.0136  Tw (     Color \(Hue\)) Tj61.2 0  TD 0  Tc 8.31  Tw ( ) Tj10.8 0  TD 33.51  Tw ( ) Tj36 0  TD ( ) Tj36 0  TD ( ) Tj36 0  TD 0.0089  Tc 0.0211  Tw (             X) Tj39.96 0  TD 0  Tc 1.95  Tw ( ) Tj-219.96 -11.52  TD -0  Tc 0.0307  Tw (     Orientation) Tj57.96 0  TD 0  Tc 11.55  Tw ( ) Tj14.04 0  TD 33.51  Tw ( ) Tj36 0  TD ( ) Tj36 0  TD 0.0089  Tc 0.0211  Tw (          X) Tj32.4 0  TD 0  Tc 1.95  Tw ( ) Tj-176.4 -11.52  TD 0.0036  Tc 0.0264  Tw (     Shape) Tj36.96 0  TD 0  Tc 32.55  Tw ( ) Tj35.04 0  TD 33.51  Tw ( ) Tj36 0  TD ( ) Tj36 0  TD ( ) Tj36 0  TD 0.0089  Tc 0.0211  Tw (             X) Tj39.96 0  TD 0  Tc 1.95  Tw ( ) Tj-291.96 -11.52  TD ( ) Tj36 -11.4  TD -0.0009  Tc 0.0309  Tw (Note:  The X marks those variables that are appropriate for each level of  measurement.) Tj349.44 0  TD 0  Tc 1.95  Tw ( ) Tj-421.44 -11.52  TD ( ) Tj0 -11.52  TD ( ) TjT* 0.0115  Tc 1.3385  Tw (It is ba) Tj29.88 0  TD -0.012  Tc 1.242  Tw (sed on the concept of levels of measurement of) Tj0  Tc 0.03  Tw ( ) Tj-29.88 -11.52  TD 0.0039  Tc 1.5461  Tw (the data depicted on the map ) Tj126.12 0  TD -0.0767  Tc 0  Tw (-) Tj3.24 0  TD -0.0084  Tc 1.4784  Tw ( numerical \(referring to) Tj0  Tc 0.03  Tw ( ) Tj-129.36 -11.4  TD -0.0085  Tc 0  Tw (interval) Tj30.36 0  TD -0.0767  Tc (-) Tj3.24 0  TD 0.0033  Tc 7.2987  Tw (ratio data levels\), ordinal, and nominal.) Tj0  Tc 0.03  Tw (  ) Tj-33.6 -11.52  TD -0.0199  Tc 3.0949  Tw (Varying symbol size, for example, can be useful in) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD 0  Tc 1.6945  Tw (depicting variation in the data depicted on the map) Tj215.52 0  TD 0.0044  Tc 1.5856  Tw ( at) Tj0  Tc 0.03  Tw ( ) Tj-215.52 -11.52  TD 0.0036  Tc 1.1814  Tw (numerical and ordinal levels, but is not appropriate for) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD 0  Tc 2.3094  Tw (depicting nominal differences in the data.  To depict) Tj0  Tc 0.03  Tw ( ) TjT* 0.0011  Tc 1.0129  Tw (variation in nominal data on a map, it is appropriate to) Tj0  Tc 0.03  Tw ( ) Tj0 -11.4  TD 0.0018  Tc 0.4082  Tw (vary only color \(color hue\) and shape.  The use of other ) Tj0 -11.52  TD -0.019  Tc 0.889  Tw (symbol types such as color ) Tj113.76 0  TD 0.0009  Tc 0.7891  Tw (value, texture or orientation) Tj0  Tc 0.03  Tw ( ) Tj-113.76 -11.52  TD -0.022  Tc 1.072  Tw (would end up misleading or confusing the map viewer.) Tj0  Tc 0.03  Tw (  ) Tj0 -11.52  TD -0.0058  Tc 1.9708  Tw (Note also that Bertin considered the viewing of these) Tj0  Tc 0.03  Tw ( ) TjT* 0.0069  Tc 0.2391  Tw (visual variables to be a pre) Tj107.88 0  TD -0.0767  Tc 0  Tw (-) Tj3.24 0  TD -0.0102  Tc 0.1362  Tw (attentive process, that is they ) Tj-111.12 -11.52  TD -0.0189  Tc 1.2832  Tw (create a mental image or communicate meaning before) Tj0  Tc 0.03  Tw ( ) Tj0 -11.4  TD -0.0578  Tc 1.1678  Tw (any i) Tj20.52 0  TD -0.026  Tc 1.046  Tw (nternal image schemata held by the map viewer is) Tj0  Tc 0.03  Tw ( ) Tj-20.52 -11.52  TD -0.0078  Tc 0.0378  Tw (brought into play.  ) Tj76.08 0  TD 0  Tc 1.95  Tw ( ) Tj-40.08 -11.52  TD -0.0144  Tc 2.3844  Tw (Following upon Bertin's original formulation,) Tj0  Tc 0.03  Tw ( ) Tj-36 -11.52  TD 0.0108  Tc 0.5792  Tw (MacEachren \(1995\) and others have added to the list of) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD -0.0106  Tc 1.2006  Tw (visual variable types that can be treated in this manner) Tj0  Tc 0.03  Tw ( ) TjT* -0.0012  Tc 3.8712  Tw (and refined their understand) Tj123.6 0  TD -0.0092  Tc 3.7892  Tw (ing.  This includes the) Tj0  Tc 0.03  Tw ( ) Tj131.64 218.52  TD -0.0047  Tc 10.2107  Tw (addition of symbol crispness, resolution and) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD -0.0069  Tc 1.2219  Tw (transparency to depict variations in the certainty of the) Tj0  Tc 0.03  Tw ( ) Tj0 -11.4  TD 0.0125  Tc 1.4725  Tw (data represented on a map, and added color saturation) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD -0.0194  Tc 4.7444  Tw (and arrangement of symbols to the list of visual) Tj0  Tc 0.03  Tw ( ) TjT* 0.0074  Tc 0  Tw (variables.) Tj38.52 0  TD 0  Tc 1.95  Tw ( ) Tj-38.52 -11.76  TD /F2 9.96  Tf2.91  Tw ( ) Tj0 -11.52  TD 0.045  Tc -0.015  Tw (5.  ) Tj12.6 0  TD 0.041  Tc -0.011  Tw (COMMENTS A) Tj69.84 0  TD 0.0039  Tc 0.0261  Tw (ND CONCLUSIONS) TjET324.48 230.88 159.84 0.96 re fBT484.32 232.92  TD0  Tc 2.91  Tw ( ) Tj-172.44 -11.28  TD /F1 9.96  Tf1.95  Tw ( ) Tj0 -11.4  TD 33.51  Tw ( ) Tj36 0  TD 0.0144  Tc 1.3596  Tw (The three approaches to cartographic research) Tj0  Tc 0.03  Tw ( ) Tj-36 -11.52  TD -0.0019  Tc 3.4669  Tw (that I have outlined above promise to energize the) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD 0.0013  Tc 1.5287  Tw (discipline, and provide a firm theoretical u) Tj178.8 0  TD -0.0124  Tc 0.0424  Tw (nderpinning ) Tj-178.8 -11.52  TD -0.0112  Tc 0.9172  Tw (to future advances in the field.  There remains much to) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD -0.0029  Tc 0.8462  Tw (be done, since research in these areas is just beginning.) Tj0  Tc 0.03  Tw (  ) TjT* 0.0057  Tc 2.0643  Tw (For example, in MacEachren's 1995 book ) Tj181.2 0  TD /F0 9.96  Tf0.0135  Tc 2.0565  Tw (How Maps) Tj0  Tc 0.03  Tw ( ) Tj-181.2 -11.4  TD -0.0233  Tc 0  Tw (Work) Tj21.48 0  TD /F1 9.96  Tf0.0018  Tc 2.3832  Tw (, one can find at least five doctoral dissertation) Tj0  Tc 0.03  Tw ( ) Tj-21.48 -11.52  TD 0.0051  Tc 0.7449  Tw (topics, 10 to 15 master's ) Tj102.48 0  TD 0.0014  Tc 0.6766  Tw (theses and 25 to 30 interesting) Tj0  Tc 0.03  Tw ( ) Tj-102.48 -11.52  TD 0.002  Tc 0.028  Tw (research projects after only a cursory reading.) Tj182.52 0  TD 0  Tc 1.95  Tw ( ) Tj-182.52 -11.52  TD 33.51  Tw ( ) Tj36 0  TD -0.002  Tc 0.332  Tw (Beyond adopting a firm theoretical background ) Tj-36 -11.52  TD -0.0013  Tc 3.2542  Tw (for future research in cartography, there are several) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD -0.0144  Tc 0.3444  Tw (problems that cartographers face which make their work ) TjETendstream
-endobj
-54 0 obj
-14128
-endobj
-51 0 obj
-<<
-/Type /Page
-/Parent 52 0 R
-/Resources <<
-/Font <<
-/F0 6 0 R 
-/F1 7 0 R 
-/F2 8 0 R 
-/F5 45 0 R 
->>
-/ProcSet 2 0 R
->>
-/Contents 53 0 R
->>
-endobj
-56 0 obj
-<<
-/Length 57 0 R
->>
-stream
-BT56.64 56.64  TD0 0 0 rg /F0 9.96  Tf0.0102  Tc 0.0198  Tw (Revista Brasileira de Ca) Tj98.52 0  TD 0.0119  Tc 0.0181  Tw (rtografia, N) Tj47.76 4.56  TD /F0 6.48  Tf0  Tc 0  Tw (o) Tj3.24 -4.56  TD /F0 9.96  Tf0.05  Tc -0.02  Tw ( 53, pp. ) Tj32.76 0  TD 0.06  Tc 0  Tw (29) Tj10.08 0  TD 0.0433  Tc (-) Tj3.36 0  TD 0.06  Tc (37) Tj10.08 0  TD 0.0325  Tc -0.0025  Tw (, dezembro 2001.) Tj69.12 0  TD 0  Tc 2.43  Tw ( ) TjET52.8 65.64 488.88 0.48 re fBT56.64 45.12  TD/F1 9.96  Tf1.95  Tw ( ) Tj0 717  TD -0.0044  Tc 3.5544  Tw (more difficult or re) Tj86.64 0  TD -0  Tc 3.5101  Tw (duce the impact of cartographic) Tj0  Tc 0.03  Tw ( ) Tj-86.64 -11.52  TD -0.0109  Tc 2.4859  Tw (research in the improvement of the maps people use) Tj0  Tc 0.03  Tw ( ) Tj0 -11.4  TD -0.0093  Tc 0.7953  Tw (every day.  Most of these problems in research seem to) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD 0.0032  Tc 0.9118  Tw (be structural to academic cartography, are based on the) Tj0  Tc 0.03  Tw ( ) TjT* -0.0101  Tc 0.5543  Tw (nature of cartographic research within the academy, and) Tj0  Tc 0.03  Tw ( ) TjT* 0.0124  Tc 0.0176  Tw (are of) Tj23.04 0  TD -0.0027  Tc 0.0327  Tw (ten due to time and resource constraints.) Tj160.8 0  TD 0  Tc 1.95  Tw ( ) Tj-183.84 -11.52  TD 33.51  Tw ( ) Tj36 0  TD -0.0032  Tc 3.6847  Tw (The first problem that I have identified in) Tj0  Tc 0.03  Tw ( ) Tj-36 -11.52  TD -0.0024  Tc 4.061  Tw (cartographic research is what I call the "honeybee) Tj0  Tc 0.03  Tw ( ) Tj0 -11.4  TD -0.0023  Tc 0.1741  Tw (effect".  A researcher works on a specific problem to the ) Tj0 -11.52  TD -0.0028  Tc 4.0995  Tw (limits of his or her ability based on resources or) Tj0  Tc 0.03  Tw ( ) TjT* -0.0077  Tc 0  Tw (individua) Tj37.56 0  TD -0.0044  Tc 1.4573  Tw (l expertise, publishes an article in a scholarly) Tj0  Tc 0.03  Tw ( ) Tj-37.56 -11.52  TD -0.0093  Tc 2.3043  Tw (journal, and then moves on to a completely different) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD -0  Tc 1.3505  Tw (topic in his/her next research project. Like a honeybee) Tj0  Tc 0.03  Tw ( ) TjT* -0.0167  Tc 2.8367  Tw (moving from flower to flower to collect nectar, this) Tj0  Tc 0.03  Tw ( ) Tj0 -11.4  TD -0.0016  Tc 1.2488  Tw (trend in research can have a definite pollina) Tj182.64 0  TD -0.0197  Tc 1.2497  Tw (ting effect,) Tj0  Tc 0.03  Tw ( ) Tj-182.64 -11.52  TD -0.0133  Tc 3.1766  Tw (but only if other scholars pick up where the initial) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD -0  Tc 3.8438  Tw (researcher left off.  This is seldom done, as each) Tj0  Tc 0.03  Tw ( ) TjT* -0.0012  Tc 2.1162  Tw (researcher has his or her own interests and priorities,) Tj0  Tc 0.03  Tw ( ) TjT* -0.005  Tc 0.251  Tw (and everyone wants to do original research.  This results ) TjT* 0.0083  Tc 1.5817  Tw (in a lot of articles appe) Tj99.12 0  TD -0.01  Tc 1.57  Tw (aring in scholarly journals that) Tj0  Tc 0.03  Tw ( ) Tj-99.12 -11.4  TD -0.0051  Tc 0.3591  Tw (mark the beginnings of good ideas, but these good ideas ) Tj0 -11.52  TD -0.0125  Tc 2.2197  Tw (are seldom followed through, and the knowledge and) Tj0  Tc 0.03  Tw ( ) TjT* -0.0134  Tc 0.6948  Tw (understanding that result from this research seldom find) Tj0  Tc 0.03  Tw ( ) TjT* -0.0144  Tc 0.0444  Tw (their way into practical map design.) Tj142.44 0  TD 0  Tc 1.95  Tw ( ) Tj-142.44 -11.52  TD 33.51  Tw ( ) Tj36 0  TD -0.0075  Tc 4.9975  Tw (Another problem that ) Tj103.08 0  TD 0.0038  Tc 4.9462  Tw (plagues cartographic) Tj0  Tc 0.03  Tw ( ) Tj-139.08 -11.4  TD 0.0015  Tc 2.1285  Tw (researchers is the issue of "little science" versus "big) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD -0.0051  Tc 0.8751  Tw (science".  Cartography seems to be a marginal research) Tj0  Tc 0.03  Tw ( ) TjT* -0.0172  Tc 0.8422  Tw (effort in most academic institutions, and all the funding) Tj0  Tc 0.03  Tw ( ) TjT* -0.0133  Tc 5.0833  Tw (seems to go to astrophysicists, nuclear physicists,) Tj0  Tc 0.03  Tw ( ) TjT* -0.0026  Tc 2.5526  Tw (medical resea) Tj57 0  TD -0.0063  Tc 2.5323  Tw (rchers, computer scientists and the like.) Tj0  Tc 0.03  Tw (  ) Tj-57 -11.52  TD -0.0046  Tc 2.0896  Tw (With all this money, researchers in "big science" can) Tj0  Tc 0.03  Tw ( ) Tj0 -11.4  TD 0  Tc 0.2453  Tw (gather into large groups and work on major projects that ) Tj0 -11.52  TD -0.0144  Tc 3.1344  Tw (get tangible results which are relevant to society in) Tj0  Tc 0.03  Tw ( ) TjT* -0.0097  Tc 1.3597  Tw (relatively short periods of time.  Advances in t) Tj195.48 0  TD -0.0084  Tc 1.2384  Tw (he field) Tj0  Tc 0.03  Tw ( ) Tj-195.48 -11.52  TD -0.01  Tc 2.86  Tw (come rapidly, and the migration of pure theory into) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD -0.0166  Tc 0.2599  Tw (technology happens relatively quickly.  Except for a few ) TjT* 0.0031  Tc 9.2669  Tw (major centers for cartographic research, most) Tj0  Tc 0.03  Tw ( ) Tj0 -11.4  TD -0.0034  Tc 2.6134  Tw (cartographers work alone in their departments.  It is) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD 0.0064  Tc 3.3836  Tw (difficult to do "big science" and get ) Tj167.88 0  TD 0.0056  Tc 3.2644  Tw (large research) Tj0  Tc 0.03  Tw ( ) Tj-167.88 -11.52  TD -0.0043  Tc 0.6877  Tw (grants, and thus we are limited to doing "little science",) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD -0.0148  Tc 1.0648  Tw (working on small projects that get tangible results only) Tj0  Tc 0.03  Tw ( ) TjT* -0.0257  Tc 3.6957  Tw (in the long term.  Advances come slowly and the) Tj0  Tc 0.03  Tw ( ) Tj0 -11.4  TD -0.0158  Tc 1.4172  Tw (migration of pure theory into technology happens only) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD -0.0062  Tc 0  Tw (occasionally.) Tj52.2 0  TD 0  Tc 1.95  Tw ( ) Tj-52.2 -11.52  TD 33.51  Tw ( ) Tj36 0  TD -0.0098  Tc 3.1598  Tw (One of t) Tj38.88 0  TD -0.0059  Tc 3.0359  Tw (he solutions to this problem is for) Tj0  Tc 0.03  Tw ( ) Tj-74.88 -11.52  TD -0  Tc 11.6701  Tw (cartographers to become more involved in) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD -0.0095  Tc 3.5195  Tw (multidisciplinary projects.  Working with colleagues) Tj0  Tc 0.03  Tw ( ) TjT* -0.0162  Tc 0.8348  Tw (within their academic department, or with colleagues in) Tj0  Tc 0.03  Tw ( ) Tj0 -11.4  TD 0.0023  Tc 3.0757  Tw (other departments, advances in cartographic research) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD -0.0255  Tc 2.2455  Tw (can be made much ) Tj85.44 0  TD -0.0163  Tc 2.2063  Tw (more rapidly than working alone,) Tj0  Tc 0.03  Tw ( ) Tj-85.44 -11.52  TD 0.0115  Tc 1.5335  Tw (and cartographers can participate in "big science" at a) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD -0.0103  Tc 0.0403  Tw (higher level than they do at present.) Tj142.32 0  TD 0  Tc 1.95  Tw ( ) Tj-142.32 -11.52  TD 33.51  Tw ( ) Tj36 0  TD 0  Tc 3.0296  Tw (Another problem in cartographic research is) Tj0  Tc 0.03  Tw ( ) Tj-36 -11.52  TD 0.0112  Tc 2.8588  Tw (the issue of "practical" versus "theoretical" research.) Tj0  Tc 0.03  Tw (  ) Tj0 -11.4  TD -0.0125  Tc 0.5225  Tw (Since it is difficult to ge) Tj98.28 0  TD -0.0055  Tc 0.4127  Tw (t funding for pure research, it is ) Tj-98.28 -11.52  TD 0.0022  Tc 1.7828  Tw (often necessary for cartographers to adopt the goal of) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD -0.0049  Tc 5.1264  Tw (producing some sort of useful application as the) Tj0  Tc 0.03  Tw ( ) TjT* -0.0097  Tc 2.453  Tw (culmination of their research effort.  We all want to) Tj0  Tc 0.03  Tw ( ) TjT* -0.0134  Tc 2.1634  Tw (make maps work better, and are impatient to use the) Tj0  Tc 0.03  Tw ( ) TjT* -0.0221  Tc 1.6121  Tw (high powere) Tj50.88 0  TD -0.0064  Tc 1.5164  Tw (d computer technology that is available to) Tj0  Tc 0.03  Tw ( ) Tj204.36 678.48  TD -0.016  Tc 1.2594  Tw (us to make that happen quickly.  This tendency results) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD -0.0051  Tc 0.3418  Tw (in the creation of new types of cartographic applications ) Tj0 -11.4  TD -0.0027  Tc 0.6027  Tw (based upon well established design practices, and in the) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD -0.0066  Tc 2.6286  Tw (absence of any strong theoretical underpinn) Tj186.84 0  TD -0.0398  Tc 2.5898  Tw (ings.  As) Tj0  Tc 0.03  Tw ( ) Tj-186.84 -11.52  TD -0.01  Tc 1.2572  Tw (highlighted above, we are just beginning to understand) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD -0.0556  Tc 0.4456  Tw (how the human eye) Tj78.12 0  TD -0.0767  Tc 0  Tw (-) Tj3.24 0  TD -0.0176  Tc 0.3276  Tw (brain system operates to make maps ) Tj-81.36 -11.52  TD -0.0101  Tc 0.8037  Tw (useful.  We need to step back from our love affair with) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD -0.0224  Tc 2.9924  Tw (technology, and start working out some fundamental) Tj0  Tc 0.03  Tw ( ) Tj0 -11.4  TD -0.0184  Tc 0.6484  Tw (theories of map functionality t) Tj122.64 0  TD -0.0183  Tc 0.6243  Tw (hat will allow us to better) Tj0  Tc 0.03  Tw ( ) Tj-122.64 -11.52  TD -0.0237  Tc 0.7537  Tw (understand why those new computer applications which) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD -0.0277  Tc 0.8868  Tw (do not work well fail, and why those that do work well) Tj0  Tc 0.03  Tw ( ) TjT* 0.0083  Tc 0  Tw (succeed.) Tj34.08 0  TD 0  Tc 1.95  Tw ( ) Tj-34.08 -11.52  TD 33.51  Tw ( ) Tj36 0  TD -0.0047  Tc 3.3775  Tw (The final problem that I have identified in) Tj0  Tc 0.03  Tw ( ) Tj-36 -11.52  TD -0.0029  Tc 3.8557  Tw (cartographic research is the absence of useful user) Tj0  Tc 0.03  Tw ( ) Tj0 -11.4  TD -0.0097  Tc 2.0797  Tw (testing.  In r) Tj54.24 0  TD -0  Tc 1.9987  Tw (esearch article after research article, new) Tj0  Tc 0.03  Tw ( ) Tj-54.24 -11.52  TD 0.0072  Tc 1.0308  Tw (cartographic techniques are proposed and programmed,) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD 0.0061  Tc 6.4079  Tw (and prototype applications or demonstrations are) Tj0  Tc 0.03  Tw ( ) TjT* -0.0083  Tc 0.8483  Tw (produced, but seldom have I seen these new techniques) Tj0  Tc 0.03  Tw ( ) TjT* -0.0035  Tc 6.6135  Tw (or applications tested with potential map users.) Tj0  Tc 0.03  Tw (  ) TjT* 0.0287  Tc 0  Tw (Approp) Tj30.6 0  TD -0.0109  Tc 4.3809  Tw (riate user testing should be integrated fully) Tj0  Tc 0.03  Tw ( ) Tj-30.6 -11.4  TD -0.0067  Tc 0.3639  Tw (within each and every research project.  It is not enough ) Tj0 -11.52  TD -0.0181  Tc 0.8131  Tw (to test the new technique or application informally with) Tj0  Tc 0.03  Tw ( ) TjT* -0.0069  Tc 3.8426  Tw (a few colleagues or graduate students, because the) Tj0  Tc 0.03  Tw ( ) TjT* -0.0198  Tc 1.8198  Tw (researcher will not know whether his or her ) Tj189.6 0  TD -0.0267  Tc 1.7367  Tw (new idea) Tj0  Tc 0.03  Tw ( ) Tj-189.6 -11.52  TD -0.029  Tc 0.059  Tw (actually works.) Tj60.48 0  TD 0  Tc 1.95  Tw ( ) Tj-60.48 -11.4  TD 33.51  Tw ( ) Tj36 0  TD -0.0197  Tc 3.9137  Tw (In summary, great advances in cartography) Tj0  Tc 0.03  Tw ( ) Tj-36 -11.52  TD -0.0205  Tc 0.8796  Tw (have been made over the last ten years in terms of new) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD 0.0029  Tc 2.3671  Tw (cartographic applications in visualization, 3) Tj183.6 0  TD -0.0767  Tc 0  Tw (-) Tj3.24 0  TD 0.0023  Tc 2.3077  Tw (D, digital) Tj0  Tc 0.03  Tw ( ) Tj-186.84 -11.52  TD -0.0296  Tc 2.8539  Tw (cartography and with new beginnings now in virtual) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD -0.0181  Tc 4.0081  Tw (reality.  Many of these a) Tj116.4 0  TD -0.0097  Tc 3.9597  Tw (dvances have been made) Tj0  Tc 0.03  Tw ( ) Tj-116.4 -11.52  TD -0.0286  Tc 3.1386  Tw (without user testing ) Tj89.88 0  TD -0.0767  Tc 0  Tw (-) Tj3.24 0  TD -0.0338  Tc 3.0638  Tw ( we do not know if the maps) Tj0  Tc 0.03  Tw ( ) Tj-93.12 -11.4  TD -0.0114  Tc 1.0764  Tw (produced actually work.  Many of these advances have) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD -0.0132  Tc 0.7632  Tw (been made based on what modern computer technology) Tj0  Tc 0.03  Tw ( ) TjT* -0  Tc 2.057  Tw (allows us to do, rather than based upon good theory.) Tj0  Tc 0.03  Tw (  ) TjT* 0.0037  Tc 8.3063  Tw (The research paradigms ou) Tj132.6 0  TD -0.0021  Tc 8.2521  Tw (tlined above, visual) Tj0  Tc 0.03  Tw ( ) Tj-132.6 -11.52  TD -0.0028  Tc 1.3185  Tw (perception, visual cognition, and semiotics  promise to) Tj0  Tc 0.03  Tw ( ) Tj0 -11.52  TD -0.0218  Tc 2.3051  Tw (fill this theoretical vacuum and will help us to make) Tj0  Tc 0.03  Tw ( ) Tj0 -11.4  TD -0.0128  Tc 0.0428  Tw (maps that work better.) Tj88.92 0  TD 0  Tc 1.95  Tw ( ) Tj-88.92 -11.52  TD ( ) Tj0 -11.76  TD /F2 9.96  Tf0.045  Tc -0.015  Tw (6.  ) Tj12.6 0  TD -0.0009  Tc 0.0309  Tw (BIBLIOGRAPHIC REFERENCES) TjET324.48 311.4 151.92 0.96 re fBT476.4 313.44  TD0  Tc 2.91  Tw ( ) Tj-164.52 -11.52  TD ( ) Tj0 -11.28  TD /F1 9.96  Tf0.0467  Tc -0.0167  Tw (BERTIN, J.  ) Tj52.8 0  TD /F2 9.96  Tf-0  Tc 0.0301  Tw (Semiology of Graphics:  Diagrams, ) Tj-52.8 -11.4  TD 0.0262  Tc 0.0038  Tw (Networks, Maps) Tj70.08 0  TD /F1 9.96  Tf0.0133  Tc 0.0167  Tw (.  Madison,) Tj45 0  TD -0.0104  Tc 0.0404  Tw ( WI, University of ) Tj-115.08 -11.52  TD 0.0176  Tc 0.0124  Tw (Wisconsin Press, 1983.  \(French edition, 1967\).) Tj190.68 0  TD 0  Tc 1.95  Tw ( ) Tj-190.68 -11.52  TD ( ) Tj0 -11.52  TD -0.001  Tc 0.031  Tw (DIBIASE, D.  Visualization in the Earth Sciences.  ) Tj0 -11.76  TD /F2 9.96  Tf0.0167  Tc 0.0133  Tw (Earth and Mineral Sciences, Bulletin of the College ) Tj0 -11.52  TD 0.0186  Tc 0.0114  Tw (of Earth and Mineral Sciences, Pennsylvania State ) Tj0 -11.16  TD 0.0138  Tc 0  Tw (University) Tj44.4 0  TD /F1 9.96  Tf0.032  Tc -0.002  Tw (, v. 59, n. 2, pp. 13) Tj75.36 0  TD -0.0767  Tc 0  Tw (-) Tj3.24 0  TD 0.0525  Tc -0.0225  Tw (18, 1990.) Tj37.8 0  TD 0  Tc 1.95  Tw ( ) Tj-160.8 -11.52  TD ( ) Tj0 -11.52  TD -0.0157  Tc 0.0457  Tw (MACEACHREN, A. M.  ) Tj103.08 0  TD /F2 9.96  Tf0.0099  Tc 0.0201  Tw (Visualization Quality and ) Tj-103.08 -11.52  TD 0.0191  Tc 0.0109  Tw (the Representation of Uncertainty.  ) Tj152.88 0  TD /F1 9.96  Tf0.0258  Tc 0.0042  Tw (Orono, ME, ) Tj-152.88 -11.52  TD -0.0013  Tc 0.0313  Tw (National Center for Geographic Information and ) Tj0 -11.52  TD -0.0086  Tc 0.0386  Tw (Analysis, 1991.) Tj62.16 0  TD 0  Tc 1.95  Tw ( ) Tj-26.16 -11.4  TD ( ) Tj-36 -11.52  TD -0.0135  Tc 0.0435  Tw (MACEACHREN, A. M.  Visualizing Uncertain ) Tj0 -11.52  TD -0.0124  Tc 0.0424  Tw (Information.  ) Tj54.96 0  TD /F2 9.96  Tf0.0251  Tc 0  Tw (Cartographic) Tj57.84 0  TD 0  Tc 2.91  Tw ( ) Tj-112.8 -11.52  TD 0.0109  Tc 0  Tw (Perspectives) Tj52.68 0  TD /F1 9.96  Tf0.0382  Tc -0.0082  Tw (, n. 13, pp. 10) Tj55.32 0  TD -0.0767  Tc 0  Tw (-) Tj3.24 0  TD 0.0525  Tc -0.0225  Tw (19, 1992.) Tj37.8 0  TD 0  Tc 1.95  Tw ( ) Tj-149.04 -11.52  TD ( ) TjETendstream
-endobj
-57 0 obj
-14877
-endobj
-55 0 obj
-<<
-/Type /Page
-/Parent 52 0 R
-/Resources <<
-/Font <<
-/F0 6 0 R 
-/F1 7 0 R 
-/F2 8 0 R 
->>
-/ProcSet 2 0 R
->>
-/Contents 56 0 R
->>
-endobj
-59 0 obj
-<<
-/Length 60 0 R
->>
-stream
-BT56.64 56.64  TD0 0 0 rg /F0 9.96  Tf0.0102  Tc 0.0198  Tw (Revista Brasileira de Ca) Tj98.52 0  TD 0.0119  Tc 0.0181  Tw (rtografia, N) Tj47.76 4.56  TD /F0 6.48  Tf0  Tc 0  Tw (o) Tj3.24 -4.56  TD /F0 9.96  Tf0.05  Tc -0.02  Tw ( 53, pp. ) Tj32.76 0  TD 0.06  Tc 0  Tw (29) Tj10.08 0  TD 0.0433  Tc (-) Tj3.36 0  TD 0.06  Tc (37) Tj10.08 0  TD 0.0325  Tc -0.0025  Tw (, dezembro 2001.) Tj69.12 0  TD 0  Tc 2.43  Tw ( ) TjET52.8 65.64 488.88 0.48 re fBT56.64 45.12  TD/F1 9.96  Tf1.95  Tw ( ) Tj0 717  TD -0.0157  Tc 0.0457  Tw (MACEACHREN, A. M.  ) Tj103.08 0  TD /F2 9.96  Tf0.0032  Tc 0.0268  Tw (Some Truth With Maps:  A ) Tj-103.08 -11.52  TD -0.0029  Tc 0.0329  Tw (Primer on Design and Symbolization.  ) Tj164.16 0  TD /F1 9.96  Tf-0.0097  Tc 0.0397  Tw (Washington, ) Tj-164.16 -11.4  TD -0.0072  Tc 0.0372  Tw (DC, Association of American Geographers,) Tj174.12 0  TD 0  Tc 1.95  Tw ( ) Tj-174.12 -11.52  TD 33.51  Tw ( ) Tj36 0  TD 0.054  Tc 0  Tw (1994.) Tj22.68 0  TD 0  Tc 1.95  Tw ( ) Tj-58.68 -11.52  TD ( ) Tj0 -11.52  TD -0.0157  Tc 0.0457  Tw (MACEACHREN, A. M.  ) Tj103.08 0  TD /F2 9.96  Tf0.0357  Tc -0.0057  Tw (How Maps Work:  ) Tj-103.08 -11.52  TD 0.0112  Tc 0.0188  Tw (Representation, Visualization, and Desi) Tj167.88 0  TD 0.0241  Tc 0.0059  Tw (gn.  ) Tj18.12 0  TD /F1 9.96  Tf-0.0682  Tc 0.0982  Tw (New ) Tj-186 -11.52  TD 0.0225  Tc 0.0075  Tw (York, The Guilford Press, 1995.) Tj129.36 0  TD 0  Tc 1.95  Tw ( ) Tj125.88 80.52  TD -0.0038  Tc 0.0338  Tw (MACEACHREN, A. M. and  M. Kraak.  Research ) Tj0 -11.52  TD -0.011  Tc 0.041  Tw (Challenges in Geovisualization.  ) Tj131.76 0  TD /F2 9.96  Tf0.0269  Tc 0.0031  Tw (Cartography and ) Tj-131.76 -11.4  TD 0.0034  Tc 0.0266  Tw (Geographic Information Science) Tj138.48 0  TD /F1 9.96  Tf0.0023  Tc 0.0277  Tw (, vol. 28, n. 1, whole ) Tj-138.48 -11.52  TD 0.0164  Tc 0.0136  Tw (issue, 2001.) Tj47.52 0  TD 0  Tc 1.95  Tw ( ) Tj-47.52 -11.52  TD ( ) Tj0 -11.52  TD 0.0063  Tc 0.2637  Tw (ROBINSON, A. H.  ) Tj83.88 0  TD /F2 9.96  Tf0.0167  Tc 0.2533  Tw (The Look of Maps.  ) Tj87.36 0  TD /F1 9.96  Tf0.0219  Tc 0.1281  Tw (Madison, WI, ) Tj-171.24 -11.52  TD -0.0133  Tc 0  Tw (Univers) Tj31.44 0  TD 0.0052  Tc 19.6148  Tw (ity of Wisconsin Press, 1952.) Tj-286.68 -22.92  TD 0  Tc 1.95  Tw ( ) Tj0 -11.52  TD ( ) TjT* ( ) TjT* ( ) TjT* ( ) TjT* ( ) Tj0 -11.4  TD ( ) Tj0 -11.52  TD ( ) TjT* ( ) TjT* ( ) TjT* ( ) TjT* ( ) Tj0 -11.4  TD ( ) Tj0 -11.52  TD ( ) TjT* ( ) TjT* ( ) TjT* ( ) Tj0 -11.4  TD ( ) Tj0 -11.52  TD ( ) TjT* ( ) TjT* ( ) TjT* ( ) TjT* ( ) Tj0 -11.4  TD ( ) Tj0 -11.52  TD ( ) TjETendstream
-endobj
-60 0 obj
-2681
-endobj
-58 0 obj
-<<
-/Type /Page
-/Parent 52 0 R
-/Resources <<
-/Font <<
-/F0 6 0 R 
-/F1 7 0 R 
-/F2 8 0 R 
->>
-/ProcSet 2 0 R
->>
-/Contents 59 0 R
->>
-endobj
-6 0 obj
-<<
-/Type /Font
-/Subtype /TrueType
-/Name /F0
-/BaseFont /TimesNewRoman,Italic
-/Encoding /WinAnsiEncoding
->>
-endobj
-7 0 obj
-<<
-/Type /Font
-/Subtype /TrueType
-/Name /F1
-/BaseFont /TimesNewRoman
-/Encoding /WinAnsiEncoding
->>
-endobj
-8 0 obj
-<<
-/Type /Font
-/Subtype /TrueType
-/Name /F2
-/BaseFont /TimesNewRoman,Bold
-/Encoding /WinAnsiEncoding
->>
-endobj
-14 0 obj
-<<
-/Type /Font
-/Subtype /TrueType
-/Name /F3
-/BaseFont /ComicSansMS,Bold
-/FirstChar 31
-/LastChar 255
-/Widths [ 500 434 238 438 843 693 820 654 434 366 366 530 610 434 610 434 
-512 610 610 610 610 610 610 610 610 610 610 434 434 610 610 610 
-566 931 731 630 619 722 625 607 680 768 546 665 611 551 883 813 
-798 533 876 640 693 696 737 675 1040 724 635 693 376 550 376 610 
-627 556 556 593 514 587 559 508 531 578 280 403 540 274 777 523 
-526 535 520 480 487 471 520 486 684 590 553 538 366 421 366 610 
-500 500 500 434 589 430 675 610 597 556 1241 693 610 1194 500 500 
-500 500 226 226 434 434 610 441 883 556 883 507 610 897 500 500 
-635 476 238 610 793 610 610 421 635 556 795 610 639 610 610 795 
-627 610 610 610 610 556 610 761 610 556 610 610 639 610 610 610 
-566 731 731 731 731 731 731 1087 619 625 625 625 625 546 546 546 
-546 722 813 798 798 798 798 798 610 798 737 737 737 737 635 521 
-534 556 556 556 556 556 556 912 514 559 559 559 559 280 280 280 
-280 509 523 526 526 526 526 526 610 533 520 520 520 520 553 535 
-553 ]
-/Encoding /WinAnsiEncoding
-/FontDescriptor 15 0 R
->>
-endobj
-15 0 obj
-<<
-/Type /FontDescriptor
-/FontName /ComicSansMS,Bold
-/Flags 16416
-/FontBBox [ -250 -280 1488 1100 ]
-/MissingWidth 500
-/StemV 159
-/StemH 159
-/ItalicAngle 0
-/CapHeight 1100
-/XHeight 770
-/Ascent 1100
-/Descent 280
-/Leading 380
-/MaxWidth 1240
-/AvgWidth 500
->>
-endobj
-19 0 obj
-<<
-/Type /Font
-/Subtype /TrueType
-/Name /F4
-/BaseFont /Symbol
-/FirstChar 31
-/LastChar 255
-/Widths [ 600 250 333 713 500 549 833 778 439 333 333 500 549 250 549 250 
-278 500 500 500 500 500 500 500 500 500 500 278 278 549 549 549 
-444 549 722 667 722 612 611 763 603 722 333 631 722 686 889 722 
-722 768 741 556 592 611 690 439 768 645 795 611 333 863 333 658 
-500 500 631 549 549 494 439 521 411 603 329 603 549 549 576 521 
-549 549 521 549 603 439 576 713 686 493 686 494 480 200 480 549 
-600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 
-600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 
-600 600 620 247 549 167 713 500 753 753 753 753 1042 987 603 987 
-603 400 549 411 549 549 713 494 460 549 549 549 549 1000 603 1000 
-658 823 686 795 987 768 768 823 768 768 713 713 713 713 713 713 
-713 768 713 790 790 890 823 549 250 713 603 603 1042 987 603 987 
-603 494 329 790 790 786 713 384 384 384 384 384 384 494 494 494 
-494 600 329 274 686 686 686 384 384 384 384 384 384 494 494 494 
-600 ]
-/FontDescriptor 20 0 R
->>
-endobj
-20 0 obj
-<<
-/Type /FontDescriptor
-/FontName /Symbol
-/Flags 6
-/FontBBox [ -250 -217 1258 1000 ]
-/MissingWidth 602
-/StemV 110
-/StemH 110
-/ItalicAngle 0
-/CapHeight 1000
-/XHeight 700
-/Ascent 1000
-/Descent 217
-/Leading 217
-/MaxWidth 1048
-/AvgWidth 602
->>
-endobj
-45 0 obj
-<<
-/Type /Font
-/Subtype /TrueType
-/Name /F5
-/BaseFont /TimesNewRoman,BoldItalic
-/Encoding /WinAnsiEncoding
->>
-endobj
-2 0 obj
-[ /PDF /Text /ImageC  ]
-endobj
-5 0 obj
-<<
-/Kids [4 0 R 11 0 R 16 0 R 25 0 R 44 0 R 48 0 R ]
-/Count 6
-/Type /Pages
-/Parent 61 0 R
->>
-endobj
-52 0 obj
-<<
-/Kids [51 0 R 55 0 R 58 0 R ]
-/Count 3
-/Type /Pages
-/Parent 61 0 R
->>
-endobj
-61 0 obj
-<<
-/Kids [5 0 R 52 0 R ]
-/Count 9
-/Type /Pages
-/MediaBox [ 0 0 595 842 ]
->>
-endobj
-1 0 obj
-<<
-/Creator (Microsoft Word )
-/CreationDate (Monday, 9 9e December 09:39)
-/Title (53_03.PDF)
-/Author (Unknown)
-/Producer (Acrobat PDFWriter 3.02 for Windows)
-/Keywords ()
-/Subject ()
->>
-endobj
-3 0 obj
-<<
-/Pages 61 0 R
-/Type /Catalog
-/DefaultGray 62 0 R
-/DefaultRGB  63 0 R
->>
-endobj
-62 0 obj
-[/CalGray
-<<
-/WhitePoint [0.9643 1 0.8251 ]
-/Gamma 1.9 
->>
-]
-endobj
-63 0 obj
-[/CalRGB
-<<
-/WhitePoint [0.9643 1 0.8251 ]
-/Gamma [1.9 1.9 1.9 ]
-/Matrix [0.511 0.2903 0.0273 0.3264 0.6499 0.1279 0.1268 0.0598 0.6699 ]
->>
-]
-endobj
-xref
-0 64
-0000000000 65535 f
-0000169462 00000 n
-0000169107 00000 n
-0000169674 00000 n
-0000012142 00000 n
-0000169149 00000 n
-0000165811 00000 n
-0000165941 00000 n
-0000166064 00000 n
-0000000021 00000 n
-0000012117 00000 n
-0000032315 00000 n
-0000012297 00000 n
-0000032290 00000 n
-0000166192 00000 n
-0000167318 00000 n
-0000069002 00000 n
-0000032485 00000 n
-0000039993 00000 n
-0000167608 00000 n
-0000168696 00000 n
-0000040017 00000 n
-0000068553 00000 n
-0000068578 00000 n
-0000068979 00000 n
-0000107691 00000 n
-0000069215 00000 n
-0000071067 00000 n
-0000071091 00000 n
-0000072008 00000 n
-0000072162 00000 n
-0000073009 00000 n
-0000072031 00000 n
-0000072140 00000 n
-0000073165 00000 n
-0000099033 00000 n
-0000073032 00000 n
-0000073143 00000 n
-0000099186 00000 n
-0000100142 00000 n
-0000099058 00000 n
-0000099164 00000 n
-0000100165 00000 n
-0000107667 00000 n
-0000120719 00000 n
-0000168972 00000 n
-0000107967 00000 n
-0000120694 00000 n
-0000133210 00000 n
-0000120903 00000 n
-0000133185 00000 n
-0000147595 00000 n
-0000169265 00000 n
-0000133381 00000 n
-0000147570 00000 n
-0000162729 00000 n
-0000147766 00000 n
-0000162704 00000 n
-0000165653 00000 n
-0000162887 00000 n
-0000165629 00000 n
-0000169362 00000 n
-0000169772 00000 n
-0000169857 00000 n
-trailer
-<<
-/Size 64
-/Root 3 0 R
-/Info 1 0 R
-/ID [<c2e5197ee28ad31e813fddecafad70fc><c2e5197ee28ad31e813fddecafad70fc>]
->>
-startxref
-170025
-%%EOF
